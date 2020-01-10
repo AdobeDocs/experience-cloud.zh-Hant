@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: b1221def9e9ea3459c49d0a3220c770f51de01c6
+source-git-commit: 9f8c85d9589d67ad7e0e7adf627a8feca7beba68
 
 ---
 
@@ -254,7 +254,7 @@ source-git-commit: b1221def9e9ea3459c49d0a3220c770f51de01c6
       <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> ECID服務指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile Services v4 SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li><li></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM指南</a></li>
     </ul>
   </td>
