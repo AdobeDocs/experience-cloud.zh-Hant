@@ -2,14 +2,16 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
+source-git-commit: e3e9c587efc6228bc1465fca4141ce246a5cb310
 
 ---
 
 
 # Adobe Experience cloud檔案
 
-本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
+![橫幅](/help/assets/experience-cloud-banner-notext.png)
+
+本頁包含Adobe Experience cloud使用指南和教學課程的完整清單。
 
 ## ![圖示發行說明](/help/assets/experience-cloud.png) （英文）
 
@@ -256,6 +258,7 @@ source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> 定位服務</a></li>
     </ul>
   </td>
   <td>
