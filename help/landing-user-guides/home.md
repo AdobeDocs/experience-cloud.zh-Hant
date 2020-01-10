@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 9f8c85d9589d67ad7e0e7adf627a8feca7beba68
+source-git-commit: 0ead691624a9a9e2e4f42333ac3ed5bb9f11ef68
 
 ---
 
@@ -298,18 +298,21 @@ source-git-commit: 9f8c85d9589d67ad7e0e7adf627a8feca7beba68
 <table>
 <thead>
   <tr>
-    <th>使用手冊</th>
-    <th></th>
+    <th>使用者指引</th>
+    <th>教學課程</th>
   </tr>
 </thead>
 <tbody>
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 歷程協調說明</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> 歷程協調使用指南</a></li>
     </ul>
   </td>
   <td>
+    <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> 歷程協調教學課程</a></li>
+    </ul>
   </td>
 </tr>
 </tbody>
