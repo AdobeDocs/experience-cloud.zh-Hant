@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
+source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
 
 ---
 
@@ -215,7 +215,8 @@ source-git-commit: bea2fb5fe61711dcb8902569f4dc15dfb5546542
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> 核心服務介面</a></li>
       <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> 管理控制台</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> ECID服務指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile Services v4 SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile services指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM指南</a></li>
