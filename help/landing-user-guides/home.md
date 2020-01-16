@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
+source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
 
 ---
 
@@ -75,7 +75,7 @@ source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
 <thead>
   <tr>
     <th>使用者指引</th>
-    <th>教學課程</th>
+    <th>教學課程與開發</th>
   </tr>
 </thead>
 <tbody>
@@ -88,6 +88,11 @@ source-git-commit: 7802a6b11d6b358d8106f004212709b497c9ab2b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target教學課程</a></li>
+      <li><a href="https://developers.adobetarget.com/api/delivery-api/"> 目標伺服器端API</a></li>
+      <li><a href="https://github.com/adobe/target-nodejs-sdk"> 目標NodeJS SDK</a></li>
+      <li><a href="https://github.com/adobe/target-java-sdk"> 目標Java SDK</a></li>
+      <li><a href="https://developers.adobetarget.com/api/recommendations/"> Target Recommendations API</a></li>
+      <li><a href="http://developers.adobetarget.com/api/#introduction"> 目標Adobe.IO檔案</a></li>
     </ul>
   </td>
 </tr>
