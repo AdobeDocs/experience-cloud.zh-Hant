@@ -8,7 +8,7 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/en/experience-cloud/tutorials/home.html
 translation-type: tm+mt
-source-git-commit: 494aebc7541e7a25486927a8c29853e75fd9014e
+source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
 
 ---
 
@@ -17,10 +17,18 @@ source-git-commit: 494aebc7541e7a25486927a8c29853e75fd9014e
 
 + [Experience cloud檔案](home.md)
 + [發行說明](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html)
-+ [Analytics使用指南](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
-+ [Target使用指南](https://docs.adobe.com/content/help/en/target/using/target-home.html)
-+ [Campaign Standard使用指南](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
-+ [Campaign Classic使用指南](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html)
-+ [Audience manager使用指南](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
-+ [AEM 6.5使用指南](https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html)
-+ [AEM 6.4使用指南](https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html)
++ [Experience Cloud 學習與支援](https://helpx.adobe.com/support/experience-cloud.html)
++ [Experience League](https://experienceleague.adobe.com/)
++ [社群論壇](https://forums.adobe.com/community/experience-cloud/)
++ [Adobe 培訓和教學課程](https://helpx.adobe.com/learning.html?promoid=KAUDK)
+
+<!-- commenting out in case we want to switch back to displaying main solution user guides
+
++ [Analytics User Guides](https://docs.adobe.com/content/help/en/analytics/landing/home.html)
++ [Target User Guide](https://docs.adobe.com/content/help/en/target/using/target-home.html)
++ [Campaign Standard User Guide](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
++ [Campaign Classic User Guide](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html)
++ [Audience Manager User Guide](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)
++ [AEM 6.5 User Guides](https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html)
+
+-->
