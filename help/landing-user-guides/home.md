@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
+source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 
 ---
 
@@ -225,7 +225,7 @@ source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> 定位服務</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service（先前的Location Service）</a></li>
     </ul>
   </td>
   <td>
@@ -265,6 +265,7 @@ source-git-commit: 9aa296a9b93c0dafdcd07d3e227613dae1c2191d
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 客戶歷程分析</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 即時客戶資料平台指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html"> 歷程協調使用指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places服務</a></li>
     </ul>
   </td>
   <td>
