@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
+source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
 
 ---
 
@@ -41,7 +41,7 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 <thead>
   <tr>
     <th>使用者指引</th>
-    <th>教學課程與開發</th>
+    <th>教學課程與資源</th>
   </tr>
 </thead>
 <tbody>
@@ -56,12 +56,15 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 實施指引</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> 匯入指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> 整合指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> 媒體分析指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> 資料工作台指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 客戶歷程分析</a></li>
     </ul>
   </td>
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html"> Analytics教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/technotes/home.html"> Analytics技術說明</a></li>
       <li><a href="https://www.adobe.io/apis/experiencecloud/analytics/docs.html"> Analytics API</a></li>
     </ul>
   </td>
@@ -163,7 +166,7 @@ source-git-commit: 65e52f4c85ad2a6efa7e09975e69bcd6f5ca01d1
 <tbody>
 <tr>
   <td>
-    <p><strong>AEM As a Cloud Service</strong></p>
+    <p><strong>AEM 雲端服務</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> Experience Manager雲端服務使用指南</a></li>
     </ul>
