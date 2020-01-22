@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
+source-git-commit: cc5c6fc4c0cff2107baffe1f3a2cbb6174e4bedf
 
 ---
 
@@ -259,6 +259,7 @@ source-git-commit: 86b60471cb3fc660eb6c36469fedb77e9034dd78
     <p><strong>Experience Platform</strong></p>
     <ul>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/overview.html"> Experience platform檔案</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> 平台發行說明</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> 除錯程式</a></li>
