@@ -2,14 +2,14 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: aad5d5503b1041cc060bfa4b38bfbdfcd5b26e87
+source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
 
 ---
 
 
 # Adobe Experience cloud檔案
 
-![橫幅](/help/assets/experience-cloud-banner-notext.png)
+![橫幅](/help/assets/experience-cloud-banner-3.png)
 
 本頁包含Adobe Experience cloud使用指南和教學課程的完整清單。
 
