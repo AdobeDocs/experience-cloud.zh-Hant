@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
+source-git-commit: 4fd6ab9c97bc830c5d11c8fc8694d3d9a1316f1c
 
 ---
 
@@ -168,12 +168,12 @@ source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
   <td>
     <p><strong>AEM 雲端服務</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> Experience Manager雲端服務使用指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html"> AEM as a Cloud Service使用指南</a></li>
     </ul>
     <p><strong>AEM版本</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5使用指南中樞</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4使用指南中樞</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5使用指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4使用指南</a></li>
       <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 舊版AEM的使用手冊</a></li>
     </ul>
     <p><strong>其他AEM指南</strong></p>
@@ -222,12 +222,12 @@ source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> 核心服務介面</a></li>
       <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> 管理控制台</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> ECID服務指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Experience Cloud ID服務指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile services指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> DTM指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> 動態標籤管理指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service（先前的Location Service）</a></li>
     </ul>
   </td>
@@ -260,7 +260,7 @@ source-git-commit: a7ee26aed10bb7d1460372731068e053a2d6bc31
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Experience platform檔案</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> 平台發行說明</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Launch</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> 除錯程式</a></li>
     </ul>
