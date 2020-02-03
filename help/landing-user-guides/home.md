@@ -2,7 +2,7 @@
 title: Adobe Experience cloud檔案
 description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 4fd6ab9c97bc830c5d11c8fc8694d3d9a1316f1c
+source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 
 ---
 
@@ -185,7 +185,7 @@ source-git-commit: 4fd6ab9c97bc830c5d11c8fc8694d3d9a1316f1c
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM核心元件</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/exc/using/overview.html"> Adobe Experience Cloud 資料庫</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM Desktop App</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM 桌面應用程式</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM 自動化表單轉換功能</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> 動態媒體開發人員指南</a></li>
