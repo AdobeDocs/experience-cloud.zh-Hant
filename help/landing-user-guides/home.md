@@ -1,19 +1,19 @@
 ---
-title: Adobe Experience cloud檔案
-description: 本頁包含所有Adobe Experience cloud檔案與啟用使用指南及教學課程的完整清單。
+title: Adobe Experience Cloud 文件
+description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
+source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ---
 
 
-# Adobe Experience cloud檔案
+# Adobe Experience Cloud 文件
 
 ![橫幅](/help/assets/experience-cloud-banner-3.png)
 
 本頁包含Adobe Experience cloud使用指南和教學課程的完整清單。
 
-## ![圖示發行說明](/help/assets/experience-cloud.png) （英文）
+## ![圖示](/help/assets/experience-cloud.png) 發行說明
 
 <table>
 <thead>
@@ -40,7 +40,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th>教學課程與資源</th>
   </tr>
 </thead>
@@ -48,12 +48,12 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics主要指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics 主要指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics工具指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 管理指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 管理員指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> 元件指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> 匯出指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 實施指引</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 實施指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> 匯入指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> 整合指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> 媒體分析指南</a></li>
@@ -77,7 +77,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th>教學課程與開發</th>
   </tr>
 </thead>
@@ -85,7 +85,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target/using/target-home.html"> 目標指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target/using/target-home.html"> Target 指南</a></li>
     </ul>
   </td>
   <td>
@@ -107,7 +107,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th>教學課程</th>
   </tr>
 </thead>
@@ -121,8 +121,8 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html"> Campaign Classic教學課程</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html"> Campaign Standard教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html"> Campaign Classic教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html"> Campaign Standard教學課程</a></li>
     </ul>
   </td>
 </tr>
@@ -134,7 +134,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th>教學課程</th>
   </tr>
 </thead>
@@ -142,7 +142,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html"> Audience manager使用指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html"> Audience Manager 使用手冊</a></li>
     </ul>
   </td>
   <td>
@@ -159,7 +159,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th>教學課程</th>
   </tr>
 </thead>
@@ -174,21 +174,21 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-65/user-guide/home.html"> AEM 6.5使用指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-64/user-guide/home.html"> AEM 6.4使用指南</a></li>
-      <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 舊版AEM的使用手冊</a></li>
+      <li><a href="https://helpx.adobe.com/support/experience-manager/6-3.html"> 舊版 AEM 使用手冊</a></li>
     </ul>
-    <p><strong>其他AEM指南</strong></p>
+    <p><strong>其他 AEM 指南</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html"> AEM Screens 使用手冊</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html"> AEM畫面的最佳實務指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html"> AEM Screens 最佳作法指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html"> AEM HTL</a></li></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM核心元件</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM 核心元件</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/exc/using/overview.html"> Adobe Experience Cloud 資料庫</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM 桌面應用程式</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM 自動化表單轉換功能</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> 動態媒體開發人員指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media 開發人員指南</a></li>
     </ul>
   </td>
   <td>
@@ -197,10 +197,10 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assets教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEM Sites教學課程</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html"> AEM Sites WKND 教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Foundation教學課程</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher快取教學課程</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM Headless教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/dispatcher-tutorial/overview.html"> AEM Dispatcher 快取教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/getting-started-with-aem-headless/overview.html"> AEM Headless 教學課程</a></li>
     </ul>
   </td>
 </tr>
@@ -212,7 +212,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th>教學課程</th>
   </tr>
 </thead>
@@ -221,11 +221,11 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> 核心服務介面</a></li>
-      <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> 管理控制台</a></li>
+      <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Experience Cloud ID服務指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile services指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op 指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html"> 動態標籤管理指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/places/using/home.html"> Places Service（先前的Location Service）</a></li>
@@ -234,10 +234,10 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html"> 核心服務教學課程</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> 啟動實施指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 在Mobile iOS Swift應用程式中實作Experience Cloud</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> 在Mobile iOS Objective-C應用程式中實作Experience Cloud</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> 在行動Android應用程式中實作Experience Cloud</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 實施指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html"> 在行動 iOS Swift 應用程式中實施 Experience Cloud</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html"> 在行動 iOS Objective-C 應用程式中實施 Experience Cloud</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html"> 在行動 Android 應用程式中實施 Experience Cloud</a></li>
     </ul>
   </td>
 </tr>
@@ -249,7 +249,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th>教學課程與開發</th>
   </tr>
 </thead>
@@ -262,7 +262,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> 平台發行說明</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> 除錯程式</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
     </ul>
     <p><strong>採用Experience platform的應用程式服務</strong></p>
     <ul>
@@ -275,9 +275,9 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 體驗平台教學課程</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> 啟動實施指南</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience platform開發人員API</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> 體驗平台Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 實施指南</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開發人員 API</a></li>
+      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> 歷程協調教學課程</a></li>
     </ul>
   </td>
@@ -290,7 +290,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th></th>
   </tr>
 </thead>
@@ -298,11 +298,11 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime程式設計手冊</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime數位版權管理</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/video-playback/home.html"> Primetime視訊播放</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime廣告插入</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime移轉指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime 程式設計指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime 數位版權管理</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/video-playback/home.html"> Primetime 視訊播放</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime 廣告插入</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime 移轉指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/release-notes/home.html"> Primetime 發行說明</a></li>
     </ul>
   </td>
@@ -319,7 +319,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th></th>
   </tr>
 </thead>
@@ -327,8 +327,8 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud"> Advertising cloud發行說明</a></li>
-      <li><a href="https://helpx.adobe.com/support/advertising-cloud.html"> Advertising cloud學習與支援</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html#adcloud"> Advertising Cloud 發行說明</a></li>
+      <li><a href="https://helpx.adobe.com/support/advertising-cloud.html"> Advertising Cloud 學習與支援</a></li>
     </ul>
   </td>
   <td>
@@ -342,7 +342,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th></th>
   </tr>
 </thead>
@@ -350,7 +350,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.marketo.com/"> Marketo Product(Classic)</a></li>
+      <li><a href="https://docs.marketo.com/"> Marketo 產品 (Classic)</a></li>
       <li><a href="https://help.marketo.com/hc/en-us"> Marketo Sky</a></li>
       <li><a href="https://docs.marketo.com/display/BIZ/Bizible"> Bizible Docs</a></li>
     </ul>
@@ -366,7 +366,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th></th>
   </tr>
 </thead>
@@ -374,7 +374,7 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 <tr>
   <td>
     <ul>
-      <li><a href="https://magento.com/technical-resources"> Magento檔案</a></li>
+      <li><a href="https://magento.com/technical-resources"> Magento 文件</a></li>
       <li><a href="https://docs.magento.com/mbi/"> Magento Business Intelligence(MBI)使用指南</a></li>
     </ul>
   </td>
@@ -384,12 +384,12 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
 </tbody>
 </table>
 
-## ![圖示](/help/assets/experience-cloud.png) Experience cloud附加指南
+## ![圖示](/help/assets/experience-cloud.png) 其他 Experience Cloud 指南
 
 <table>
 <thead>
   <tr>
-    <th>使用者指引</th>
+    <th>使用手冊</th>
     <th></th>
   </tr>
 </thead>
@@ -398,8 +398,8 @@ source-git-commit: 658bb2edfdf3ae6e53e5c672d3f08e0efff8ec7b
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Livefyre使用指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/livefyre/implementation/home.html"> Livefyre實施指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/livefyre/using/home.html"> Livefyre 使用手冊</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/livefyre/implementation/home.html"> Livefyre 實施指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/social/using/home.html"> 社交</a></li>
     </ul>
   </td>
