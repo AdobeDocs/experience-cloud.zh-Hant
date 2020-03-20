@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
+source-git-commit: 77f00aaf2984d22e69e262432a66b526e8129a84
 
 ---
 
@@ -11,7 +11,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ![橫幅](/help/assets/experience-cloud-banner-3.png)
 
-本頁包含Adobe Experience cloud使用指南和教學課程的完整清單。
+本頁包含Adobe Experience Cloud使用指南和教學課程的完整清單。
 
 ## ![圖示](/help/assets/experience-cloud.png) 發行說明
 
@@ -147,7 +147,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience manager教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager教學課程</a></li>
     </ul>
   </td>
 </tr>
@@ -223,7 +223,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
       <li><a href="https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html"> 核心服務介面</a></li>
       <li><a href="https://helpx.adobe.com/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/id-service/using/home.html"> Experience Cloud ID服務指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile services指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html"> Mobile Services指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/mobile-services/using/home.html#section_3A500233347C4305AB545E298A827CEA"> Mobile Services v4 SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/device-co-op/using/home.html"> Device Co-op 指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
@@ -244,7 +244,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 </tbody>
 </table>
 
-## ![Icon](/help/assets/platform.png) Experience Platform
+## ![圖示](/help/assets/platform.png) Experience Platform
 
 <table>
 <thead>
@@ -258,13 +258,13 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
   <td>
     <p><strong>Experience Platform</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Experience platform檔案</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/landing/home.html"> Experience Platform檔案</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html"> 平台發行說明</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
     </ul>
-    <p><strong>採用Experience platform的應用程式服務</strong></p>
+    <p><strong>採用Experience Platform的應用程式服務</strong></p>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 客戶歷程分析</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 即時客戶資料平台指南</a></li>
@@ -277,7 +277,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> 體驗平台教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 實施指南</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開發人員 API</a></li>
-      <li><a href="https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html"> Experience Platform Web SDK</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> 歷程協調教學課程</a></li>
     </ul>
   </td>
@@ -312,7 +312,7 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 </tbody>
 </table>
 
-## ![Icon](/help/assets/advertising-cloud.png) Advertising Cloud
+## ![圖示](/help/assets/advertising-cloud.png) Advertising Cloud
 
 按一下任何頁面上方的「協助」圖示 (?)即可取得 Advertising Cloud 的說明。
 
