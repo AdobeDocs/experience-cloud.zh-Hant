@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 教學課程
 description: 所有 Experience Cloud 教學課程和學習指南的連結
 translation-type: tm+mt
-source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
+source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 
 ---
 
@@ -15,7 +15,9 @@ source-git-commit: 3ee75662132f6fb0ed01b79a3cdf74bd65ff264b
 
 ## Target
 
-[Target 學習教學課程](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
+* [Target 學習教學課程](https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html)
+* [在網站中使用建議](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
+* [Adobe Target搭配Adobe Mobile Services SDK v4 for Android](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html)
 
 ## Audience Manager
 
