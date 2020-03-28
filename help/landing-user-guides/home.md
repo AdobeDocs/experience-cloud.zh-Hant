@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
+source-git-commit: 2c27fc142ae16c5dc985b6790d7de2393c7cd863
 
 ---
 
@@ -49,15 +49,15 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
   <td>
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/landing/home.html">Analytics 主要指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics工具指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics/analyze/home.html"> Analytics 工具指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/admin/home.html"> 管理員指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/components/home.html"> 元件指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/export/home.html"> 匯出指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/implementation/home.html"> 實施指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/import/home.html"> 匯入指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics/integration/home.html"> 整合指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> 媒體分析指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> 資料工作台指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/media-analytics/using/media-overview.html"> Media Analytics 指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench 指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 客戶歷程分析</a></li>
     </ul>
   </td>
@@ -184,8 +184,8 @@ source-git-commit: eede3f444c3bba202cb3a743a6c8f9513f5c0ecc
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/dispatcher.html"> AEM Dispatcher</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html"> AEM Cloud Manager</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html"> AEM 核心元件</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/exc/using/overview.html"> Adobe Experience Cloud 資料庫</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html"> AEM 桌面應用程式</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/home.html"> AEM Brand Portal</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html"> AEM 自動化表單轉換功能</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html"> Dynamic Media Classic</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/landing/home.html"> Dynamic Media 開發人員指南</a></li>
