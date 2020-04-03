@@ -2,18 +2,18 @@
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
+source-git-commit: 388544382efef6d42129c48f1d14cb78a58e6ff4
 
 ---
 
 
 # Adobe Experience Cloud 文件
 
-![橫幅](/help/assets/experience-cloud-banner-3.png)
+![橫幅](/help/assets/experience-cloud-banner-4.png)
 
 本頁包含Adobe Experience Cloud使用指南和教學課程的完整清單。
 
-## ![圖示](/help/assets/experience-cloud.png) 發行說明
+## 發行說明
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/analytics.png) Analytics
+## Analytics
 
 <table>
 <thead>
@@ -72,7 +72,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/target.png) Target
+## Target
 
 <table>
 <thead>
@@ -102,7 +102,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示促銷活動](/help/assets/campaign.png)
+## 促銷活動
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/audience-manager.png) Audience Manager
+## Audience Manager
 
 <table>
 <thead>
@@ -154,7 +154,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/aem.png) Adobe Experience Manager
+## Adobe Experience Manager
 
 <table>
 <thead>
@@ -207,7 +207,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/experience-cloud.png) 「核心服務」、管理與實作
+## 核心服務、管理與實作
 
 <table>
 <thead>
@@ -244,7 +244,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/platform.png) Experience Platform
+## Experience Platform
 
 <table>
 <thead>
@@ -286,7 +286,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![Icon](/help/assets/primetime.png) Primetime
+## Primetime
 
 <table>
 <thead>
@@ -313,7 +313,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/advertising-cloud.png) Advertising Cloud
+## Advertising Cloud
 
 按一下任何頁面上方的「協助」圖示 (?)即可取得 Advertising Cloud 的說明。
 
@@ -338,7 +338,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![Icon](/help/assets/marketo.png) Marketo
+## Marketo
 
 <table>
 <thead>
@@ -362,7 +362,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![Icon](/help/assets/magento.png) Magento
+## Magento
 
 <table>
 <thead>
@@ -385,7 +385,7 @@ source-git-commit: e0ce5a635394e3ca8fcf86169d33a43056a5b70c
 </tbody>
 </table>
 
-## ![圖示](/help/assets/experience-cloud.png) 其他 Experience Cloud 指南
+## 其他Experience Cloud指南
 
 <table>
 <thead>
