@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud 教學課程
 description: 所有 Experience Cloud 教學課程和學習指南的連結
 translation-type: tm+mt
-source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
+source-git-commit: 9fc6495b20ed5aaedbe3ff2881fb13feabaf34f7
 
 ---
 
@@ -26,7 +26,8 @@ source-git-commit: a4955bedb3032b18f1e7c57aa9b03c5f068fe03a
 ## 核心服務與平台服務
 
 * [核心服務學習教學課程](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [平台學習教學課程](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [平台教學課程影片](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [平台教學課程](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
 * [Launch 實施指南](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
 * [在行動 iOS Swift 應用程式中實施 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
 * [在行動 iOS Objective-C 應用程式中實施 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
