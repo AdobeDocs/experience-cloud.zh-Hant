@@ -1,14 +1,14 @@
 ---
-title: Adobe Experience Cloud軟體散發
-description: 如何使用Adobe Experience Cloud軟體散發
-translation-type: tm+mt
+title: Adobe Experience Cloud 軟體分發
+description: 如何使用 Adobe Experience Cloud 軟體分發
+translation-type: ht
 source-git-commit: 683ec9df481b5bdb5f6bcdfd514134a69610fdd9
 
 ---
 
 
-# Adobe Experience Cloud軟體散發
+# Adobe Experience Cloud 軟體分發
 
 ## 第一個標題
 
-要追蹤的文字
+後續文字
