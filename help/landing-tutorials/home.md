@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud 教學課程
 description: 所有 Experience Cloud 教學課程和學習指南的連結
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 * [Target 學習教學課程](https://docs.adobe.com/content/help/en/target-learn/tutorials/tutorials/overview.html)
 * [在網站中使用建議](https://docs.adobe.com/content/help/en/target-learn/recommendations-in-a-website/overview.html)
-* [Adobe Target搭配Adobe Mobile Services SDK v4 for Android](https://docs.adobe.com/content/help/zh-Hant/target-learn/mobile-sdk-v4-android/overview.html)
+* [具 Adobe Mobile Services SDK v4 for Android 的 Adobe Target](https://docs.adobe.com/content/help/zh-Hant/target-learn/mobile-sdk-v4-android/overview.html)
 
 ## Audience Manager
 
@@ -26,12 +26,12 @@ source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 ## 核心服務與平台服務
 
 * [核心服務學習教學課程](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)
-* [平台教學課程影片](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)
-* [平台教學課程](https://docs.adobe.com/content/help/en/experience-platform/tutorials/home.html)
-* [Launch 實施指南](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
-* [在行動 iOS Swift 應用程式中實施 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-* [在行動 iOS Objective-C 應用程式中實施 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-* [在行動 Android 應用程式中實施 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html)
+* [Platform 影片教學課程](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)
+* [Platform 教學課程](https://docs.adobe.com/content/help/zh-Hant/experience-platform/tutorials/home.html)
+* [Launch 實作指南](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html)
+* [在行動 iOS Swift 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+* [在行動 iOS Objective-C 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+* [在行動 Android 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-mobile-android-apps-with-launch/index.html)
 
 ## Campaign
 
@@ -50,7 +50,7 @@ source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 ## Advertising Cloud
 
-按一下任何頁面上方的「協助」圖示 (?)即可取得 Advertising Cloud 的說明。
+按一下任何頁面上方的「協助」圖示 (?) 即可取得 Advertising Cloud 的說明。
 
 * [Advertising Cloud 發行說明](https://docs.adobe.com/content/help/zh-Hant/release-notes/experience-cloud/current.html#adcloud)
 
