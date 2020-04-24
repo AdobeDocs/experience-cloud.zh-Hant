@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: ht
-source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
+translation-type: tm+mt
+source-git-commit: d5c08d95c032b642d1510a02ed859049fc3149d1
 
 ---
 
@@ -12,6 +12,12 @@ source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
 ![橫幅](/help/assets/experience-cloud-banner-4.png)
 
 本頁包含 Adobe Experience Cloud 使用手冊及教學課程的完整清單。
+
+>[!NOTE]
+>
+>使用本頁的「搜尋」功能僅限於一小組內容。 我們建議您前往特定的使用指南（例如Analytics或Target）來搜尋該區域。 我們將透過即將到來的Experience League改善搜尋功能。
+>
+>若要預覽我們在Experience League上分階段的檔案，請參 [閱關於移至Experience League](/help/landing-user-guides/experience-league-preview.md) （進行中）。
 
 ## 發行說明
 
