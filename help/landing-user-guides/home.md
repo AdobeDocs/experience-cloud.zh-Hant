@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
 
 ---
@@ -301,12 +301,12 @@ source-git-commit: d718636d9c81bc6166bbe72f998b106f4a9efee0
     <ul>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/release-notes/home.html"> Primetime 發行說明</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/programming/home.html"> Primetime 程式設計指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime移轉與轉換指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference-implementation/home.html"> Primetime參考實作</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime動態廣告插入</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/migration/home.html"> Primetime 移轉與轉換指南</a></li>
+      <li><a href="https://docs.adobe.com/content/help/zh-Hant/primetime/reference-implementation/home.html"> Primetime 參考實作</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/primetime/ad-insertion/home.html"> Primetime 動態廣告插入</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/primetime/drm/home.html"> Primetime 數位版權管理</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/primetime/reference/api-references.html"> Primetime API參考</a></li>
-      <li><a href="https://helpx.adobe.com/primetime/archives.html"> Primetime封存檔案</a></li>
+      <li><a href="https://docs.adobe.com/content/help/zh-Hant/primetime/reference/api-references.html"> Primetime API 參考</a></li>
+      <li><a href="https://helpx.adobe.com/tw/primetime/archives.html"> Primetime 封存文件</a></li>
     </ul>
   </td>
   <td>
