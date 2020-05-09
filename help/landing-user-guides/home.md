@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
 
 ---
@@ -15,7 +15,7 @@ source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
 
 >[!NOTE]
 >
->使用本頁的「搜尋」功能僅限於一小組內容。 我們建議您前往特定的使用指南（例如Analytics或Target）來搜尋該區域。 我們將透過即將到來的Experience League改善搜尋功能。
+>本頁面的搜尋功能僅限用於少部分內容。建議您前往特定的使用手冊 (例如 Analytics 或 Target) 搜尋該區域。我們轉移至 Experience League 後，就會著手改善搜尋功能。
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -325,7 +325,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 
 ## Advertising Cloud
 
-按一下任何頁面上方的「協助」圖示 (?) 即可取得 Advertising Cloud 的說明。
+按一下任何頁面上方的「協助」圖示 (?)即可取得 Advertising Cloud 的說明。
 
 <table>
 <thead>
