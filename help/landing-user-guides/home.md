@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 16d9ff51e0d0a99f6f87981dbd84fe44453962f3
+source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 100%
+source-wordcount: '1269'
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->本頁面的搜尋功能僅限用於少部分內容。建議您前往特定的使用手冊 (例如 Analytics 或 Target) 搜尋該區域。我們轉移至 Experience League 後，就會著手改善搜尋功能。
+>為獲得在移轉檔案內容時的最佳搜尋體驗，我們建議瀏覽以下產品章節，並在指南層級進行搜尋
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
