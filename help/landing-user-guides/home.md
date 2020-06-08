@@ -18,7 +18,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->為獲得在移轉檔案內容時的最佳搜尋體驗，我們建議瀏覽以下產品章節，並在指南層級進行搜尋
+>為獲得在移轉檔案內容時的最佳搜尋體驗，我們建議瀏覽以下產品章節，並在指南層級進行搜尋。
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
