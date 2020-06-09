@@ -2,9 +2,9 @@
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
 translation-type: tm+mt
-source-git-commit: 5efddee70396ff07b918cfc60914701c89bcae41
+source-git-commit: e7f6af8b2c52fe1154900c58a9b13d972d087e89
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1279'
 ht-degree: 97%
 
 ---
@@ -411,6 +411,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Software Distribution</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/livefyre/using/home.html"> Livefyre 使用手冊</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/livefyre/implementation/home.html"> Livefyre 實作指南</a></li>
