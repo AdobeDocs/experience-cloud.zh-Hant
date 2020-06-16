@@ -1,11 +1,11 @@
 ---
 title: Software Distribution
-description: 如何使用 Adobe Experience Cloud 軟體分發
+description: 如何使用 Adobe Experience Cloud 的 Software Distribution
 translation-type: tm+mt
 source-git-commit: 91c7ff4c452beb19193f35e65161743b418a3f73
 workflow-type: tm+mt
 source-wordcount: '513'
-ht-degree: 2%
+ht-degree: 56%
 
 ---
 
@@ -14,43 +14,43 @@ ht-degree: 2%
 
 ## 簡介
 
-自2020年6月起，Experience Cloud解決方案軟體散發取代了PackageShare for AEM和Neolane for Campaign的下載平台，並提供更有效率的軟體尋找和下載體驗。 直覺式使用者介面、簡化的搜尋以及大幅提升的下載速度，讓下載Experience Cloud產品的軟體套件成為絕佳的使用體驗。 Adobe核准的軟體套件和合作夥伴公司的套件現在適用於下列產品：
+自2020年6月起，Experience Cloud解決方案軟體散發取代了PackageShare for AEM和Neolane for Campaign的下載平台，並提供更有效率的軟體尋找和下載體驗。 直覺的使用者介面、簡化的搜尋功能，以及大幅提升的下載速度，讓您在下載 Experience Cloud 產品的軟體套件時，能享有絕佳的使用體驗。Adobe 核准的軟體套件和合作夥伴公司提供的套件現在適用於下列產品：
 
-1. **Adobe Experience Manager** —— 所有支援AEM版本的服務與維護、安全性、工具等相關功能。
-1. **Adobe Experience Manager as a Cloud Service** - AEM Cloud SDK、AEM Cloud移轉工具等。
-1. **Adobe Campaign** —— 所有目前的Campaign安裝程式版本和相關工具。
+1. **Adobe Experience Manager** - 服務與維護、安全性、工具等相關套件 (所有支援 AEM 的版本)。
+1. **Adobe Experience Manager 雲端服務** - AEM Cloud SDK、AEM Cloud 移轉工具。
+1. **Adobe Campaign** - 所有最新 Campaign 安裝程式版本和相關工具。
 1. **一般** -一般用途工具，包括Adobe客戶適用的Oracle JDK。
 
-## 存取軟體散發
+## 存取 Software Distribution
 
-前往https://experience.adobe.com/downloads [](https://experience.adobe.com/downloads) ，並使用您的Adobe ID登入「軟體散發」。
+前往 [https://experience.adobe.com/downloads](https://experience.adobe.com/downloads)，並使用您的 Adobe ID 登入 Software Distribution。
 
 >[!IMPORTANT]
 >
->Package Share或Neolane的登入認證在軟體散發中無法運作，因為軟體散發提供以Adobe全域安全標準登入的功能。 如果您不知道您的Adobe ID，請連絡您組織內的支援管理員。
+>Package Share 或 Neolane 的登入認證無法供 Software Distribution 使用，因為 Software Distribution 是採 Adobe 全域安全標準登入機制。如果您不知道您的Adobe ID，請連絡您組織內的支援管理員。
 
 ## 導覽
 
-### 選擇您的產品
+### 選取您的產品
 
-您可以從貴組織所授權的產品選擇軟體下載。 「軟體分發」中的標題功能表會顯示這些產品，包括 **「一般** 」開始頁面，您可在其中找到一般用途的軟體下載。 選擇您要下載軟體的產品。
+您可以從貴組織已授權的產品中選擇軟體下載檔。「軟體分發」中的標題功能表會顯示這些產品，包括 **「一般** 」開始頁面，您可在其中找到一般用途的軟體下載。 選取您要下載軟體的產品。
 
-### 尋找您的下載
+### 尋找下載項目
 
-在您選擇的產品下載頁面上後，您會看到該頁面上列出所有與產品相關的下載。 下載清單可能太長，無法在第一眼就找到您的下載。 這就是為什麼「軟體散發」提供您簡單但功能強大的方式來尋找下載內容。 在大多數情況下，您會發現使用左側的搜尋篩選器，可方便您篩選與您相關的下載清單。 視產品而定，您將會找到版本、解決方案或軟體類型等篩選器。
+在您選擇的產品下載頁面上後，您會看到該頁面上列出所有與產品相關的下載。 下載清單可能太長，無法在第一眼就找到您的下載。 這就是為什麼 Software Distribution 要提供簡單但功能強大的方式，方便您尋找下載項目。在大多數情況下，您會發現使用左側的搜尋篩選器，可方便您篩選與您相關的下載清單。 篩選器會提供版本、解決方案或軟體類型等篩選條件，依產品而定。
 
 另一個搜尋選項是右上角的自由文字搜尋。
 
-軟體散發是Experience Cloud解決方案系列的一部分，可讓您在Experience Cloud解決方案環境中導覽，並運用統一的Experience Cloud服務，包括核心服務、個人化通知等。
+Software Distribution 隸屬於 Experience Cloud 解決方案系列，可讓您在 Experience Cloud 解決方案環境中瀏覽及使用統一的 Experience Cloud 服務，包括核心服務、個人化通知等更多功能。
 
 ### 下載軟體
 
-按兩下顯示的軟體下載後，會開啟對話方塊，提供您更多資訊。 例如，您將可以看到描述、提供者名稱和EULA，您必須先接受它，然後再按一下「下載」按鈕繼續下 **載** 。
+按兩下顯示的軟體下載後，會開啟對話方塊，提供您更多資訊。 For instance, you will be able to see a description, the provider name and the EULA, which you need to accept before you can proceed further with your download by clicking the **Download** button.
 
 您也可以共用該特定下載的連結。 按一下「 **共用** 」按鈕以複製URL。
 
 >[!NOTE]
 >
->軟體散發僅支援瀏覽器下載。 當使用AEM Package Manager進行新安裝時，建議將套件下載至本機資料夾並從此處安裝套件。
+>Software Distribution 僅支援瀏覽器下載作業。當您使用 AEM Package Manager 執行新的安裝作業時，建議將套件下載至本機資料夾，再從該資料夾安裝套件。
 
-軟體散發是使用AEM元件建立，並以Adobe Experience Manager雲端服務的形式提供。
+Software Distribution 是使用 AEM 元件建立而成，由 Adobe Experience Manager 雲端服務提供技術支援。
