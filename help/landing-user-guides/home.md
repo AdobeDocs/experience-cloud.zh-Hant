@@ -5,7 +5,7 @@ translation-type: tm+mt
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
 workflow-type: tm+mt
 source-wordcount: '1280'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->為獲得在移轉檔案內容時的最佳搜尋體驗，我們建議瀏覽以下產品章節，並在指南層級進行搜尋。
+>為能在移轉文件期間提供最佳搜尋體驗，建議您在指南層級搜尋內容，並瀏覽以下產品章節。
 
 <!--
 To see a preview of our documentation staged on Experience League, see [About Moving to Experience League](/help/landing-user-guides/experience-league-preview.md) (in-progress).
@@ -411,8 +411,8 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html"> Software Distribution</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
+      <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-cloud/software-distribution/home.html"> Software Distribution</a></li>
+      <li><a href="https://docs.adobe.com/content/help/zh-Hant/search-promote/using/sp-home.html"> Search&amp;Promote</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/livefyre/using/home.html"> Livefyre 使用手冊</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/livefyre/implementation/home.html"> Livefyre 實作指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/social/using/home.html"> Social (產品已無法使用)</a></li>
