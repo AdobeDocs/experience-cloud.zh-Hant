@@ -1,11 +1,11 @@
 ---
 title: Software Distribution
 description: 如何使用 Adobe Experience Cloud 的 Software Distribution
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 91c7ff4c452beb19193f35e65161743b418a3f73
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '513'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
@@ -14,12 +14,12 @@ ht-degree: 56%
 
 ## 簡介
 
-自2020年6月起，Experience Cloud解決方案軟體散發取代了PackageShare for AEM和Neolane for Campaign的下載平台，並提供更有效率的軟體尋找和下載體驗。 直覺的使用者介面、簡化的搜尋功能，以及大幅提升的下載速度，讓您在下載 Experience Cloud 產品的軟體套件時，能享有絕佳的使用體驗。Adobe 核准的軟體套件和合作夥伴公司提供的套件現在適用於下列產品：
+自 2020 年 6 月起，Experience Cloud 解決方案 Software Distribution 將取代下載平台 PackageShare for AEM 和 Neolane for Campaign，提供更有效率的軟體搜尋和下載體驗。直覺的使用者介面、簡化的搜尋功能，以及大幅提升的下載速度，讓您在下載 Experience Cloud 產品的軟體套件時，能享有絕佳的使用體驗。Adobe 核准的軟體套件和合作夥伴公司提供的套件現在適用於下列產品：
 
 1. **Adobe Experience Manager** - 服務與維護、安全性、工具等相關套件 (所有支援 AEM 的版本)。
 1. **Adobe Experience Manager 雲端服務** - AEM Cloud SDK、AEM Cloud 移轉工具。
 1. **Adobe Campaign** - 所有最新 Campaign 安裝程式版本和相關工具。
-1. **一般** -一般用途工具，包括Adobe客戶適用的Oracle JDK。
+1. **一般** - 為 Adobe 客戶提供的一般用途工具，包括 Oracle JDK。
 
 ## 存取 Software Distribution
 
@@ -27,27 +27,27 @@ ht-degree: 56%
 
 >[!IMPORTANT]
 >
->Package Share 或 Neolane 的登入認證無法供 Software Distribution 使用，因為 Software Distribution 是採 Adobe 全域安全標準登入機制。如果您不知道您的Adobe ID，請連絡您組織內的支援管理員。
+>Package Share 或 Neolane 的登入認證無法供 Software Distribution 使用，因為 Software Distribution 是採 Adobe 全域安全標準登入機制。如果您不清楚您的 Adobe ID，請洽詢貴組織的支援管理員。
 
 ## 導覽
 
 ### 選取您的產品
 
-您可以從貴組織已授權的產品中選擇軟體下載檔。「軟體分發」中的標題功能表會顯示這些產品，包括 **「一般** 」開始頁面，您可在其中找到一般用途的軟體下載。 選取您要下載軟體的產品。
+您可以從貴組織已授權的產品中選擇軟體下載檔。Software Distribution 的標題功能表會顯示這些產品，包括&#x200B;**「一般」**&#x200B;開始頁面，該頁面會提供一般用途的軟體下載項目。選取您要下載軟體的產品。
 
 ### 尋找下載項目
 
-在您選擇的產品下載頁面上後，您會看到該頁面上列出所有與產品相關的下載。 下載清單可能太長，無法在第一眼就找到您的下載。 這就是為什麼 Software Distribution 要提供簡單但功能強大的方式，方便您尋找下載項目。在大多數情況下，您會發現使用左側的搜尋篩選器，可方便您篩選與您相關的下載清單。 篩選器會提供版本、解決方案或軟體類型等篩選條件，依產品而定。
+進入所選擇產品的下載頁面後，您會看見頁面上列出所有與產品相關的下載項目。下載項目清單可能太長，您或許無法一下子就找到需要的下載項目。這就是為什麼 Software Distribution 要提供簡單但功能強大的方式，方便您尋找下載項目。大多數情況下，左側的搜尋篩選器能有助於篩選下載清單，方便您找到與您相關的內容。篩選器會提供版本、解決方案或軟體類型等篩選條件，依產品而定。
 
-另一個搜尋選項是右上角的自由文字搜尋。
+另一種搜尋選項是位於右上角的任意文字搜尋功能。
 
 Software Distribution 隸屬於 Experience Cloud 解決方案系列，可讓您在 Experience Cloud 解決方案環境中瀏覽及使用統一的 Experience Cloud 服務，包括核心服務、個人化通知等更多功能。
 
 ### 下載軟體
 
-按兩下顯示的軟體下載後，會開啟對話方塊，提供您更多資訊。 For instance, you will be able to see a description, the provider name and the EULA, which you need to accept before you can proceed further with your download by clicking the **Download** button.
+在列示的軟體下載項目上按兩下，畫面會隨即開啟對話方塊，提供您更多資訊。例如，畫面會提供說明、提供者名稱和 EULA (您必須先接受 EULA，才能按&#x200B;**「下載」**&#x200B;按鈕繼續下載)。
 
-您也可以共用該特定下載的連結。 按一下「 **共用** 」按鈕以複製URL。
+您也可以分享該特定下載項目的連結。按一下&#x200B;**「分享」**&#x200B;按鈕即可複製 URL。
 
 >[!NOTE]
 >
