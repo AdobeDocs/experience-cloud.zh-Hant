@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1280'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -218,7 +218,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 </tbody>
 </table>
 
-## Experience Cloud介面、管理與實作
+## Experience Cloud 介面、管理與實作
 
 <table>
 <thead>
@@ -231,7 +231,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tr>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html"> Experience Cloud介面</a></li>
+      <li><a href="https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html"> Experience Cloud 介面</a></li>
       <li><a href="https://helpx.adobe.com/tw/enterprise/using/admin-console.html"> Admin Console</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/id-service/using/home.html"> Experience Cloud ID 服務指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/mobile-services/using/home.html"> Mobile Services 指南</a></li>
