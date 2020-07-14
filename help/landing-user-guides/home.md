@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: ht
-source-git-commit: c97f610c2ea231b40bfd59e7998557768070a108
-workflow-type: ht
-source-wordcount: '1280'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
+workflow-type: tm+mt
+source-wordcount: '1291'
+ht-degree: 99%
 
 ---
 
@@ -274,6 +274,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> 除錯程式v2（測試版）</a></li>
     </ul>
     <p><strong>Experience Platform 支援的應用程式服務</strong></p>
     <ul>
