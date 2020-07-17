@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1acfc2c352199022f1bd6c9d043ccc6714c6148b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1291'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -69,7 +69,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/analytics/integration/home.html"> 整合指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/media-analytics/using/media-overview.html"> Media Analytics 指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/data-workbench/using/home.html"> Data Workbench 指南</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 客戶歷程分析</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
     </ul>
   </td>
   <td>
@@ -101,7 +101,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/tutorials/overview.html"> Target 教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/target-learn/tutorials/overview.html"> Target 教學課程</a></li>
       <li><a href="https://developers.adobetarget.com/api/delivery-api/"> Target 伺服器端 API</a></li>
       <li><a href="https://github.com/adobe/target-nodejs-sdk"> Target NodeJS SDK</a></li>
       <li><a href="https://github.com/adobe/target-java-sdk"> Target Java SDK</a></li>
@@ -158,7 +158,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/zh-Hant/audience-manager-learn/tutorials/overview.html"> Audience Manager 教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/overview.html"> Audience Manager 教學課程</a></li>
     </ul>
   </td>
 </tr>
@@ -274,11 +274,11 @@ To see a preview of our documentation staged on Experience League, see [About Mo
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html"> Experience Platform Launch</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/auditor/using/overview.html"> Auditor</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/debugger/using/experience-cloud-debugger.html"> Debugger</a></li>
-      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> 除錯程式v2（測試版）</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/debugger/using-v2/experience-cloud-debugger.html"> Debugger v2 (測試版)</a></li>
     </ul>
     <p><strong>Experience Platform 支援的應用程式服務</strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> 客戶歷程分析</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html"> Customer Journey Analytics</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html"> 即時客戶資料平台指南</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/journeys/using/journey-orchestration-home.html"> Journey Orchestration 使用手冊</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/places/using/home.translate.html"> Places Service</a></li>
@@ -286,12 +286,12 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html"> Experience Platform 影片教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html"> Experience Platform 影片教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-platform/tutorials/home.html"> Experience Platform 教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/core-services-learn/implementing-in-websites-with-launch/index.html"> Launch 實作指南</a></li>
       <li><a href="https://www.adobe.io/apis/experienceplatform/home/"> Experience Platform 開發人員 API</a></li>
       <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-platform/edge/home.html"> Experience Platform Web SDK</a></li>
-      <li><a href="https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration 教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html"> Journey Orchestration 教學課程</a></li>
     </ul>
   </td>
 </tr>
