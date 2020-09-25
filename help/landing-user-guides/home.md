@@ -1,9 +1,9 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1295'
 ht-degree: 100%
 
