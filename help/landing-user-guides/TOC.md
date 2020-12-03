@@ -7,8 +7,11 @@ getting-started-title: Experience League
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: 教學課程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hant/experience-cloud/tutorials/home.html
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: b230bf80ad3340b90c6ac14ecbc7a3de618ad433
+workflow-type: tm+mt
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
