@@ -1,8 +1,11 @@
 ---
 title: Experience League 轉移資訊
 description: 本頁面說明移轉至 Experience League 的相關程序，並提供各階段使用手冊的連結清單。
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: d5c08d95c032b642d1510a02ed859049fc3149d1
+workflow-type: tm+mt
+source-wordcount: '363'
+ht-degree: 100%
 
 ---
 
