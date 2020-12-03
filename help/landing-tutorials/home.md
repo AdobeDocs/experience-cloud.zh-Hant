@@ -1,8 +1,11 @@
 ---
 title: Adobe Experience Cloud 教學課程
 description: 所有 Experience Cloud 教學課程和學習指南的連結
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
+workflow-type: tm+mt
+source-wordcount: '374'
+ht-degree: 100%
 
 ---
 
@@ -50,7 +53,7 @@ source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
 
 ## Advertising Cloud
 
-按一下任何頁面上方的「協助」圖示 (?) 即可取得 Advertising Cloud 的說明。
+按一下任何頁面上方的「協助」圖示 (?)即可取得 Advertising Cloud 的說明。
 
 * [Advertising Cloud 發行說明](https://docs.adobe.com/content/help/zh-Hant/release-notes/experience-cloud/current.html#adcloud)
 
