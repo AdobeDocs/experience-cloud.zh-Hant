@@ -1,9 +1,9 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8a8c58787439effac3ee69dbe2f49853550bdb10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1295'
 ht-degree: 100%
 
@@ -177,9 +177,9 @@ To see a preview of our documentation staged on Experience League, see [About Mo
 <tbody>
 <tr>
   <td>
-    <p><strong>AEM 雲端服務</strong></p>
+    <p><strong>AEM as a Cloud Service </strong></p>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-cloud-service/landing/home.html"> AEM 雲端服務使用手冊</a></li>
+      <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-cloud-service/landing/home.html"> AEM as a Cloud Service 使用手冊</a></li>
     </ul>
     <p><strong>AEM 版本</strong></p>
     <ul>
@@ -204,7 +204,7 @@ To see a preview of our documentation staged on Experience League, see [About Mo
   </td>
   <td>
     <ul>
-      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM 雲端服務教學課程</a></li>
+      <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html"> AEM as a Cloud Service 教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/overview.html"> AEM Assets 教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/forms/overview.html"> AEM Forms 教學課程</a></li>
       <li><a href="https://docs.adobe.com/content/help/en/experience-manager-learn/sites/overview.html"> AEM Sites 教學課程</a></li>
