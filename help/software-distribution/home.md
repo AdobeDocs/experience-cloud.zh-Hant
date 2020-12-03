@@ -1,9 +1,9 @@
 ---
 title: Software Distribution
 description: 如何使用 Adobe Experience Cloud 的 Software Distribution
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 7a6397fa27deb3bb59372754104bd2a7115acedf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 自 2020 年 6 月起，Experience Cloud 解決方案 [!UICONTROL Software Distribution] 頁面已取代下載平台的 [!UICONTROL PackageShare] for AEM 和 [!DNL Neolane] for [!DNL Campaign]。這能提供更有效率的軟體尋找和下載體驗。直覺的使用者介面、簡化的搜尋功能，以及大幅提升的下載速度，讓您在下載 Experience Cloud 產品的軟體套件時，能享有絕佳的使用體驗。Adobe 核准的軟體套件和合作夥伴公司提供的套件現在適用於下列產品：
 
 1. **Adobe Experience Manager** - 服務與維護、安全性、工具等相關套件 (所有支援 AEM 的版本)。
-1. **Adobe Experience Manager[!UICONTROL 雲端服務&#x200B;]**-[!UICONTROL AEM Cloud SDK]、[!UICONTROL AEM Cloud]移轉工具等更多功能。
+1. **Adobe Experience Manager[!UICONTROL  雲端服務]** - [!UICONTROL AEM Cloud SDK]、[!UICONTROL AEM Cloud] 移轉工具等更多功能。
 1. **Adobe** - 所有最新 [!DNL Campaign] 安裝程式版本和相關工具。
 1. **一般** - 為 Adobe 客戶提供的一般用途工具，包括 [!DNL Oracle] JDK。
 
