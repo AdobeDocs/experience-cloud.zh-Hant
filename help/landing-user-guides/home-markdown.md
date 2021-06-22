@@ -1,11 +1,10 @@
 ---
 title: Adobe Experience Cloud 文件
 description: 本頁包含所有 Adobe Experience Cloud 文件與啟用使用手冊及教學課程的完整清單。
-translation-type: tm+mt
-source-git-commit: 0231cf7fcd40d46873964fbd9223b989ac4309a9
+source-git-commit: fd3086f279572ccc2b61db1c6902ef7f7ab9591f
 workflow-type: tm+mt
 source-wordcount: '1148'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -56,13 +55,13 @@ ht-degree: 100%
 
 | 使用手冊 | 教學課程與開發 |
 |--- |--- |
-| <ul><li>[即時客戶資料平台指南](https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html)</li><li>[Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html)</li><li>[Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html)</li><li>[Debugger](https://docs.adobe.com/content/help/zh-Hant/debugger/using/experience-cloud-debugger.html)</li></ul> | <ul><li>[Experience Platform 教學課程](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)</li><li>[Launch 實作指南](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Experience Platform 開發人員 API](https://www.adobe.io/apis/experienceplatform/home/)</li><li>[Experience Platform Web SDK](https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html)</li></ul> |
+| <ul><li>[即時客戶資料平台指南](https://docs.adobe.com/content/help/en/experience-platform/rtcdp/overview.html)</li><li>[Launch](https://docs.adobe.com/content/help/en/launch/using/home.html)</li><li>[Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html)</li><li>[Debugger](https://docs.adobe.com/content/help/zh-Hant/debugger/using/experience-cloud-debugger.html)</li></ul> | <ul><li>[Experience Platform 教學課程](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)</li><li>[Launch 實作指南](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[Experience Platform 開發人員 API](https://www.adobe.io/apis/experienceplatform/home/)</li><li>[Experience Platform Web SDK](https://www.adobe.io/apis/experienceplatform/home/services/web-sdk.html)</li></ul> |
 
 ## ![圖示](/help/assets/experience-cloud.png) 管理、實作和核心服務
 
 | 使用手冊 | 教學課程 |
 |--- |--- |
-| <ul><li>[Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)</li><li>[核心服務介面](https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html)</li><li>[ECID 服務指南](https://docs.adobe.com/content/help/zh-Hant/id-service/using/home.html)</li><li>[Mobile Services v4 SDK](https://docs.adobe.com/content/help/zh-Hant/mobile-services/using/home.html)</li><li>[Device Co-op 指南](https://docs.adobe.com/content/help/zh-Hant/device-co-op/using/home.html)</li><li>[Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html)</li><li>[DTM 指南](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)</li></ul> | <ul><li>[核心服務教學課程](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)</li><li>[Launch 實作指南](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[在行動 iOS Swift 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)</li><li>[在行動 iOS Objective-C 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)</li><li>[在行動 Android 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)</li></ul> |
+| <ul><li>[Admin Console](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)</li><li>[核心服務介面](https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html)</li><li>[ECID 服務指南](https://docs.adobe.com/content/help/en/id-service/using/home.html)</li><li>[Mobile Services v4 SDK](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)</li><li>[Device Co-op 指南](https://docs.adobe.com/content/help/zh-Hant/device-co-op/using/home.html)</li><li>[Launch](https://docs.adobe.com/content/help/en/launch/using/home.html)</li><li>[DTM 指南](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)</li></ul> | <ul><li>[核心服務教學課程](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/overview.html)</li><li>[Launch 實作指南](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)</li><li>[在行動 iOS Swift 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)</li><li>[在行動 iOS Objective-C 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)</li><li>[在行動 Android 應用程式中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)</li></ul> |
 
 ## ![圖示](/help/assets/experience-cloud.png) Location Service
 
@@ -70,7 +69,7 @@ ht-degree: 100%
 
 ## ![圖示](/help/assets/experience-cloud.png) Journey Orchestration
 
-* [Journey Orchestration 說明](https://docs.adobe.com/content/help/zh-Hant/platform-learn/tutorials/overview.html)
+* [Journey Orchestration 說明](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
 ## ![圖示](/help/assets/primetime.png) Primetime
 
