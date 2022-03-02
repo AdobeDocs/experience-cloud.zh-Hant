@@ -3,9 +3,9 @@ title: Adobe Experience Cloud 教學課程
 description: 所有 Experience Cloud 教學課程和學習指南的連結
 exl-id: 4e92dc16-553f-4dda-9705-c33b99c0b8f3
 source-git-commit: 80a329ad610ee4c1806c97680dc5e15ec5e7aeb0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '366'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 62%
 ## Target
 
 * [Target 學習教學課程](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en)
-* [使用Recommendations](https://experienceleague.adobe.com/docs/target-learn/tutorials/recommendations/use-recommendations-offers.html)
+* [使用 Recommendations](https://experienceleague.adobe.com/docs/target-learn/tutorials/recommendations/use-recommendations-offers.html)
 * [具 Adobe Mobile Services SDK v4 for Android 的 Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/mobile/overview.html)
 
 ## Audience Manager
@@ -28,7 +28,7 @@ ht-degree: 62%
 ## 核心服務與平台服務
 
 * [核心服務學習教學課程](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/overview.html?lang=zh-Hant)
-* [Platform 影片教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Platform 影片教學課程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hant)
 * [Platform 教學課程](https://experienceleague.adobe.com/docs/experience-platform/tutorials/home.html?lang=en)
 * [Launch 實作指南](https://experienceleague.adobe.com/docs/core-services-learn/implementing-in-websites-with-launch/index.html?lang=en)
 * [在行動 iOS Swift 應用程式中實作 Experience Cloud](https://experienceleague.adobe.com/docs/core-services-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
@@ -37,8 +37,8 @@ ht-degree: 62%
 
 ## Campaign
 
-* [Campaign Classic 學習教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-* [Campaign Standard 學習教學課程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)
+* [Campaign Classic 學習教學課程](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hant)
+* [Campaign Standard 學習教學課程](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=zh-Hant)
 
 ## Adobe Experience Manager
 
