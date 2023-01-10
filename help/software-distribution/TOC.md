@@ -9,6 +9,6 @@ ht-degree: 100%
 ---
 
 
-# Experience Cloud軟體分發 {#software-distribution}
+# Experience Cloud Software Distribution {#software-distribution}
 
-+ [Experience Cloud軟體分發](home.md)
++ [Experience Cloud Software Distribution](home.md)
