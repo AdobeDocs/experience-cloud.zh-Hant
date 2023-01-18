@@ -1,15 +1,15 @@
 ---
-user-guide-title: 未知
-user-guide-description: 未知
-breadcrumb-title: 未知
+user-guide-title: Adobe Experience Cloud Triggers
+user-guide-description: Adobe Experience Cloud Triggers
+breadcrumb-title: Adobe Experience Cloud Triggers
 solution: Experience Cloud
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
-workflow-type: ht
-source-wordcount: '0'
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
+workflow-type: tm+mt
+source-wordcount: '14'
 ht-degree: 100%
 
 ---
 
-# 未知 {#unknown}
+# 觸發器 {#triggers}
 
 * [首頁](home.md)

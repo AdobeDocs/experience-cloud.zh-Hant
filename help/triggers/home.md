@@ -1,12 +1,12 @@
 ---
-title: 未知
-description: 未知
-exl-id: 8a277a28-c1ec-499b-9c57-e1f67ffdf327
-source-git-commit: 9a903c2c485bbe3c16d07c8495674856e8f26972
+title: 建立並管理Experience Cloud觸發器
+description: 探索Adobe Experience Cloud Triggers UI
+source-git-commit: fb41c2e26a4945a9d9f24fec7f4c68a35af2c428
 workflow-type: tm+mt
-source-wordcount: '3'
-ht-degree: 100%
+source-wordcount: '16'
+ht-degree: 25%
 
 ---
 
-# 未知
+
+# Adobe Experience Cloud Triggers{#triggers-home}
