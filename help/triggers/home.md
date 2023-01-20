@@ -1,24 +1,24 @@
 ---
-title: 建立並管理Experience Cloud觸發器
-description: 探索Adobe Experience Cloud Triggers UI
+title: 建立和管理 Experience Cloud 觸發器
+description: 探索 Adobe Experience Cloud 觸發器 UI
 hide: true
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
 source-git-commit: 5051c89be0a571df6528ce599c398e174a6d7280
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Cloud Triggers{#triggers-home}
+# Adobe Experience Cloud 觸發器{#triggers-home}
 
-探索新的觸發器UI，了解如何使用。
+探索新的觸發器 UI 並了解如何使用它。
 
-您可以使用Experience Cloud觸發器，使用管道在Adobe Campaign和Adobe Analytics之間連線資料。 管道會從您的網站擷取使用者的動作或觸發器。 放棄購買是觸發的範例。 觸發器會在Adobe Campaign中處理，以近乎即時傳送電子郵件。
+您可以使用 Experience Cloud 觸發器，透過管道在 Adobe Campaign 和 Adobe Analytics 之間連接資料。管道會從您的網站擷取使用者的動作或觸發器。放棄購物車就是一個觸發器例子。在 Adobe Campaign 中處理觸發器，以近乎即時地發送電子郵件。
 
 
-**實用連結：**
+**有用的連結：**
 
-* [Adobe Campaign Standard +Experience Cloud觸發程式檔案](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html)
-* [Adobe Campaign Classic v7 +Experience Cloud觸發器檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html)
-* [Adobe Campaign v8 +Experience Cloud觸發器檔案](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html)
+* [Adobe Campaign Standard + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html)
+* [Adobe Campaign Classic v7 + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html)
+* [Adobe Campaign v8 + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html)
