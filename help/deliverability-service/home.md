@@ -1,15 +1,15 @@
 ---
-title: Adobe傳遞服務管理員
-description: 探索Adobe傳遞服務
+title: Adobe Deliverability Service 管理員
+description: 探索 Adobe Deliverability Services
 hide: true
 source-git-commit: 58d7982b28ec82c34076e52afd0a0edfc9bfd90f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Adobe傳遞服務 {#deliv-home}
+# Adobe Deliverability Services {#deliv-home}
 
 探索新的觸發器 UI 並了解如何使用它。
 
