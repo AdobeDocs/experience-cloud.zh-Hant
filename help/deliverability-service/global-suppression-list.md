@@ -2,9 +2,10 @@
 title: 全球禁止名單
 description: 探索全球禁止名單
 hide: true
-source-git-commit: a946cfb1027896f6e45aaf88d25ad7114d6b5ac6
+exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
+source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
 workflow-type: ht
-source-wordcount: '628'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -109,4 +110,3 @@ ht-degree: 100%
 >[!CAUTION]
 >
 >顧問無法透過介面移除協力廠商服務提供者 Blackbox 自動新增的地址或網域。這只能透過後端票證來完成。
-
