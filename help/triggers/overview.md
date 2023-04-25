@@ -1,18 +1,18 @@
 ---
 title: 建立和管理 Experience Cloud 觸發器
 description: 探索 Adobe Experience Cloud 觸發器 UI
-hide: true
-hidefromtoc: true
-source-git-commit: 9f1b3257e49c34d2909d457c098a2081a2fb69a3
-workflow-type: ht
-source-wordcount: '271'
-ht-degree: 100%
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 觸發器總覽 {#overview}
+# 關於Experience Cloud觸發器 {#overview}
 
 Experience Cloud 觸發器提供用於識別、定義和監控關鍵消費者行為的全方位解決方案。使用這些觸發器，您可以產生成跨應用程式的通訊以重新吸引訪客，從而帶來更加個人化和引人入勝的使用者體驗。
+
+
 您可以在進行即時決策和個人化時使用觸發器，例如：
 
 * 為購物車捨棄或購物車捨棄並刪除產品的行為，設定快速再行銷活動，有助於提高轉換率和收入。

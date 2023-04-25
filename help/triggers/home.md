@@ -1,12 +1,11 @@
 ---
 title: 建立和管理 Experience Cloud 觸發器
 description: 探索 Adobe Experience Cloud 觸發器 UI
-hide: true
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
-source-git-commit: ce0faf9fab45c931feb666ac0c77f5ab5c231746
-workflow-type: ht
-source-wordcount: '132'
-ht-degree: 100%
+source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -14,7 +13,7 @@ ht-degree: 100%
 
 Experience Cloud 觸發器的新使用者介面提供一種直覺體驗來管理消費者行為和個人化使用者體驗。
 
-您可以使用 Experience Cloud 觸發器，透過管道在 Adobe Campaign 和 Adobe Analytics 之間連接資料。管道會從您的網站擷取使用者的動作或觸發器。放棄購物車就是一個觸發器例子。在 Adobe Campaign 中處理觸發器，以近乎即時地發送電子郵件。
+您可以使用 Experience Cloud 觸發器，透過管道在 Adobe Campaign 和 Adobe Analytics 之間連接資料。管道會從您的網站擷取使用者的動作或觸發器。放棄購物車就是一個觸發器例子。觸發器會在Adobe Campaign中處理，以近乎即時傳送電子郵件。
 
 
 **有用的連結：**
