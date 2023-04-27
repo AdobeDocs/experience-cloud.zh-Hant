@@ -1,17 +1,19 @@
 ---
 title: 建立和管理 Experience Cloud 觸發器
 description: 探索 Adobe Experience Cloud 觸發器 UI
-source-git-commit: 743244e72cfe2dfb44a6c9adba699f90db1fe04d
+hide: true
+hidefromtoc: true
+exl-id: 2c8f58aa-cade-46c1-beaa-cfe7720e4e90
+source-git-commit: 7304dc2d08f78bd287fc0cae6e11021aa6ed1149
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '273'
+ht-degree: 100%
 
 ---
 
-# 關於Experience Cloud觸發器 {#overview}
+# 關於 Experience Cloud 觸發器 {#overview}
 
-Experience Cloud 觸發器提供用於識別、定義和監控關鍵消費者行為的全方位解決方案。使用這些觸發器，您可以產生成跨應用程式的通訊以重新吸引訪客，從而帶來更加個人化和引人入勝的使用者體驗。
-
+Experience Cloud 觸發器提供用於識別、定義和監視關鍵消費者行為的全方位解決方案。使用這些觸發器，您可以產生跨應用程式的通訊以重新吸引訪客，從而帶來更加個人化和引人入勝的使用者體驗。
 
 您可以在進行即時決策和個人化時使用觸發器，例如：
 
@@ -26,4 +28,3 @@ Experience Cloud 觸發器提供用於識別、定義和監控關鍵消費者行
 * **丟棄：**&#x200B;您可以建立觸發器，在訪客檢視產品但未新增任何項目至購物車時引發。
 * **動作：**&#x200B;您可以建立觸發器，在電子報註冊、電子郵件訂閱或信用卡申請 (確認) 等動作後引發。如果您是零售商，可針對註冊忠誠度計畫的訪客建立觸發器。若為媒體和娛樂產業，可針對觀看特定節目的訪客建立觸發器，而您可能會想透過意見調查給予回應。
 * **工作階段開始和工作階段結束：**&#x200B;針對工作階段開始和工作階段結束事件建立觸發器。
-
