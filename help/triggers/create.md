@@ -3,8 +3,8 @@ title: 建立和管理 Experience Cloud 觸發器
 description: 探索 Adobe Experience Cloud 觸發器 UI
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 3edbf7991e19d524ce5284a0cdd46676b9640062
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '484'
 ht-degree: 100%
 
 ---
