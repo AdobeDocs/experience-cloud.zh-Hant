@@ -3,9 +3,9 @@ title: 建立和管理 Experience Cloud 觸發器
 description: 探索 Adobe Experience Cloud 觸發器 UI
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 source-git-commit: 9cdff509e07f1e01b6c6a403288093998e5db152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '505'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 95%
 
 >[!AVAILABILITY]
 >
->Adobe Experience Cloud Triggers的新使用者介面將逐步向所有客戶推出。 如需詳細資訊，請聯絡您的Adobe代表。
+>Adobe Experience Cloud 觸發器的新使用者介面已逐步向所有客戶推出。如需詳細資訊，請聯絡您的 Adobe 代表。
 
 建立觸發器並設定觸發器的條件。例如，您可以指定造訪期間觸發器規則的條件，例如「購物車放棄」等量度，或產品名稱等維度。符合規則時，觸發器就會執行。
 
