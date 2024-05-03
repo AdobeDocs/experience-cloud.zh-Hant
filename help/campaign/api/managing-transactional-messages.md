@@ -9,8 +9,7 @@ hide: true
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '661'
 ht-degree: 1%

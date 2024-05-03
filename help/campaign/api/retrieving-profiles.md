@@ -4,8 +4,7 @@ description: 進一步瞭解如何使用API擷取設定檔
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-exl-id: 19679804-f728-49fa-b26e-8f31b67c29bf
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 4%
