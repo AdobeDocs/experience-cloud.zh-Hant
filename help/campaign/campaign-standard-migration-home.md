@@ -2,15 +2,15 @@
 title: Adobe Campaign網頁使用者介面
 description: 探索Adobe Campaign Web使用者介面
 badge: label="可用性限制" type="Informative" url="campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: d63ad47dc2fc7836956234d812001b06172d06a4
+exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
+source-git-commit: ba22719c91d44e537020d17a53ff7f8f6a929111
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-
-# Campaign Standard轉換至Campaign v8 {#triggers-home}
+# Campaign Standard 轉換到 Campaign v8 {#triggers-home}
 
 作為Campaign Standard使用者轉換到Campaign v8，您現在可以從新版本的Adobe Campaign網頁使用者介面和功能強大的v8主控台受益。 此轉變毫無表面性，可讓您使用所有直覺式功能，這些功能旨在簡化建立個人化的跨頻道行銷活動。 Campaign網頁使用者介面也帶來與Adobe Experience Platform連結的畫布，以獲得統一的體驗。
 
@@ -21,7 +21,7 @@ ht-degree: 8%
 * 與Adobe Experience Platform整合
 * 一致的使用者介面和體驗
 
-有關主要功能和概念差異的詳細資訊，請參閱 [此頁面](https://experienceleague.adobe.com/en/docs/campaign-web/v8/rn/acs-migration.html).
+有關主要功能和概念差異的詳細資訊，請參閱 [此頁面](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/release-notes/acs-migration).
 
 ## 新增功能
 
