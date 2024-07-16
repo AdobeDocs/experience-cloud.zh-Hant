@@ -4,17 +4,17 @@ user-guide-description: Adobe Campaign v8
 breadcrumb-title: Adobe Campaign v8
 solution: Experience Cloud
 role: User
-source-git-commit: dfe80854447b2a49b53908947b7814c7b8e29fa5
+source-git-commit: 0650d42102216c353c5843322d01af5af80d2e5c
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 72%
+source-wordcount: '159'
+ht-degree: 71%
 
 ---
 
 # Adobe Campaign v8 {#campaign}
 
 + [首頁](campaign-standard-migration-home.md)
-+ 動態報告 {#reporting}
++ 動態報告{#reporting}
    + [開始使用動態報告](reporting/get-started-reporting.md)
    + 關於報告 {#about-reporting}
       + [關於動態報告](reporting/about-dynamic-reports.md)
@@ -39,7 +39,8 @@ ht-degree: 72%
       + [新增視覺效果](reporting/adding-visualizations.md)
       + [新增元件](reporting/adding-components.md)
       + [建立自訂設定檔維度](reporting/creating-a-custom-profile-dimension.md)
-+ 品牌化 {#branding}
+      + [動態報告使用協定](reporting/pii-agreement.md)
++ 品牌化{#branding}
    + [關於品牌](branding/branding-gs.md)
    + [設定品牌](branding/branding-configure.md)
    + [指派品牌](branding/branding-assign.md)
@@ -64,7 +65,7 @@ ht-degree: 72%
       + [擷取設定檔](api/retrieving-profiles.md)
       + [更新設定檔](api/updating-profiles.md)
       + [建立設定檔](api/creating-profiles-api.md)
-   + 管理服務與訂閱 {#managing-services-and-subscriptiopns}
+   + 管理服務與訂閱{#managing-services-and-subscriptiopns}
       + [建立服務](api/creating-a-service.md)
       + [擷取訂閱](api/retrieving-subscriptions.md)
       + [執行訂閱](api/perform-subscriptions.md)
