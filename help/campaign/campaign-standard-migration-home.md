@@ -21,11 +21,11 @@ ht-degree: 10%
 * 與Adobe Experience Platform整合
 * 一致的使用者介面和體驗
 
-有關主要功能和概念差異的詳細資訊，請參閱 [此頁面](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration).
+如需主要功能與概念差異的詳細資訊，請參閱[此頁面](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)。
 
 ## 新增功能
 
-一覽所提供的全部功能 [Campaign Web使用者介面](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/campaign-web-home) 和 [Campaign v8](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home).
+瞭解[Campaign網頁使用者介面](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/campaign-web-home)和[Campaign v8](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/campaign-home)提供的所有功能和特性。
 
 為了讓您能夠輕鬆轉換，我們已新增從Campaign Standard到v8的關鍵功能：
 

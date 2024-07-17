@@ -4,7 +4,7 @@ description: 如何使用 Adobe Experience Cloud 的 Software Distribution
 exl-id: ac559a28-4444-4326-ba92-78afd10ed9ab
 source-git-commit: e98b6985c8e24e56e021422f8e32cad0d823d440
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '497'
 ht-degree: 100%
 
 ---

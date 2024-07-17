@@ -4,7 +4,8 @@ description: 瞭解如何使用API建立服務
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 91bbce9e-a618-4be2-840b-c7d021271f4e
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # 使用API建立服務{#creating-a-service-api}
 
-使用執行服務建立 **POST** 服務資源上的要求。
+服務建立是以服務資源上的&#x200B;**POST**&#x200B;要求來執行。
 
 如果您想要使用特定屬性建立服務，請將其新增至裝載。 否則，將使用預設服務建立新服務。
 

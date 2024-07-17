@@ -4,7 +4,7 @@ description: 探索 Adobe Experience Cloud 觸發器 UI
 exl-id: aad9c013-6671-4e3b-adfc-fab79f2a3ef7
 source-git-commit: 521c4920728b7be30a64af6797b9477695db77e8
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---

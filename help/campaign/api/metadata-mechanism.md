@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 58ec0999-b28a-4198-8d57-729b074c6a6d
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 1%
@@ -16,13 +17,13 @@ ht-degree: 1%
 
 # 中繼資料機制 {#metadata-mechanism}
 
-您可以使用來擷取資源中繼資料 **resourceType** 在GET要求中：
+您可以在GET要求中使用&#x200B;**resourceType**&#x200B;擷取資源中繼資料：
 
 `GET /profileAndServices/resourceType/<resourceName>`
 
 回應會從資源傳回主要中繼資料（所有其他欄位均為描述性或內部）：
 
-* 此 **內容** 節點會傳回資源的欄位。 針對 **內容** 節點，可以找到下列欄位：
+* **Content**&#x200B;節點會傳回資源的欄位。 對於&#x200B;**content**&#x200B;節點中的每個欄位，我們可以找到下列欄位：
 
    * &quot;apiName&quot;： API中使用的屬性名稱。
    * &quot;type&quot;：這是高階型別定義（字串、數字、連結、集合、列舉……）。
@@ -31,9 +32,9 @@ ht-degree: 1%
    * &quot;resType&quot;：這是技術型別。
 
      如果「type」是以值「link」或「collection」完成，則resTarget值是連結所定位的資源名稱。
-如果「type」是以值「enumeration」填滿，則會新增「values」欄位，每個列舉值都會在 **值** 節點。
+如果「type」以「enumeration」值完成，則會新增「values」欄位，且每個列舉值都會在**values**&#x200B;節點中詳細說明。
 
-* 此 **篩選器** 節點會傳回URL以擷取關聯的篩選器。 如需篩選器的詳細資訊，請參閱 [本節](filtering.md) 區段。
+* **篩選器**&#x200B;節點會傳回URL以擷取關聯的篩選器。 如需篩選的詳細資訊，請參閱[本區段](filtering.md)。
 
 <!-- créer une section au même niveau sur les liens -->
 <!-- dans l'exemple: birthdate, email +  mettre 2 liens : un de type 1-1 , 1-N

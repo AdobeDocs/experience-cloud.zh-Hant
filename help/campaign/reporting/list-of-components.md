@@ -1,10 +1,11 @@
 ---
 title: 元件清單
-description: 請在此處尋找動態報告中每個可用元件的清單及其定義。
+description: 您可以在這裡找到每個可用元件的清單，     動態報告及其定義。
 level: Beginner
 audience: end-user
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: b11d696767209145511b38735f22275a38676ade
+exl-id: 5c58db92-7878-4c70-b076-a393f1cda8b7
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '770'
 ht-degree: 1%
@@ -13,7 +14,7 @@ ht-degree: 1%
 
 # 元件清單 {#list-of-components}
 
-請注意，如果兩個元件不相容，儲存格會顯示值 **無**.
+請注意，如果兩個元件不相容，儲存格會顯示值&#x200B;**無**。
 
 ## 維度 {#dimensions}
 
@@ -29,7 +30,7 @@ ht-degree: 1%
  <tbody> 
   <tr> 
    <td> 瀏覽器<br/> </td> 
-   <td> 開啟或點選訊息的來源瀏覽器。<br/> </td> 
+   <td> 開啟或點選訊息的瀏覽器。<br/> </td> 
   </tr> 
   <tr> 
    <td> Campaign<br/> </td> 
@@ -45,19 +46,19 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 失敗原因<br/> </td> 
-   <td> 導致每次傳遞跳出的錯誤型別，例如使用者不明、網域無效或信箱已滿。<br/> </td> 
+   <td> 造成每個傳遞跳出的錯誤型別，例如使用者不明、無效的網域或信箱已滿。<br/> </td> 
   </tr> 
   <tr> 
    <td> 行動應用程式名稱<br/> </td> 
    <td> 行動應用程式的名稱<br/> </td> 
   </tr>
   <tr> 
-   <td> Platform<br/> </td> 
-   <td> 開啟/檢視/點選訊息的來源裝置平台。<br/> </td> 
+   <td> 平台<br/> </td> 
+   <td> 開啟/檢視/點選訊息的裝置平台。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 個人資料<br/> </td> 
-   <td> 重新分組在設定檔資源擴充期間建立的現成可用和自訂設定檔欄位。<br/> </td> 
+   <td> 設定檔<br/> </td> 
+   <td> 重新分組在設定檔資源擴充期間建立的現成和自訂設定檔欄位。<br/> </td> 
   </tr> 
   <tr> 
    <td> 收件者網域<br/> </td> 
@@ -65,7 +66,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 循環傳遞<br/> </td> 
-   <td> 重複傳送的標籤和ID。<br/> </td> 
+   <td> 重複傳遞的標籤和ID。<br/> </td> 
   </tr> 
   <tr> 
    <td> 寄件者網域<br/> </td> 
@@ -77,19 +78,19 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 追蹤URL<br/> </td> 
-   <td> 使用者從訊息中點按的URL。<br/> </td> 
+   <td> 使用者從訊息點按的URL。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 追蹤網址類別<br/> </td> 
+   <td> 追蹤URL類別<br/> </td> 
    <td> 指派給追蹤URL的類別。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 追蹤網址標籤<br/> </td> 
+   <td> 追蹤URL標籤<br/> </td> 
    <td> 指定給URL的標籤，例如映象頁面、聯絡我們或開啟。<br/> </td> 
   </tr> 
   <tr> 
    <td> 異動傳遞<br/> </td> 
-   <td> 異動傳送的標籤和ID。<br/> </td> 
+   <td> 異動傳遞的標籤和ID。<br/> </td> 
   </tr> 
   <tr> 
    <td> 變體<br/> </td> 
@@ -113,20 +114,20 @@ ht-degree: 1%
  </thead> 
  <tbody> 
   <tr> 
-   <td> 在封鎖清單上<br/> </td> 
+   <td> 在封鎖清單<br/>上 </td> 
    <td> 已將電子郵件宣告為垃圾郵件或垃圾郵件的收件者人數。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 封鎖清單率<br/> </td> 
+   <td> 封鎖清單速率<br/> </td> 
    <td> 封鎖清單上標籤的傳遞百分比。<br/> </td> 
   </tr> 
   <tr> 
    <td> 退回+錯誤<br/> </td> 
-   <td> 與已傳送訊息總數相關的傳遞和自動回訪處理期間累計的錯誤總數。<br/> </td> 
+   <td> 傳遞期間累計的錯誤總數與自動傳回處理相對於已傳送訊息的總數。<br/> </td> 
   </tr> 
   <tr> 
    <td> 退回+錯誤率<br/> </td> 
-   <td> 與已傳送的電子郵件相比跳出的電子郵件百分比。<br/> </td> 
+   <td> 與已傳送的電子郵件相比退回的電子郵件百分比。<br/> </td> 
   </tr> 
   <tr> 
    <td> 按一下<br/> </td> 
@@ -138,14 +139,14 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 已傳遞<br/> </td> 
-   <td> 成功傳送的訊息數（與已傳送訊息總數相關）。<br/> </td> 
+   <td> 成功傳送的訊息數，與已傳送的訊息總數相關。<br/> </td> 
   </tr> 
   <tr> 
    <td> 傳遞率<br/> </td> 
    <td> 已成功傳送的訊息百分比。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 硬退信<br/> </td> 
+   <td> 硬退回<br/> </td> 
    <td> 永久錯誤總數，例如錯誤的電子郵件地址。<br/> </td> 
   </tr> 
   <tr> 
@@ -158,15 +159,15 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 映象頁面速率<br/> </td> 
-   <td> 相較於傳遞訊息總數，映象頁面連結的點按百分比。<br/> </td> 
+   <td> 與傳遞訊息總數相較之下，映象頁面連結的點按百分比。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 優惠點選次數<br/> </td> 
+   <td> 優惠點按<br/> </td> 
    <td> 在傳遞中點按優惠方案的次數。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 優惠點按率<br/> </td> 
-   <td> 優惠的點按百分比。<br/> </td> 
+   <td> 選件點按率<br/> </td> 
+   <td> 對優惠的點按百分比。<br/> </td> 
   </tr> 
   <tr> 
    <td> 開啟<br/> </td> 
@@ -174,7 +175,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 開啟率<br/> </td> 
-   <td> 已開啟訊息的百分比。<br/> </td> 
+   <td> 已開啟郵件的百分比。<br/> </td> 
   </tr> 
   <tr> 
    <td> 已處理/傳送<br/> </td> 
@@ -186,7 +187,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 隔離率<br/> </td> 
-   <td> 相較於已傳送訊息的隔離百分比。<br/> </td> 
+   <td> 與已傳送訊息比較的隔離百分比。<br/> </td> 
   </tr> 
   <tr> 
    <td> 已拒絕<br/> </td> 
@@ -194,11 +195,11 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 拒絕率<br/> </td> 
-   <td> 標示為拒絕的郵件百分比。<br/> </td> 
+   <td> 標籤為已拒絕的郵件百分比。<br/> </td> 
   </tr> 
   <tr> 
    <td> 軟退信<br/> </td> 
-   <td> 暫時性錯誤總數，例如完整收件匣。<br/> </td> 
+   <td> 暫存錯誤總數，例如完整的收件匣。<br/> </td> 
   </tr> 
   <tr> 
    <td> 軟跳出率<br/> </td> 
@@ -206,7 +207,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 不重複點按<br/> </td> 
-   <td> 在傳遞中點按內容的收件者人數。<br/> </td> 
+   <td> 點按傳遞中內容的收件者人數。<br/> </td> 
   </tr> 
   <tr> 
    <td> 不重複開啟<br/> </td> 
@@ -218,7 +219,7 @@ ht-degree: 1%
   </tr> 
   <tr> 
    <td> 取消訂閱率<br/> </td> 
-   <td> 與傳遞的訊息比較的不重複取消訂閱數。<br/> </td> 
+   <td> 與傳遞的訊息相較之下的唯一取消訂閱數目。<br/> </td> 
   </tr> 
   <tr> 
    <td> 已取消訂閱<br/> </td> 
@@ -360,7 +361,7 @@ ht-degree: 1%
  </thead> 
  <tbody> 
   <tr> 
-   <td> 年齡：嬰兒潮1<br/> </td> 
+   <td> 年齡：嬰兒潮一代1<br/> </td> 
    <td> 1946年至1954年出生的收件者。<br/> </td> 
   </tr> 
   <tr> 
@@ -384,40 +385,40 @@ ht-degree: 1%
    <td> 41到50歲的收件者。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 年齡：第X代<br/> </td> 
+   <td> 年齡：層代X<br/> </td> 
    <td> 1966年至1976年出生的收件者。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 年齡：Y代（千禧一代）<br/> </td> 
+   <td> 年齡：第Y代（千禧一代）<br/> </td> 
    <td> 1977年至1994年出生的收件者。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 年齡：Z代<br/> </td> 
-   <td> 1995年至今的收件者。<br/> </td> 
+   <td> 年齡：層代Z<br/> </td> 
+   <td> 1995年至今天出生的收件者。<br/> </td> 
   </tr> 
   <tr> 
    <td> 年齡：大於50<br/> </td> 
    <td> 年齡超過50歲的收件者。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 年齡：25歲以下<br/> </td> 
+   <td> 年齡：小於25<br/> </td> 
    <td> 年齡小於25歲的收件者。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 年齡：少於30歲<br/> </td> 
+   <td> 年齡：小於30<br/> </td> 
    <td> 年齡小於30歲的收件者。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 年齡：40歲以下<br/> </td> 
+   <td> 年齡：小於40<br/> </td> 
    <td> 年齡小於40歲的收件者。<br/> </td> 
   </tr> 
   <tr> 
-   <td> 年齡：少於50歲<br/> </td> 
+   <td> 年齡：小於50<br/> </td> 
    <td> 年齡小於50歲的收件者。<br/> </td> 
   </tr> 
   <tr> 
    <td> 年齡：靜音產生<br/> </td> 
-   <td> 1945年或之前出生的收件者。<br/> </td> 
+   <td> 在1945年或之前出生的收件者。<br/> </td> 
   </tr> 
   <tr> 
    <td> 所有造訪<br/> </td> 

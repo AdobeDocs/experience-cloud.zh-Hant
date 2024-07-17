@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: cdb050b7-d327-42f7-b534-d32d988c8ffb
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 ## 擷取篩選器中繼資料
 
-每個資源都可使用篩選器。 若要識別與資源相關的篩選器，您需要對資源中繼資料執行GET要求。 此請求會傳回URL，其中針對指定資源定義了所有篩選器。 有關中繼資料的詳細資訊，請參閱 [本節](metadata-mechanism.md).
+每個資源都可使用篩選器。 若要識別與資源相關的篩選器，您需要對資源中繼資料執行GET要求。 此請求會傳回URL，其中針對指定資源定義了所有篩選器。 如需中繼資料的詳細資訊，請參閱[本節](metadata-mechanism.md)。
 
 若要識別篩選器的中繼資料並決定其使用方式，您必須在先前傳回的URL上執行GET要求。
 
@@ -65,10 +66,10 @@ ht-degree: 0%
 
 每個篩選器皆可使用相同的中繼資料結構：
 
-* 此 **@formType** 和 **@webPage** 欄位是技術欄位。
-* 此 **資料** 欄位提供如何使用篩選器的範例。
-* 此 **中繼資料** 節點會說明篩選引數。
-* 此 **條件** 節點會說明篩選器的用途。 中繼資料節點中所述的篩選引數是用來建立篩選條件。 對於每個篩選條件，如果 **enabledIf** 為true， **運算式** 將被套用。
+* **@formType**&#x200B;和&#x200B;**@webPage**&#x200B;欄位是技術欄位。
+* **資料**&#x200B;欄位提供如何使用篩選器的範例。
+* **中繼資料**&#x200B;節點說明篩選引數。
+* **條件**&#x200B;節點說明篩選的用途。 中繼資料節點中所述的篩選引數是用來建立篩選條件。 對於每個篩選條件，如果&#x200B;**enabledIf**&#x200B;為true，將會套用&#x200B;**expr**。
 
 <br/>
 
@@ -132,7 +133,8 @@ ht-degree: 0%
   }
   ```
 
-* 擷取電子郵件或姓氏欄位中包含「Doe」的「設定檔」資源的範例GET請求（byText篩選器會搜尋電子郵件和姓氏欄位）。
+* 擷取包含「Doe」的「profile」資源的範例GET請求
+電子郵件或姓氏欄位（byText篩選器會搜尋電子郵件和姓氏欄位）。
 
   ```
   -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/byText?text=Doe \
@@ -200,8 +202,8 @@ ht-degree: 0%
 
 如需詳細資訊，請參閱Campaign Standard檔案：
 
-* [設定篩選定義](https://helpx.adobe.com/campaign/standard/developing/using/configuring-filter-definition.html).
-* [使用案例：使用複合識別鍵呼叫資源](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/uc-calling-resource-id-key.html).
+* [正在設定篩選定義](https://helpx.adobe.com/campaign/standard/developing/using/configuring-filter-definition.html)。
+* [使用案例：使用複合識別索引鍵](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/uc-calling-resource-id-key.html)呼叫資源。
 
 <br/>
 

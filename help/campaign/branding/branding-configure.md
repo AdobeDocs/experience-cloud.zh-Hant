@@ -6,7 +6,8 @@ context-tags: branding,overview;branding,main
 role: Admin
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 56f2d2ff4b2ba4184629615a14724e6640df6961
+exl-id: 7afc802d-e90c-48c8-aa04-3ea543dfdfbc
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 57%
@@ -19,7 +20,7 @@ ht-degree: 57%
 >
 >一般使用者不能建立或修改品牌：這些操作必須由 Adobe Campaign 技術管理員執行。如需任何請求，請與 Adobe 客戶服務聯繫。
 
-在Adobe Campaign V8中，品牌位於 **[!UICONTROL 管理>平台>品牌推廣]** 功能表。
+在Adobe Campaign V8中，您可以在&#x200B;**[!UICONTROL 管理>平台>品牌]**&#x200B;功能表中找到品牌。
 
 **[!UICONTROL 品牌]**&#x200B;由以下特性所定義：
 
@@ -33,7 +34,7 @@ ht-degree: 57%
 
   ![](assets/branding_1.png)
 
-* **[!UICONTROL 已傳送電子郵件的標題引數]** 可以個人化行銷活動的收件者所看到之內容。 本章節包含以下欄位：
+* **[!UICONTROL 已傳送電子郵件的標題引數]**，可個人化行銷活動的收件者所看到之內容。 本章節包含以下欄位：
 
    * 使用品牌電子郵件的&#x200B;**[!UICONTROL 寄件者（電子郵件）]**。
    * 使用品牌名稱的&#x200B;**[!UICONTROL 寄件者（姓名）]**。
@@ -47,11 +48,11 @@ ht-degree: 57%
 
   ![](assets/branding_2.png)
 
-* **[!UICONTROL 品牌設定]** 定義用於追蹤及登入頁面存取的伺服器。 本章節包含以下欄位：
+* **[!UICONTROL 品牌設定]**&#x200B;定義用於追蹤及登入頁面存取的伺服器。 本章節包含以下欄位：
 
-   * **[!UICONTROL 品牌子網域]** 是指要求從Adobe委派的此品牌專屬指定子網域URL。
+   * **[!UICONTROL 品牌子網域]**&#x200B;參考到Adobe要求委派給此品牌的特定指定子網域URL。
 
-  請注意，追蹤、映象和應用程式伺服器的設定會儲存在與路由關聯的個別外部帳戶中。 這些設定會在布建期間套用，且不應加以修改。 若要顯示URL，請存取 **[!UICONTROL 品牌首碼]** 標籤來自您的外部帳戶。
+  請注意，追蹤、映象和應用程式伺服器的設定會儲存在與路由關聯的個別外部帳戶中。 這些設定會在布建期間套用，且不應加以修改。 若要顯示URL，請從您的外部帳戶存取&#x200B;**[!UICONTROL 品牌首碼]**&#x200B;索引標籤。
 
   ![](assets/branding_3.png)
 

@@ -4,7 +4,8 @@ description: 透過開啟報表，瞭解根據各種條件檢視的傳送次數�
 audience: end-user
 level: Intermediate
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: dcd794bb-05be-430f-868e-b63d242debc6
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 46%

@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: d6ebce3c-1e84-4b3b-a68d-90df4680af64
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -18,13 +19,13 @@ ht-degree: 1%
 
 依預設，清單中會載入25個資源。
 
-此 **_lineCount** 引數可讓您限制回應中列出的資源數量。  然後，您可以使用 **下一個** 節點以顯示下一個結果。
+**_lineCount**&#x200B;引數可讓您限制回應中列出的資源數目。  然後您可以使用&#x200B;**next**&#x200B;節點來顯示下一個結果。
 
 >[!NOTE]
 >
->一律使用中傳回的URL值 **下一個** 節點，以執行分頁要求。
+>一律使用&#x200B;**next**&#x200B;節點中傳回的URL值來執行分頁要求。
 >
->此 **_lineStart** 要求已計算且必須一律用於 **下一個** 節點。
+>已計算&#x200B;**_lineStart**&#x200B;要求，且必須一律用於&#x200B;**next**&#x200B;節點中傳回的URL。
 
 <br/>
 
@@ -40,7 +41,7 @@ ht-degree: 1%
 -H 'X-Api-Key: <API_KEY>'
 ```
 
-使用回應要求 **下一個** 節點以執行分頁。
+回應要求，使用&#x200B;**next**&#x200B;節點執行分頁。
 
 ```
 {
@@ -61,7 +62,7 @@ ht-degree: 1%
 }
 ```
 
-根據預設， **下一個** 與含有大量資料的表格互動時，節點不可用。 若要執行分頁，您必須新增 **_forcePagination=true** 引數至您的呼叫URL。
+依預設，在與含有大量資料的資料表互動時，**next**&#x200B;節點無法使用。 若要執行分頁，您必須將&#x200B;**_forcePagination=true**&#x200B;引數新增至您的呼叫URL。
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile?_forcePagination=true \
@@ -73,4 +74,4 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->在Campaign Standard中會定義表格被視為大型的記錄數 **XtkBigTableThreshold** 選項。 預設值為100,000筆記錄。
+>在Campaign Standard **XtkBigTableThreshold**&#x200B;選項中定義了資料表被視為大型的記錄數。 預設值為100,000筆記錄。

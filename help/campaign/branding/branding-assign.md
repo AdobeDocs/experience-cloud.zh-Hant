@@ -6,7 +6,8 @@ context-tags: branding,overview;branding,main
 role: Admin
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 51abadc86b97097d13824651d8c50d4ddd014a51
+exl-id: 8f6a5255-0245-497b-880f-d91ea82ee19e
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 18%
@@ -31,23 +32,23 @@ ht-degree: 18%
 
 若要建立傳遞範本，您可以複製內建範本、將現有傳遞轉換為範本或從頭開始建立傳遞範本。 [了解更多](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/create-templates)
 
-建立範本後，您就可以將其連結至品牌。執行方法：
+建立範本後，您就可以將其連結至品牌。操作步驟：
 
-1. 瀏覽至 **[!UICONTROL 資源]** `>` **[!UICONTROL 範本]** `>` **[!UICONTROL 傳遞範本]** 在Adobe Campaign explorer中。
+1. 在Adobe Campaign總管中瀏覽至&#x200B;**[!UICONTROL 資源]** `>` **[!UICONTROL 範本]** `>` **[!UICONTROL 傳遞範本]**。
 
 1. 選取傳遞範本或複製現有範本。
 
    ![](assets/branding_assign_V8_1.png)
 
-1. 存取 **[!UICONTROL 屬性]** 所選傳遞範本的ID。
+1. 存取您所選傳遞範本的&#x200B;**[!UICONTROL 屬性]**。
 
    ![](assets/branding_assign_V8_2.png)
 
-1. 從 **[!UICONTROL 一般]** 索引標籤中，選取您的品牌 **[!UICONTROL 品牌化]** 下拉式清單。
+1. 從&#x200B;**[!UICONTROL 一般]**&#x200B;標籤中，從&#x200B;**[!UICONTROL 品牌]**&#x200B;下拉式清單中選取您的品牌。
 
    ![](assets/branding_assign_V8_3.png)
 
-1. 設定後，選取 **確定**.
+1. 設定之後，選取&#x200B;**確定**。
 
 您現在可以使用此範本來傳送您的傳遞。
 
@@ -55,17 +56,17 @@ ht-degree: 18%
 
 若要建立傳遞範本，您可以複製內建範本、將現有傳遞轉換為範本或從頭開始建立傳遞範本。 [了解更多](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template)
 
-建立範本後，您就可以將其連結至品牌。執行方法：
+建立範本後，您就可以將其連結至品牌。操作步驟：
 
-1. 瀏覽至 **[!UICONTROL 範本]** 標籤，從 **[!UICONTROL 傳遞]** 左側功能表，並選取傳遞範本。
+1. 從左側&#x200B;**[!UICONTROL 傳送]**&#x200B;功能表瀏覽至&#x200B;**[!UICONTROL 範本]**&#x200B;索引標籤，並選取傳送範本。
 
    ![](assets/branding_assign_web_1.png)
 
-1. 按一下 **[!UICONTROL 設定]**.
+1. 按一下&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/branding_assign_web_2.png)
 
-1. 從 **[!UICONTROL 傳遞]** 標籤，存取 **[!UICONTROL 品牌化]** 欄位並選取您要連結至範本的品牌。
+1. 從&#x200B;**[!UICONTROL 傳遞]**&#x200B;索引標籤，存取&#x200B;**[!UICONTROL 品牌]**&#x200B;欄位，並選取您要連結至範本的品牌。
 
    ![](assets/branding_assign_web_3.png)
 
@@ -83,31 +84,31 @@ ht-degree: 18%
 
 若要建立新的獨立傳送，請遵循下列步驟。
 
-1. 若要建立新傳遞，請瀏覽至 **[!UICONTROL 行銷活動]** 標籤。
+1. 若要建立新傳遞，請瀏覽至&#x200B;**[!UICONTROL 行銷活動]**&#x200B;標籤。
 
-1. 按一下 **[!UICONTROL 傳遞]** 並按一下 **[!UICONTROL 建立]** 按鈕。
+1. 按一下&#x200B;**[!UICONTROL 傳遞]**，然後按一下現有傳遞清單上方的&#x200B;**[!UICONTROL 建立]**&#x200B;按鈕。
 
    ![](assets/branding_assign_V8_4.png)
 
 1. 選取傳遞範本。
 
-1. 存取 **[!UICONTROL 屬性]** 所選傳遞範本的ID。
+1. 存取您所選傳遞範本的&#x200B;**[!UICONTROL 屬性]**。
 
    ![](assets/branding_assign_V8_5.png)
 
-1. 從 **[!UICONTROL 一般]** 索引標籤中，選取您的品牌 **[!UICONTROL 品牌化]** 下拉式清單。
+1. 從&#x200B;**[!UICONTROL 一般]**&#x200B;標籤中，從&#x200B;**[!UICONTROL 品牌]**&#x200B;下拉式清單中選取您的品牌。
 
    ![](assets/branding_assign_V8_6.png)
 
-1. 設定後，選取 **確定**.
+1. 設定之後，選取&#x200B;**確定**。
 
-1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱 [設計和傳送電子郵件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 區段。
+1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱[設計和傳送電子郵件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email)區段。
 
 >[!TAB Adobe Campaign Web]
 
 若要建立新的獨立傳送，請遵循下列步驟。
 
-1. 瀏覽至 **[!UICONTROL 傳遞]** 功能表，然後按一下 **[!UICONTROL 建立傳遞]** 按鈕。
+1. 瀏覽至左側邊欄上的&#x200B;**[!UICONTROL 傳遞]**&#x200B;功能表，然後按一下&#x200B;**[!UICONTROL 建立傳遞]**&#x200B;按鈕。
 
    ![](assets/branding_assign_web_4.png)
 
@@ -115,11 +116,11 @@ ht-degree: 18%
 
 1. 按一下「**[!UICONTROL 建立傳遞]**」按鈕以確認。
 
-1. 從 **[!UICONTROL 屬性]** 頁面，按一下 **[!UICONTROL 設定]**.
+1. 從&#x200B;**[!UICONTROL 屬性]**&#x200B;頁面，按一下&#x200B;**[!UICONTROL 設定]**。
 
    ![](assets/branding_assign_web_5.png)
 
-1. 從 **[!UICONTROL 傳遞]** 標籤，存取 **[!UICONTROL 品牌化]** 欄位。
+1. 從&#x200B;**[!UICONTROL 傳遞]**&#x200B;索引標籤，存取&#x200B;**[!UICONTROL 品牌]**&#x200B;欄位。
 
    ![](assets/branding_assign_web_6.png)
 
@@ -127,6 +128,6 @@ ht-degree: 18%
 
    ![](assets/branding_assign_web_7.png)
 
-1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱 [建立您的第一封電子郵件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email) 區段。
+1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱[建立您的第一封電子郵件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email)區段。
 
 >[!ENDTABS]

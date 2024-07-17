@@ -4,7 +4,8 @@ description: 在內建或自訂的動態報表中分析促銷活動的成功。
 audience: end-user
 level: Beginner
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 3f4400f24b75e8e435610afbe49e9d9444dbf563
+exl-id: 6feac90f-f7c1-48b5-94ff-7fef92a2af83
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 11%
@@ -19,9 +20,9 @@ ht-degree: 11%
 
 <img src="assets/do-not-localize/icon_manage.svg" width="60px">
 
-使用動態報告 **拖放介面**，您可以探索資料、判斷電子郵件行銷活動針對最重要客戶細分的執行方式，並從單一位置衡量其對收件者的影響。
+透過動態報告&#x200B;**拖放介面**，您可以探索資料、判斷電子郵件行銷活動針對最重要客戶細分的執行方式，並從單一位置評估其對收件者的影響。
 
-**管理您的動態報表** 提供多種功能：即時重新整理資料、列印報表，或匯出為CSV檔案。
+**藉由各種功能管理您的動態報告**：即時重新整理資料、列印報告，或將其匯出為CSV檔案。
 
 詳細內容：
 
@@ -32,9 +33,9 @@ ht-degree: 11%
 
 <img src="assets/do-not-localize/icon_build.svg" width="60px">
 
-Adobe Campaign Web使用者介面隨附一組 **現成可用的動態報表** 可讓您測量行銷活動的多個方面：退信、被宣告為最多垃圾郵件或垃圾郵件的傳送、收件者檢視次數最多的傳送、管道相關報表、傳送吞吐量和追蹤報表……
+Adobe Campaign Web使用者介面隨附一組&#x200B;**立即可用的動態報表**，可讓您測量行銷活動的多個方面：退信、被宣告為最多垃圾郵件或垃圾郵件的傳送、收件者檢視次數最多的傳送、管道相關報表、傳送輸送量和追蹤報表……
 
-**結合不同的元件** （維度、量度和區段、時段）來建立您自己的報表，或個人化現成可用的報表。
+**結合不同的元件** （維度、量度和區段、時段）以建置您自己的報表或個人化現成可用的報表。
 
 詳細內容：
 
@@ -46,13 +47,12 @@ Adobe Campaign Web使用者介面隨附一組 **現成可用的動態報表** �
 
 <img src="assets/do-not-localize/icon_customize.svg" width="60px">
 
-**自訂您的報表** 善用動態報告設計功能：視需要新增更多元件（面板和自由表格），使用可用的量度和維度分析資料。
+**運用動態報告設計功能來自訂報告**：新增您需要的元件（面板和自由表格），以使用可用的量度和維度分析資料。
 
-拖放 **視覺效果專案** 將資料的圖形化表示方式新增至報表，並根據您的需求進行設定。
+拖放&#x200B;**視覺化專案**&#x200B;以將資料的圖形化表示方式加入報表，並根據您的需求進行設定。
 
 詳細內容：
 
 * [新增面板](adding-panels.md)
 * [新增視覺效果](adding-visualizations.md)
 * [新增元件](adding-components.md)
-

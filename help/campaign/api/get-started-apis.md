@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: c6968252-a012-4029-bbb8-66f4f693e99b
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 48%
@@ -22,7 +23,7 @@ ht-degree: 48%
 >
 >在執行 API 呼叫之前，請檢查與您的授權合約相應的比例限制。如需詳細資訊，請參閱[此頁面](https://helpx.adobe.com/legal/product-descriptions/campaign-standard.html#ITInfrastructureResourcesbyActiveProfilesTiers)。
 
-Campaign REST API的目的是讓您能夠 **建立整合** 適用於Adobe Campaign和 **打造專屬生態系統** 將Adobe Campaign與您使用的技術面板連線。
+Campaign REST API的目的是讓您&#x200B;**建立Adobe Campaign的整合**，並將Adobe Campaign與您使用的技術面板結合，以建立您自己的生態系統&#x200B;**。**
 
 透過Adobe Campaign REST API，您可以存取下列功能：
 

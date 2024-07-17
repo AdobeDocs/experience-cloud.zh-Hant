@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 7db25b8d-a6f1-4151-bf37-c47e9991ae48
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 10%
@@ -16,7 +17,7 @@ ht-degree: 10%
 
 # 排序
 
-排序預設為依遞增順序提供。 若要以遞減順序排序，請附加 **%20desc** 至 **順序(_O)** 引數的值。
+排序預設為依遞增順序提供。 若要以遞減順序排序，請將&#x200B;**%20desc**&#x200B;附加至&#x200B;**_order**&#x200B;引數的值。
 
 若要知道欄位是否可以排序，請將「可排序」引數核取至資源中繼資料中。 如需詳細資訊，請參閱[本章節](metadata-mechanism.md)。
 

@@ -8,7 +8,8 @@ role: Data Engineer
 level: Experienced
 mini-toc-levels: 1
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 4ddde59006a72f34090a0ed4a765447c69c5f029
+exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
+source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
 workflow-type: tm+mt
 source-wordcount: '1165'
 ht-degree: 1%
@@ -27,7 +28,7 @@ ht-degree: 1%
 
 ### 租使用者ID
 
-移轉後，對於未來的任何整合，建議使用 **Campaign v8租使用者ID** 在REST URL中，取代您先前的Campaign Standard租使用者ID。
+移轉後，對於未來的任何整合，建議在REST URL中使用您的&#x200B;**Campaign v8租使用者ID**，取代您之前的Campaign Standard租使用者ID。
 
 ### 金鑰使用方法
 
@@ -44,7 +45,7 @@ Campaign Standard和Campaign v8的PKey值管理方式不同。 如果您使用Ca
 
 >[!AVAILABILITY]
 >
->目前， **異動訊息** REST API無法使用。
+>目前無法使用&#x200B;**交易式訊息** REST API。
 >
 >下列REST API已過時，無法使用：
 >* 行銷歷史記錄
@@ -53,7 +54,7 @@ Campaign Standard和Campaign v8的PKey值管理方式不同。 如果您使用Ca
 
 ## 篩選
 
-* 若要在REST API裝載中使用篩選器，您需要在Campaign v8中編輯篩選器，並提供要在裝載中使用的名稱。 若要這麼做，請從以下位置存取篩選器的其他引數： **[!UICONTROL 引數]** 標籤，並在中提供所需的名稱 **[!UICONTROL REST API中的篩選器名稱]** 欄位。
+* 若要在REST API裝載中使用篩選器，您需要在Campaign v8中編輯篩選器，並提供要在裝載中使用的名稱。 若要這麼做，請從&#x200B;**[!UICONTROL 引數]**&#x200B;索引標籤存取篩選器的其他引數，並在REST API ]**欄位的**[!UICONTROL &#x200B;篩選名稱中提供所需的名稱。
 
   ![](assets/api-filtering.png)
 
@@ -113,13 +114,13 @@ Campaign Standard和Campaign v8的PKey值管理方式不同。 如果您使用Ca
 | 在URI中使用不存在的原始識別碼 | 404 - RST-360011發生錯誤 — 請聯絡您的管理員。 無法從索引鍵「adobe_nl：0」（結構描述為「service」且名稱為「adobe_nl」的檔案）找到路徑為「Service」的檔案 | 404 — 無法從索引鍵「adobe_nl」找到路徑為「Service」的檔案（結構描述為「service」且名稱為「adobe_nl」的檔案） |
 | 在請求內文中使用不存在的原始ID | 404 - RST-360011發生錯誤 — 請聯絡您的管理員。 無法從索引鍵「adobe_nl」找到路徑為「Service」的檔案（結構描述為「service」且名稱為「adobe_nl」的檔案） | 404 — 無法從索引鍵「adobe_nl」找到路徑為「Service」的檔案（結構描述為「service」且名稱為「adobe_nl」的檔案） |
 | - | 500 - RST-360011發生錯誤 — 請聯絡您的管理員。 | 500 — 發生錯誤 — 請聯絡您的管理員。 |
-| 插入包含無效性別（或任何）列舉值的設定檔/服務 | 500 - RST-360011發生錯誤 — 請聯絡您的管理員。 &#39;invalid&#39;值對&#39;nms無效:recipient:「@gender」欄位的性別」分項清單 | 500 — 發生錯誤 — 請聯絡您的管理員。 |
+| 插入包含無效性別（或任何）列舉值的設定檔/服務 | 500 - RST-360011發生錯誤 — 請聯絡您的管理員。 &#39;invalid&#39;值對&#39;@gender&#39;欄位的&#39;nms:recipient:gender&#39;列舉無效 | 500 — 發生錯誤 — 請聯絡您的管理員。 |
 
 ## 設定檔 — 時區
 
-透過Campaign Standard，時區會顯示為的JSON回應的一部分 **profileAndServices/profile** REST API呼叫。
+透過Campaign Standard，時區會顯示為&#x200B;**profileAndServices/profile** REST API呼叫的JSON回應的一部分。
 
-使用Campaign v8時，時區僅向使用者顯示為的一部分 **profileAndServicesExt/profile** REST API呼叫。 它不是的一部分 **profileAndServices/profile** REST API呼叫，因為它已新增至擴充結構描述中。
+使用Campaign v8時，時區只會顯示為&#x200B;**profileAndServicesExt/profile** REST API呼叫的一部分。 它不是&#x200B;**profileAndServices/profile** REST API呼叫的一部分，因為它已新增至擴充型結構描述。
 
 ## 工作流程 — 外部訊號觸發
 

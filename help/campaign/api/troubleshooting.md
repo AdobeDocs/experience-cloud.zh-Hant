@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # API疑難排解 {#troubleshooting}
 
-* **前往Adobe.io主控台時，您會收到下列錯誤：「Adobe I/O主控台僅適用於選取企業帳戶的成員。 如果您認為您應該擁有存取權，請聯絡您的系統管理員。」**
+* **前往Adobe.io主控台時，您會收到下列錯誤：「Adobe I/O主控台僅適用於選取企業帳戶的成員。 如果您認為您應該擁有存取權，請聯絡您的系統管理員。&quot;**
 
 您只能為您所管理的組織建立API金鑰。 如果顯示此訊息，而您想要建立API金鑰，並且想要詢問組織的管理員之一。
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 }
 ```
 
-* **向Adobe.io發出請求時，您會收到{&quot;code&quot;：500， &quot;message&quot;：&quot;Oops. 發生錯誤。 請檢查您的URI，然後再試一次。&quot;}**
+* **向Adobe.io發出請求時，您會收到{&quot;code&quot;：500，&quot;message&quot;：&quot;Oops. 發生錯誤。 請檢查您的URI，然後再試一次。&quot;}**
 
 Adobe.io會宣告您無效的URI：很可能是您請求的URI無效。 在Adobe.io上，當您選取Campaign服務時，畫面會顯示一個選擇器，其中包含可能的organization_id清單。 您需要確認您選擇的檔案是否為放入URL中的檔案。
 
@@ -81,9 +81,9 @@ Adobe.io會宣告您無效的URI：很可能是您請求的URI無效。 在Adobe
 
 您的權杖無效（用來產生權杖的不正確IMS呼叫）或您的權杖已過期。
 
-* **建立後看不到我的設定檔**
+* **我在建立後沒有看到我的設定檔**
 
-視執行個體組態而定，建立的設定檔需要關聯至 **orgUnit**. 若要瞭解如何在建立中新增此欄位，請參閱 [本節](creating-profiles-api.md).
+根據執行個體組態，建立的設定檔必須關聯至&#x200B;**orgUnit**。 若要瞭解如何在建立時新增此欄位，請參閱[本節](creating-profiles-api.md)。
 
 <!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
 

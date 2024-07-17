@@ -7,10 +7,11 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '481'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -51,19 +52,19 @@ Adobe Campaign Standard提供的API可讓現有系統與Campaign平台整合，�
 >
 >我們的範例使用Postman。 不過，您可以隨意使用您最愛的REST使用者端。
 
-1. 按一下「 」以下載JSON集合 [此處](https://helpx.adobe.com/content/dam/help/en/campaign/kb/working-with-acs-api/_jcr_content/main-pars/download_section/download-1/KB_postman_collection.json.zip).
+1. 按一下[這裡](https://helpx.adobe.com/content/dam/help/en/campaign/kb/working-with-acs-api/_jcr_content/main-pars/download_section/download-1/KB_postman_collection.json.zip)下載JSON集合。
 
-1. 開啟Postman，然後選取 **檔案** / **匯入** 功能表。
+1. 開啟Postman，然後選取&#x200B;**檔案** / **匯入**&#x200B;功能表。
 
 1. 將下載的檔案拖放至視窗中。 預先設計的API要求隨即顯示，可供使用。
 
    ![替代文字](assets/postman_collection.png)
 
-1. 選取 **建立設定檔** 請求，然後更新POST請求和 **標頭** 以您自己的資訊定位(&lt;organization>， &lt;api_key>， &lt;access_token>)。 如需詳細資訊，請參閱[本章節](setting-up-api-access.md)。
+1. 選取&#x200B;**建立設定檔**&#x200B;要求，然後使用您自己的資訊(&lt;ORGANIZATION>、&lt;API_KEY>、&lt;ACCESS_TOKEN>)更新POST要求和&#x200B;**標頭**&#x200B;標籤。 如需詳細資訊，請參閱[本章節](setting-up-api-access.md)。
 
    ![替代文字](assets/postman_uc1.png)
 
-1. 填入 **內文** 以您要新增至新設定檔的資訊標籤，然後按一下 **傳送** 按鈕以執行要求。
+1. 在&#x200B;**內文**&#x200B;索引標籤中填入您要新增至新設定檔的資訊，然後按一下&#x200B;**傳送**&#x200B;按鈕以執行要求。
 
    ![替代文字](assets/postman_uc2.png)
 

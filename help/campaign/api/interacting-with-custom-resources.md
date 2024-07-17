@@ -7,7 +7,8 @@ topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 19bfeecb-da60-479c-a929-0cfb72ef59e3
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -16,7 +17,7 @@ ht-degree: 0%
 
 # 與自訂資源互動 {#interacting-with-custom-resources}
 
-此 **/customResources** 端點可讓您在REST中公開Campaign自訂資源。 根據此API，可整合自訂實體和外部端點。
+**/customResources**&#x200B;端點可讓您在REST中公開Campaign自訂資源。 根據此API，可整合自訂實體和外部端點。
 
 /customResources端點的行為與/profileAndServices端點完全相同。
 

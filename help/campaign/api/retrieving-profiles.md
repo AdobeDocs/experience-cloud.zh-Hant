@@ -4,7 +4,8 @@ description: 進一步瞭解如何使用API擷取設定檔
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 19679804-f728-49fa-b26e-8f31b67c29bf
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 4%
@@ -13,9 +14,9 @@ ht-degree: 4%
 
 # 使用API擷取設定檔 {#retrieving-profiles}
 
-擷取設定檔是使用 **GET** 要求。
+擷取設定檔是透過&#x200B;**GET**&#x200B;要求執行的。
 
-接著，您就可以使用篩選器、排序和分頁來縮小搜尋範圍。 有關詳細資訊，請參閱 [其他操作](sorting.md) 區段。
+接著，您就可以使用篩選器、排序和分頁來縮小搜尋範圍。 如需詳細資訊，請參閱[其他作業](sorting.md)區段。
 
 此外，Campaign StandardAPI可讓您根據以下欄位之一搜尋設定檔：電子郵件、名字、姓氏或任何自訂欄位。 如需詳細資訊，請參閱[本章節](#searching-field)。
 
@@ -84,7 +85,7 @@ ht-degree: 4%
 
 ## 根據欄位搜尋設定檔 {#searching-field}
 
-此 **[!UICONTROL 篩選型別]** 引數可讓您根據以下欄位之一擷取設定檔：電子郵件、名字、姓氏，或在擴充設定檔資源時已在進階篩選中新增的任何自訂欄位。
+**[!UICONTROL filterType]**&#x200B;引數可讓您根據以下欄位之一擷取設定檔：電子郵件、名字、姓氏，或在擴充設定檔資源時已在進階篩選中新增的任何自訂欄位。
 
 >[!NOTE]
 >

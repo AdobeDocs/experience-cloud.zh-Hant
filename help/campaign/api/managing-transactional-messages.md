@@ -9,7 +9,8 @@ hide: true
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '661'
 ht-degree: 1%
@@ -22,8 +23,8 @@ ht-degree: 1%
 
 例如，您想要在客戶購買購物車中的產品之前，於其中一人離開您的網站時觸發「購物車放棄」事件。 若要這麼做，身為網頁開發人員，您必須使用REST異動訊息API。
 
-1. 根據POST方法傳送要求，這會觸發 [傳送異動事件](#sending-a-transactional-event).
-1. 對POST要求的回應包含主索引鍵，可讓您透過GET要求傳送一或多個要求。 然後，您就可以取得 [事件狀態](#transactional-event-status).
+1. 根據POST方法傳送要求，這會觸發異動事件的[傳送](#sending-a-transactional-event)。
+1. 對POST要求的回應包含主索引鍵，可讓您透過GET要求傳送一或多個要求。 然後，您就可以取得[事件狀態](#transactional-event-status)。
 
 ## 傳送異動事件 {#sending-a-transactional-event}
 
@@ -33,9 +34,9 @@ ht-degree: 1%
 POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 ```
 
-* **&lt;organization>**：您的個人組織ID。 請參閱[本節](must-read.md)。
+* **&lt;組織>**：您的個人組織識別碼。 請參閱[本節](must-read.md)。
 
-* **&lt;transactionalapi>**：異動訊息API端點。
+* **&lt;transactionalAPI>**： Transactional Messages API端點。
 
   異動訊息API端點的名稱取決於您的執行個體設定。 它與值「mc」相對應，後接您的個人組織ID。 讓我們以「geometrixx」作為其組織ID的Geometrixx公司為例。 在此情況下，POST要求會如下所示：
 
@@ -43,13 +44,13 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 
   請注意，交易式訊息API端點也會在API預覽期間顯示。
 
-* **&lt;eventid>**：您要傳送的事件型別。 此ID是在建立事件設定時產生的
+* **&lt;eventID>**：您要傳送的事件型別。 此ID是在建立事件設定時產生的
 
 ### POST請求標頭
 
 請求必須包含「Content-Type： application/json」標頭。
 
-例如，您必須新增字元集 **utf-8**. 請注意，此值取決於您使用的REST應用程式。
+您必須新增字元集，例如&#x200B;**utf-8**。 請注意，此值取決於您使用的REST應用程式。
 
 ```
 -X POST \
@@ -66,8 +67,8 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 
 您可以將下列選用引數新增至事件內容，以管理連結至事件的異動訊息的傳送：
 
-* **有效期** （選用）：在此日期之後，交易事件的傳送將會取消。
-* **已排程** （選用）：從此日期起，將會處理交易式事件並傳送交易式訊息。
+* **到期** （選用）：在此日期之後，將會取消交易式事件的傳送。
+* **已排程** （選用）：從這個日期起，將會處理交易式事件並傳送交易式訊息。
 
 >[!NOTE]
 >
@@ -132,11 +133,11 @@ POST回應會傳回建立交易式事件時的狀態。 若要擷取其目前狀
 在回應中，「狀態」欄位可讓您知道事件是否已處理：
 
 * **擱置中**：事件擱置中 — 事件會在剛觸發時採取此狀態。
-* **處理**：事件正在等候傳遞 — 它正在轉換為訊息，且訊息正在傳送。
-* **已暫停**：事件程式已暫停。 系統將不再處理該檔案，但會將其保留在Adobe Campaign資料庫的佇列中。
-* **已處理**：事件已處理且訊息已成功傳送。
-* **已忽略**：傳送會忽略事件，通常是在地址處於隔離狀態時。
-* **deliveryFailed**：處理事件時發生傳送錯誤。
-* **routingFailed**：路由階段失敗 — 例如，當找不到指定的事件型別時，可能會發生此狀況。
-* **太舊**：事件在能夠處理之前過期 — 例如，傳送多次失敗（導致事件不再最新）或伺服器在超載後無法再處理事件時，可能會因為各種原因發生這種情況。
-* **目標定位失敗**：Campaign Standard無法擴充用於訊息定位的連結。
+* **正在處理**：事件正在等候傳遞 — 它正在轉換成訊息，而且正在傳送訊息。
+* **已暫停**：事件處理序正在暫停。 系統將不再處理該檔案，但會將其保留在Adobe Campaign資料庫的佇列中。
+* **已處理**：事件已處理，訊息已成功傳送。
+* **已忽略**：傳送已忽略事件，通常是在隔離位址時。
+* **deliveryFailed**：處理事件時發生傳遞錯誤。
+* **routingFailed**：路由階段失敗 — 例如，當找不到指定的事件型別時，可能會發生這種情況。
+* **tooOld**：事件在可以處理之前就過期了 — 這可能是由多種原因造成的，例如，傳送多次失敗（這會導致事件不再最新），或是伺服器在超載後無法再處理事件。
+* **targetingFailed**：Campaign Standard無法擴充用於訊息目標定位的連結。

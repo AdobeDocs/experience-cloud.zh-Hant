@@ -4,7 +4,8 @@ description: 進一步瞭解如何使用API更新設定檔
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+exl-id: fa3796ee-a00c-4d70-bf3d-e8d2099f1116
+source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 1%
@@ -13,13 +14,13 @@ ht-degree: 1%
 
 # 使用API更新設定檔{#updating-profiles-api}
 
-更新設定檔是使用 **PATCH** 要求。
+更新設定檔是透過&#x200B;**PATCH**&#x200B;要求執行的。
 
 `https://mc.adobe.io/<ORGANIZATION>/campaign/<apiName>/<resourceName>/<PKEY>`
 
-1. 第一步是 **擷取設定檔**.
+1. 第一個步驟是&#x200B;**擷取設定檔**。
 
-1. 在第二個要求中，執行 **PATCH要求** 在承載中具有已完成資訊的設定檔上。
+1. 在第二個要求中，對設定檔執行&#x200B;**PATCH要求**，並在承載中包含已完成的資訊。
 
 1. 若要檢查PATCH請求是否已更新設定檔，我們可以執行最終GET請求。
 
