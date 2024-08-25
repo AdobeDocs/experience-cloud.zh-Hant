@@ -4,13 +4,13 @@ description: 進一步瞭解動態報告使用協定
 level: Beginner
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 audience: end-user
-source-git-commit: c6a6cb7da640c9c29af71487e468f38ebf51d4f6
+exl-id: 9fcef466-f306-480e-b42e-d18daa8bcf06
+source-git-commit: dbdf1c4f8b676c73a7cc3a46af2838ebb9326457
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 1%
 
 ---
-
 
 # 動態報告使用協定 {#pii-agreement}
 
