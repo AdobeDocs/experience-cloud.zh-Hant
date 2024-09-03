@@ -7,10 +7,10 @@ role: Admin
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: 7afc802d-e90c-48c8-aa04-3ea543dfdfbc
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 57%
+source-wordcount: '377'
+ht-degree: 42%
 
 ---
 
@@ -56,10 +56,8 @@ ht-degree: 57%
 
   ![](assets/branding_3.png)
 
-<!--![](assets/branding_05.png)-->
+* **[!UICONTROL 追蹤URL設定]**&#x200B;功能表可讓您定義其他引數，以便與Adobe Analytics和Google Analytics等網站分析工具整合，藉此增強URL追蹤。
 
-<!--
-* **[!UICONTROL Tracking URL configs]**, which defines the configuration of the URLs tracking for your brand.
+  使用&#x200B;**[!UICONTROL 其他URL引數]**&#x200B;功能表，建立其他引數做為機碼值組及其適用性條件。 每個引數名稱必須是唯一的且非空白，而且每個引數值都必須非空白。 適用性條件可以為空白，但這些值都不能包含JST標籤。
 
-  The additional parameters that allow the links to be tracked on external systems such as Web Analytics tools like Adobe Analytics or Google Analytics are defined here.
--->
+  這些引數將套用至與&#x200B;**[!UICONTROL 網域名稱清單]**&#x200B;中指定的任何網域名稱相符的追蹤URL，其中可包含規則運算式。

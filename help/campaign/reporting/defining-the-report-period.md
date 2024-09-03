@@ -5,14 +5,18 @@ audience: end-user
 level: Intermediate
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: 36506f7d-aeeb-41cf-b971-6e42e1c7cdc8
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '238'
 ht-degree: 3%
 
 ---
 
 # 定義報告期間{#defining-the-report-period}
+
+>[!NOTE]
+>
+>資料報告適用於過去13個月。 如需資料保留期的詳細資訊，請聯絡Adobe顧問或您的技術管理員。
 
 在開始或存取報表之前，您必須套用時段。 您可存取報表右上方的指定期間。
 

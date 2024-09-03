@@ -7,18 +7,14 @@ role: Admin
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: 8f6a5255-0245-497b-880f-d91ea82ee19e
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 62c2f2e7a6f5dd347749e963a655b717cd5c7310
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '471'
 ht-degree: 18%
 
 ---
 
 # 指派您的品牌 {#branding-assign}
-
->[!IMPORTANT]
->
->品牌推廣選專案前僅限於電子郵件和推播傳遞。
 
 ## 將品牌連結至範本 {#linking-a-brand-to-a-template}
 
