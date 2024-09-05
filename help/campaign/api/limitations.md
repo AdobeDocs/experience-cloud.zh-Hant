@@ -9,9 +9,9 @@ level: Experienced
 mini-toc-levels: 1
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
 workflow-type: tm+mt
-source-wordcount: '1165'
+source-wordcount: '1063'
 ht-degree: 1%
 
 ---
@@ -128,10 +128,10 @@ Campaign Standard工作流程GETAPI會傳回引數名稱，例如工作流程例
 
 Campaign v8不支援廣告工作流程執行個體變數，但預期開發人員會知道這些變數。 因此，在移轉後，若沒有POSTAPI回應中的引數資訊，就必須建構GET要求內文中的引數資訊。
 
-## 異動訊息
+<!--## Transactional messages
 
-* 透過Campaign Standard，POST要求會傳回要求內文中元素和屬性的空白欄位。 透過Campaign v8，回應會傳回符合要求內文中的值。
+* With Campaign Standard, a POST request returns empty fields for elements and attributes in the request body. With Campaign v8, the response returns values that match the ones in the request body instead.
 
-* 發佈事件設定時，API預覽面板會連同請求內文語法一起顯示REST URL。
+* When publishing an event configuration, the API preview panel displays the REST URL alongside the request body syntax.
 
-  由於Campaign v8不支援事件設定欄位定義（事件建立只是向eventType列舉新增值），新增事件型別時沒有API預覽面板。 發佈事件交易式訊息後，交易式訊息使用者介面中會顯示REST URL。
+    Since Campaign v8 does not support event configuration fields definition (event creation is just adding a value to eventType enumeration), there is no API preview panel when adding an event type. The REST URL is displayed  in the transactional message user interface once an event transactional message is published.-->

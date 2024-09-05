@@ -8,9 +8,9 @@ role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: ef045e5d-cd02-44a0-9a1e-d468483a38d9
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '469'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Adobe Campaign Standard提供的API可讓現有系統與Campaign平台整合，�
 
 * 潛在客戶線上註冊。
 * 現有的客戶設定檔和行銷通訊偏好設定管理。
-* 基於事件的交易式通訊觸發 — 訂單確認、預訂行程、密碼重設等。
+  <!--* Event based transactional communication triggering – order confirmation, booking Itinerary, password reset, etc.-->
 * 甚至放棄電子郵件通訊。
 
 註冊登入頁面可為客戶或潛在客戶提供登入其名稱和電子郵件地址的方法。 Campaign Standard擷取設定檔資訊和偏好設定後，就可以根據使用者的興趣傳送個人化訊息。
