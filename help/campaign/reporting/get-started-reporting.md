@@ -5,10 +5,10 @@ audience: end-user
 level: Beginner
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: 6feac90f-f7c1-48b5-94ff-7fef92a2af83
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+source-git-commit: b65dbece574778eada43497456ff0eed850a3598
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 11%
+source-wordcount: '287'
+ht-degree: 12%
 
 ---
 
@@ -16,9 +16,12 @@ ht-degree: 11%
 
 動態報告提供完全可自訂的即時報告，以評估行銷活動的影響。 它新增對設定檔資料的存取權，除了功能性電子郵件促銷活動資料（如開啟和點按）外，還支援依設定檔維度（如性別、城市和年齡）進行人口統計分析。
 
-## 管理報告 {#manage-share-reports}
+<table>
+<tr>
+<td><img src="assets/do-not-localize/icon_manage.svg" width="60px"><p><a href="#manage-share-reports">管理報告</a></p></td><td><img src="assets/do-not-localize/icon_build.svg" width="60px"><p><a href="#build-reports">建置報告</a></p></td><td><img src="assets/do-not-localize/icon_customize.svg" width="60px"><p><a href="#customize-reports">自訂您的報表</a></p></td></tr>
+</table>
 
-<img src="assets/do-not-localize/icon_manage.svg" width="60px">
+## 管理報告 {#manage-share-reports}
 
 透過動態報告&#x200B;**拖放介面**，您可以探索資料、判斷電子郵件行銷活動針對最重要客戶細分的執行方式，並從單一位置評估其對收件者的影響。
 
@@ -31,8 +34,6 @@ ht-degree: 11%
 
 ## 建置報告 {#build-reports}
 
-<img src="assets/do-not-localize/icon_build.svg" width="60px">
-
 Adobe Campaign Web使用者介面隨附一組&#x200B;**立即可用的動態報表**，可讓您測量行銷活動的多個方面：退信、被宣告為最多垃圾郵件或垃圾郵件的傳送、收件者檢視次數最多的傳送、管道相關報表、傳送輸送量和追蹤報表……
 
 **結合不同的元件** （維度、量度和區段、時段）以建置您自己的報表或個人化現成可用的報表。
@@ -44,8 +45,6 @@ Adobe Campaign Web使用者介面隨附一組&#x200B;**立即可用的動態報�
 * [報告清單](defining-the-report-period.md)
 
 ## 自訂您的報表 {#customize-reports}
-
-<img src="assets/do-not-localize/icon_customize.svg" width="60px">
 
 **運用動態報告設計功能來自訂報告**：新增您需要的元件（面板和自由表格），以使用可用的量度和維度分析資料。
 
