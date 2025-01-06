@@ -3,10 +3,10 @@ title: Adobe Campaign網頁使用者介面
 description: 探索Adobe Campaign Web使用者介面
 badge: label="可用性限制" type="Informative" url="campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: eecf4e13-820d-4454-9f11-f50be565bb79
-source-git-commit: 619453901147f83d691156a3b870d36b6caa1868
+source-git-commit: 57d64cb5436381e1dbad9add0d8fe117e6f11ecf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 10%
+ht-degree: 11%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 10%
 * 與Adobe Experience Platform整合
 * 一致的使用者介面和體驗
 
-如需主要功能與概念差異的詳細資訊，請參閱[此頁面](https://experienceleague.adobe.com/en/docs/campaign-web/v8/start/acs-migration)。
+如需主要功能與概念差異的詳細資訊，請參閱[此頁面](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/start/acs-migration)。
 
 ## 新增功能
 
@@ -79,3 +79,4 @@ ht-degree: 10%
     <td align="center"><a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/dynamic-content/gs-personalization"><img src="assets/do-not-localize/learn-more-button.svg"></a></td>
     </tr>
 </table>
+
