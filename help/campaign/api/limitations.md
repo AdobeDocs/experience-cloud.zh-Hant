@@ -9,9 +9,9 @@ level: Experienced
 mini-toc-levels: 1
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: 45acebb1-9325-4e26-8fe9-cc73f745d801
-source-git-commit: 6e4e214731b9772014d01dde89b3f80e4c4e93a6
+source-git-commit: 952706ffafc1e7cd6a759bfbbb9c9200191544d9
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1065'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 移轉後，會將兩個產品設定檔新增至您現有或預先建立的技術帳戶：管理員和訊息中心（用於存取交易API）。 如果您不希望管理員產品設定檔對應至您的技術帳戶，請檢閱產品設定檔對應，並指派所需的產品設定檔。
 
-### 租使用者ID
+### 租用戶 ID
 
 移轉後，對於未來的任何整合，建議在REST URL中使用您的&#x200B;**Campaign v8租使用者ID**，取代您之前的Campaign Standard租使用者ID。
 
@@ -38,10 +38,11 @@ Campaign Standard和Campaign v8的PKey值管理方式不同。 如果您使用Ca
 
 目前，下列REST API可供使用：
 
-* **設定檔**
+* **輪廓**
 * **服務與訂閱**
 * **自訂資源**
 * **工作流程**
+* **異動訊息**
 
 >[!AVAILABILITY]
 >

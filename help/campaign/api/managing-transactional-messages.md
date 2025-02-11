@@ -4,20 +4,22 @@ description: 瞭解如何使用API管理異動訊息。
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-hidefromtoc: true
-hide: true
 role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 6f9c9dd7dcac96980bbf5f7228e021471269d187
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '678'
 ht-degree: 1%
 
 ---
 
 # 管理異動訊息 {#managing-transactional-messages}
+
+>[!AVAILABILITY]
+>
+>目前，使用REST API的交易式傳訊僅適用於電子郵件頻道和交易式事件(擴充資料僅透過裝載提供，類似Adobe Campaign V8的運作)。
 
 建立並發佈交易式事件後，您需要將此事件的觸發專案整合至您的網站。
 
@@ -140,4 +142,3 @@ POST回應會傳回建立交易式事件時的狀態。 若要擷取其目前狀
 * **deliveryFailed**：處理事件時發生傳遞錯誤。
 * **routingFailed**：路由階段失敗 — 例如，當找不到指定的事件型別時，可能會發生這種情況。
 * **tooOld**：事件在可以處理之前就過期了 — 這可能是由多種原因造成的，例如，傳送多次失敗（這會導致事件不再最新），或是伺服器在超載後無法再處理事件。
-* **targetingFailed**：Campaign Standard無法擴充用於訊息目標定位的連結。

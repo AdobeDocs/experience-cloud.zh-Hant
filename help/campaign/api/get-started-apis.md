@@ -8,9 +8,9 @@ role: Data Engineer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
 exl-id: c6968252-a012-4029-bbb8-66f4f693e99b
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: ea8b978d8f71942c8d034804ca269957a09a52db
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '234'
 ht-degree: 48%
 
 ---
@@ -28,10 +28,11 @@ Campaign REST API的目的是讓您&#x200B;**建立Adobe Campaign的整合**，�
 透過Adobe Campaign REST API，您可以存取下列功能：
 
 <table><tr>
- <td valign="top"><a href="retrieving-profiles.md"><img width="60px" alt="條件" src="assets/icon_profile.svg"/></a><p><a href="retrieving-profiles.md">設定檔</a></p></td>
+ <td valign="top"><a href="retrieving-profiles.md"><img width="60px" alt="條件" src="assets/icon_profile.svg"/></a><p><a href="retrieving-profiles.md">輪廓</a></p></td>
 <td valign="top"><a href="creating-a-service.md"><img width="60px" alt="條件" src="assets/icon_services.svg"/></a><p><a href="creating-a-service.md">服務與訂閱</a></p></td>
 <td valign="top"><a href="interacting-with-custom-resources.md"><img width="60px" alt="條件" src="assets/icon_customresources.svg"/></a><p><a href="interacting-with-custom-resources.md">自訂資源</a></p></td>
 <td valign="top"><a href="controlling-a-workflow.md"><img width="60px" alt="條件" src="assets/icon_workflows.svg"/></a><p><a href="controlling-a-workflow.md">工作流程</a></p></td>
+<td valign="top"><a href="managing-transactional-messages.md"><img width="60px" alt="條件" src="assets/icon_transactionalmessage.svg"/></a><p><a href="managing-transactional-messages.md">交易式訊息</a></p></td>
 </tr></table>
 
 若要使用Campaign REST API，您需要Adobe I/O帳戶。 這是前進並探索 API 功能的必備第一步。如需詳細資訊，請參閱[本章節](setting-up-api-access.md)。
