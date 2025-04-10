@@ -6,11 +6,11 @@ content-type: reference
 topic-tags: campaign-standard-apis
 role: Data Engineer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: 00d39438-a232-49f1-ae5e-1e98c73397e3
-source-git-commit: 6f9c9dd7dcac96980bbf5f7228e021471269d187
+source-git-commit: 110fcdcbefef53677cf213a39f45eb5d446807c2
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '752'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->目前，使用REST API的交易式傳訊僅適用於電子郵件頻道和交易式事件(擴充資料僅透過裝載提供，類似Adobe Campaign V8的運作)。
+>目前，使用REST API的交易式傳訊適用於電子郵件和簡訊頻道。 它僅適用於異動事件(擴充資料僅透過裝載提供，類似Adobe Campaign V8的運作)。
 
 建立並發佈交易式事件後，您需要將此事件的觸發專案整合至您的網站。
 
@@ -40,15 +40,13 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 
 * **&lt;transactionalAPI>**： Transactional Messages API端點。
 
-  異動訊息API端點的名稱取決於您的執行個體設定。 它與值「mc」相對應，後接您的個人組織ID。 讓我們以「geometrixx」作為其組織ID的Geometrixx公司為例。 在此情況下，POST要求會如下所示：
+  異動訊息API端點的名稱取決於您的執行個體設定。 它與值「mc」相對應，後接您的個人組織ID。 讓我們以Geometrixx公司為例，將「geometrixx」作為其組織ID。 在此情況下，POST要求會如下所示：
 
   `POST https://mc.adobe.io/geometrixx/campaign/mcgeometrixx/<eventID>`
 
-  請注意，交易式訊息API端點也會在API預覽期間顯示。
-
 * **&lt;eventID>**：您要傳送的事件型別。 此ID是在建立事件設定時產生的
 
-### POST請求標頭
+### POST要求標頭
 
 請求必須包含「Content-Type： application/json」標頭。
 
@@ -65,7 +63,7 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 
 ### POST要求內文
 
-事件資料包含在JSONPOST內文中。 事件結構取決於其定義。 資源定義畫面中的API預覽按鈕提供請求範例。
+事件資料包含在JSON POST內文中。 事件結構取決於其定義。
 
 您可以將下列選用引數新增至事件內容，以管理連結至事件的異動訊息的傳送：
 
@@ -75,6 +73,40 @@ POST https://mc.adobe.io/<ORGANIZATION>/campaign/<transactionalAPI>/<eventID>
 >[!NOTE]
 >
 >「expiration」和「scheduled」引數的值會遵循ISO 8601格式。 ISO 8601指定使用大寫字母「T」來分隔日期和時間。 不過，可將其從輸入或輸出中移除，以提高可讀性。
+
+### 通訊通道引數
+
+根據要使用的頻道，裝載應包含以下引數：
+
+* 電子郵件頻道： &quot;mobilePhone&quot;
+* 簡訊頻道： &quot;email&quot;
+
+如果承載僅包含「mobilePhone」，則會觸發SMS通訊頻道。 如果裝載僅包含「電子郵件」，則會觸發電子郵件通訊頻道。
+
+以下範例顯示觸發簡訊通訊的裝載：
+
+```
+curl --location 'https://mc.adobe.io/<ORGANIZATION>/campaign/mcAdobe/EVTcartAbandonment' \
+--header 'Authorization: Bearer <ACCESS_TOKEN>' \
+--header 'Cache-Control: no-cache' \
+--header 'X-Api-Key: <API_KEY>' \
+--header 'Content-Type: application/json;charset=utf-8' \
+--header 'Content-Length: 79' \
+--data '
+{
+  "mobilePhone":"+9999999999",
+  "scheduled":"2017-12-01 08:00:00.768Z",
+  "expiration":"2017-12-31 08:00:00.768Z",
+  "ctx":
+  {
+    "cartAmount": "$ 125",
+    "lastProduct": "Leather motorbike jacket",
+    "firstName": "Jack"
+  }
+}'
+```
+
+如果裝載同時包含「email」和「mobilePhone」，則預設的通訊方法為email。 若要在兩個欄位同時出現時傳送SMS，您必須在裝載中使用「wishedChannel」引數明確指定它。
 
 ### 回應POST要求
 
@@ -97,7 +129,10 @@ POST回應會傳回建立交易式事件時的狀態。 若要擷取其目前狀
 -H 'Content-Length:79'
 
 {
-  "email":"test@example.com",
+  "
+  
+  
+  ":"test@example.com",
   "scheduled":"2017-12-01 08:00:00.768Z",
   "expiration":"2017-12-31 08:00:00.768Z",
   "ctx":
@@ -109,7 +144,7 @@ POST回應會傳回建立交易式事件時的狀態。 若要擷取其目前狀
 }
 ```
 
-對POST要求的回應。
+回應POST要求。
 
 ```
 {
