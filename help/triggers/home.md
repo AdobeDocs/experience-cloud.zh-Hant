@@ -17,6 +17,6 @@ Experience Cloud 觸發器的新使用者介面提供一種直覺體驗來管理
 
 **有用的連結：**
 
-* [Adobe Campaign Standard + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html)
-* [Adobe Campaign Classic v7 + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html)
-* [Adobe Campaign v8 + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html)
+* [Adobe Campaign Standard + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=zh-Hant)
+* [Adobe Campaign Classic v7 + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=zh-Hant)
+* [Adobe Campaign v8 + Experience Cloud 觸發器文件](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/ac-triggers.html?lang=zh-Hant)

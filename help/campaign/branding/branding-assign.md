@@ -26,7 +26,7 @@ ht-degree: 18%
 
 >[!TAB Adobe Campaign V8]
 
-若要建立傳遞範本，您可以複製內建範本、將現有傳遞轉換為範本或從頭開始建立傳遞範本。 [了解更多](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/send/create-templates)
+若要建立傳遞範本，您可以複製內建範本、將現有傳遞轉換為範本或從頭開始建立傳遞範本。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/send/create-templates)
 
 建立範本後，您就可以將其連結至品牌。操作步驟：
 
@@ -50,7 +50,7 @@ ht-degree: 18%
 
 >[!TAB Adobe Campaign Web]
 
-若要建立傳遞範本，您可以複製內建範本、將現有傳遞轉換為範本或從頭開始建立傳遞範本。 [了解更多](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/delivery-template)
+若要建立傳遞範本，您可以複製內建範本、將現有傳遞轉換為範本或從頭開始建立傳遞範本。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/msg/delivery-template)
 
 建立範本後，您就可以將其連結至品牌。操作步驟：
 
@@ -98,7 +98,7 @@ ht-degree: 18%
 
 1. 設定之後，選取&#x200B;**確定**。
 
-1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱[設計和傳送電子郵件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email)區段。
+1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱[設計和傳送電子郵件](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/msg/email/create-email)區段。
 
 >[!TAB Adobe Campaign Web]
 
@@ -124,6 +124,6 @@ ht-degree: 18%
 
    ![](assets/branding_assign_web_7.png)
 
-1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱[建立您的第一封電子郵件](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/create-email)區段。
+1. 進一步個人化您的傳遞。 如需建立電子郵件的詳細資訊，請參閱[建立您的第一封電子郵件](https://experienceleague.adobe.com/zh-hant/docs/campaign-web/v8/msg/email/create-email)區段。
 
 >[!ENDTABS]

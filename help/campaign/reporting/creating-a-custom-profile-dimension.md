@@ -28,7 +28,7 @@ ht-degree: 3%
 
    ![](assets/custom_field_1.png)
 
-1. 識別您的自訂收件者綱要並加以選取。 如果您尚未擴充內建的nms：recipient結構描述，請參閱[此程式](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
+1. 識別您的自訂收件者綱要並加以選取。 如果您尚未擴充內建的nms：recipient結構描述，請參閱[此程式](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
 
 1. 將您的自訂欄位新增到結構描述編輯器。
 
@@ -42,7 +42,7 @@ ht-degree: 3%
 
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
-1. 然後，識別您的自訂broadLogRcp結構描述並加以選取。 如果您尚未擴充內建的傳遞記錄結構描述，請參閱[此程式](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
+1. 然後，識別您的自訂broadLogRcp結構描述並加以選取。 如果您尚未擴充內建的傳遞記錄結構描述，請參閱[此程式](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
 
 1. 將和收件者結構描述相同的自訂欄位新增到結構描述編輯器。
 
@@ -50,7 +50,7 @@ ht-degree: 3%
 
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
-1. 若要套用對結構描述所做的修改，請透過&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL 進階]** > **[!UICONTROL 更新資料庫結構]**&#x200B;啟動資料庫更新精靈，然後執行更新資料庫結構。 [了解更多](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
+1. 若要套用對結構描述所做的修改，請透過&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL 進階]** > **[!UICONTROL 更新資料庫結構]**&#x200B;啟動資料庫更新精靈，然後執行更新資料庫結構。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
 
    ![](assets/custom_field_4.png)
 
