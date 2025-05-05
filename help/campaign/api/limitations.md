@@ -55,7 +55,7 @@ Campaign Standard和Campaign v8的PKey值管理方式不同。 如果您使用Ca
 
 ## 篩選
 
-* 若要在REST API裝載中使用篩選器，您需要在Campaign v8中編輯篩選器，並提供要在裝載中使用的名稱。 若要這麼做，請從&#x200B;**[!UICONTROL 引數]**&#x200B;索引標籤存取篩選器的其他引數，並在REST API ]**欄位的**[!UICONTROL &#x200B;篩選名稱中提供所需的名稱。
+* 若要在REST API裝載中使用篩選器，您需要在Campaign v8中編輯篩選器，並提供要在裝載中使用的名稱。 若要這麼做，請從&#x200B;**[!UICONTROL 引數]**&#x200B;索引標籤存取篩選器的其他引數，並在REST API **欄位的**&#x200B;篩選名稱中提供所需的名稱。
 
   ![](assets/api-filtering.png)
 

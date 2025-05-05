@@ -26,7 +26,7 @@ ht-degree: 18%
 
 您可以在Campaign中新增組織的實體，或建立必須在其他子網域下傳送的新電子郵件型別。 請依照下列步驟執行：
 
-1. **設定新的子網域** — 對於Adobe要使用的任何新子網域，第一步是進行設定。 您可以透過[Campaign控制面板](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/subdomains-branding.html?lang=zh-Hant)執行此動作，或連絡您的Adobe技術連絡人。 在此頁面](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/campaign/ac-domain-name-setup)中進一步瞭解子網域設定[。
+1. **設定新的子網域** — 對於Adobe要使用的任何新子網域，第一步是進行設定。 您可以透過[Campaign控制面板](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/subdomains-branding.html?lang=zh-Hant)執行此動作，或連絡您的Adobe技術連絡人。 在此頁面[&#128279;](https://experienceleague.adobe.com/en/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/campaign/ac-domain-name-setup)中進一步瞭解子網域設定。
 
    >[!NOTE]
    >
