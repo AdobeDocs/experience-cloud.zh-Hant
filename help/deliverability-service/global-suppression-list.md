@@ -3,10 +3,10 @@ title: 全球禁止名單
 description: 探索全球禁止名單
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
-source-git-commit: b66e2525694c771ebb7ac5190b7259ef5658d81a
+source-git-commit: 9d12eece2ca9f8f36951f8575bb0ac42bc10a728
 workflow-type: tm+mt
 source-wordcount: '618'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >此欄位允許包含 32 到 126 個字元之間組成的所有 ASCII 可列印字元。 例如，完整清單可在[此頁面](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}中找到。
+   >此欄位允許包含 32 到 126 個字元之間組成的所有 ASCII 可列印字元。 例如，您可以在[此頁面](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}找到完整清單。
 
 1. 按一下「**[!UICONTROL 提交]**」進行確認。
 
@@ -81,7 +81,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >「**註解**」欄允許包含 32 到 126 個字元之間組成的所有 ASCII 可列印字元。 例如，完整清單可在[此頁面](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}中找到。
+   >「**註解**」欄允許包含 32 到 126 個字元之間組成的所有 ASCII 可列印字元。 例如，您可以在[此頁面](https://en.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}找到完整清單。
 
 1. 完成後，拖放您的 CSV 檔案，然後按一下「**[!UICONTROL 提交]**」進行確認。
 
