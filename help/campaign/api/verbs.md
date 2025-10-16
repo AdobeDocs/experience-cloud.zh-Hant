@@ -1,21 +1,21 @@
 ---
-title: GET/POST/PATCH/DELETE動詞
-description: 深入瞭解Campaign Standard API中使用的動詞。
+title: GET / POST / PATCH / DELETE動詞
+description: 進一步瞭解Campaign Standard API中使用的動詞。
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: de97a194-d497-4665-906e-53178fd3b119
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# GET/POST/PATCH/DELETE動詞 {#verbs}
+# GET / POST / PATCH / DELETE動詞 {#verbs}
 
 對資源執行操作的可用動詞如下：
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ***範例要求***
 
-* 設定檔集合上的範例GET要求。
+* 設定檔集合上的GET請求範例。
 
 
   ```
@@ -92,7 +92,7 @@ ht-degree: 0%
   }
   ```
 
-* 建立設定檔的範例POST請求。
+* 建立設定檔的範例POST要求。
 
 
   ```

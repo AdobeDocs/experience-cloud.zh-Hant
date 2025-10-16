@@ -4,11 +4,11 @@ description: 進一步瞭解使用API進行自訂資源管理/
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: d7b2231d-46ff-4966-9ea7-27a775e5236b
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 2%
@@ -37,7 +37,7 @@ Adobe Campaign隨附預先定義的資料模型，其中資料會透過不同資
 
 ***範例要求***
 
-存取延伸profileAndServicesExt資源的範例GET要求。
+存取延伸profileAndServicesExt資源的範例GET請求。
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServicesExt/\

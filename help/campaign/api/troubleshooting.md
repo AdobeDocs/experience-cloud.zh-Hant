@@ -1,19 +1,19 @@
 ---
 title: API疑難排解
-description: 進一步瞭解與Campaign StandardAPI相關的常見問題
-role: Data Engineer
+description: 進一步瞭解與Campaign Standard API相關的常見問題
+role: Developer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
-source-git-commit: 84b72258789ba61016deb813e93bdca0ea142712
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
 
 # API疑難排解 {#troubleshooting}
 
-* **前往Adobe.io主控台時，您會收到下列錯誤：「Adobe I/O主控台僅適用於選取企業帳戶的成員。 如果您認為您應該擁有存取權，請聯絡您的系統管理員。&quot;**
+* **前往Adobe.io Console時，您會收到下列錯誤：「Adobe I/O Console僅供企業帳戶的選取成員使用。 如果您認為您應該擁有存取權，請聯絡您的系統管理員。&quot;**
 
 您只能為您所管理的組織建立API金鑰。 如果顯示此訊息，而您想要建立API金鑰，並且想要詢問組織的管理員之一。
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 這表示您特定Campaign產品的IMS布建發生問題：IMS團隊需要加以修正。
 
-若要取得詳細資訊，您可以使用權杖呼叫IMS API，以檢視您的IMS設定檔看起來是什麼樣子：您需要使用一個prodCtx，其中organization_id與您放入URL中的相同，以便Adobe.io能夠路由您的請求。
+若要取得詳細資訊，您可以使用權杖呼叫IMS API，以檢視您的IMS設定檔看起來是什麼樣子：您需要使用prodCtx，其中organization_id與您放入Adobe.io URL中的相同，才能路由您的請求。
 如果缺少，則需要修正IMS布建。
 
 ```
@@ -48,7 +48,7 @@ ht-degree: 0%
 -H 'X-Api-Key: <API_KEY>'
 ```
 
-在回應中，ORGANIZATION_ID值必須與您第一個GET要求中的值相同。
+在回應中，ORGANIZATION_ID值必須在您的第一個GET要求中相同。
 
 ```
 {
@@ -73,9 +73,9 @@ ht-degree: 0%
 }
 ```
 
-* **向Adobe.io發出請求時，您會收到{&quot;code&quot;：500，&quot;message&quot;：&quot;Oops. 發生錯誤。 請檢查您的URI，然後再試一次。&quot;}**
+* **向Adobe.io提出要求時，您會收到{&quot;code&quot;:500、&quot;message&quot;：&quot;Oops. 發生錯誤。 請檢查您的URI，然後再試一次。&quot;}**
 
-Adobe.io會宣告您無效的URI：很可能是您請求的URI無效。 在Adobe.io上，當您選取Campaign服務時，畫面會顯示一個選擇器，其中包含可能的organization_id清單。 您需要確認您選擇的檔案是否為放入URL中的檔案。
+Adobe.io會宣告您無效的URI：您請求的URI很可能無效。 在Adobe.io上，當您選取Campaign服務時，畫面會提供選擇器，其中包含可能的organization_id清單。 您需要確認您選擇的檔案是否為放入URL中的檔案。
 
 * **向Adobe.io發出請求時，您會收到{&quot;error_code&quot;：&quot;401013&quot;，&quot;message&quot;：&quot;Oauth權杖無效&quot;}**
 

@@ -1,11 +1,11 @@
 ---
 title: 執行訂閱
 description: 瞭解如何使用API執行訂閱
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: 64f321a3-436a-4b7c-99d8-0c006203012e
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
   }
 ```
 
-在訂閱URL上執行POST請求，並在承載內使用所需的服務主索引鍵。
+在訂閱URL上執行POST要求，並在裝載內使用所需的服務主索引鍵。
 
 ```
 -X POST https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/<PKEY>/subscriptions \
@@ -93,7 +93,7 @@ ht-degree: 0%
   },
 ```
 
-在訂閱URL上提出POST請求，並在裝載內使用所需的設定檔主索引鍵。
+在訂閱URL上發出POST請求，並在裝載內使用所需的設定檔主索引鍵。
 
 ```
 -X POST https://mc.adobe.io/<ORGANIZATION>/campaign//profileAndServices/service/<PKEY>/subscriptions/ \

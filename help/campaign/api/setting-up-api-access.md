@@ -4,11 +4,11 @@ description: 瞭解如何設定Campaign Standard API的存取許可權。
 audience: developing
 content-type: reference
 topic-tags: campaign-standard-apis
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: efbbd0cd-9c56-4ad0-8bcb-efba4b63c28b
-source-git-commit: 18979fea28f4f3adce1139293203a59876831313
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 27%
@@ -21,11 +21,11 @@ Adobe Campaign Standard API存取權是透過下列步驟設定。 [Adobe Develo
 
 >[!IMPORTANT]
 >
->若要在[Adobe Developer](https://developer.adobe.com/)中管理憑證，請確定您對該組織具有&#x200B;**系統管理員**&#x200B;許可權，或在Admin Console中具有[開發人員帳戶](https://helpx.adobe.com/jp/enterprise/using/manage-developers.html)。
+>若要在[Adobe Developer](https://developer.adobe.com/)中管理憑證，請確定您對該組織具有&#x200B;**系統管理員**&#x200B;許可權，或在Admin Console中擁有[開發人員帳戶](https://helpx.adobe.com/jp/enterprise/using/manage-developers.html)。
 
 1. **請確認您擁有數位憑證**，或視需要建立。 下列步驟需要憑證隨附的公開金鑰與私人金鑰。
-1. **在[Adobe Developer](https://developer.adobe.com/)中建立與Adobe Campaign服務的新整合**&#x200B;並加以設定。 然後，將產生您的認證 (API 金鑰、用戶端密碼……)。
-1. **依照下列[實作步驟，建立OAuth伺服器對伺服器**&#x200B;認證](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
+1. **在** Adobe Developer[中建立與Adobe Campaign服務的新整合](https://developer.adobe.com/)並加以設定。 然後，將產生您的認證 (API 金鑰、用戶端密碼……)。
+1. **依照下列**&#x200B;實作步驟，建立OAuth伺服器對伺服器[認證](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation/)
 
    >[!IMPORTANT]
    >
@@ -53,7 +53,7 @@ Adobe Campaign Standard API存取權是透過下列步驟設定。 [Adobe Develo
 
 * **&lt;ACCESS_TOKEN>**：您的個人存取權杖，這是透過POST要求交換您的JSON Web Token時擷取的。
 
-* **&lt;API_KEY>**：您的個人 API 金鑰。 在建立Adobe Campaign服務的新整合後，以Adobe I/O提供。
+* **&lt;API_KEY>**：您的個人 API 金鑰。 在建立Adobe Campaign服務的新整合後，可在Adobe I/O中提供。
 
   ![替代文字](assets/tenant.png)
 
@@ -69,4 +69,4 @@ Adobe Campaign Standard API存取權是透過下列步驟設定。 [Adobe Develo
 ```
 
 
-請洽詢您的管理員或您的Adobe技術連絡人，以檢查CNAME引數是否正確建立。
+請洽詢您的管理員或Adobe技術連絡人，以檢查CNAME引數是否正確建立。

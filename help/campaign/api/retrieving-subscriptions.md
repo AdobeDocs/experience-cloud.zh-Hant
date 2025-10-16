@@ -1,11 +1,11 @@
 ---
 title: 擷取訂閱
 description: 瞭解如何使用API擷取訂閱
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: 6d935074-3196-45c5-97cd-ccb7c80bbba8
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 此程式分為兩個步驟。
 
 1. 擷取所需服務的訂閱URL。
-1. 對訂閱URL執行GET要求。 它會傳回服務的訂閱清單，以及每個相關的設定檔。
+1. 對訂閱URL執行GET請求。 它會傳回服務的訂閱清單，以及每個相關的設定檔。
 
 >[!CAUTION]
 >
@@ -53,7 +53,7 @@ ht-degree: 0%
   },
 ```
 
-對訂閱URL執行GET要求。
+對訂閱URL執行GET請求。
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/service/<PKEY>/subscriptions \
@@ -115,7 +115,7 @@ ht-degree: 0%
   }
 ```
 
-對訂閱URL執行GET要求。
+對訂閱URL執行GET請求。
 
 ```
 -X GET https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/<PKEY>/subscriptions \

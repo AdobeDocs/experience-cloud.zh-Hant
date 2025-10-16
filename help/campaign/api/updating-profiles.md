@@ -1,11 +1,11 @@
 ---
-title: 更新設定檔
+title: 更新輪廓
 description: 進一步瞭解如何使用API更新設定檔
-role: Data Engineer
+role: Developer
 level: Experienced
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: fa3796ee-a00c-4d70-bf3d-e8d2099f1116
-source-git-commit: 14d8cf78192bcad7b89cc70827f5672bd6e07f4a
+source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 1%
@@ -20,9 +20,9 @@ ht-degree: 1%
 
 1. 第一個步驟是&#x200B;**擷取設定檔**。
 
-1. 在第二個要求中，對設定檔執行&#x200B;**PATCH要求**，並在承載中包含已完成的資訊。
+1. 在第二個要求中，針對承載中包含已完成資訊的設定檔執行&#x200B;**PATCH要求**。
 
-1. 若要檢查PATCH請求是否已更新設定檔，我們可以執行最終GET請求。
+1. 若要檢查PATCH請求是否已更新設定檔，我們可以執行最終的GET請求。
 
 <br/>
 
@@ -54,7 +54,7 @@ ht-degree: 1%
 }
 ```
 
-更新「phone」屬性的PATCH請求。
+PATCH要求更新「phone」屬性。
 
 ```
 -X PATCH https://mc.adobe.io/<ORGANIZATION>/campaign/profileAndServices/profile/<PKEY> \
