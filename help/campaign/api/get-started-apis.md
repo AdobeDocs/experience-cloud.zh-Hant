@@ -21,7 +21,7 @@ ht-degree: 48%
 >
 >本檔案旨在供移轉至Campaign v8的Adobe Campaign Standard客戶使用。
 >
->在執行 API 呼叫之前，請檢查與您的授權合約相應的比例限制。如需詳細資訊，請參閱[此頁面](https://helpx.adobe.com/legal/product-descriptions/campaign-standard.html#ITInfrastructureResourcesbyActiveProfilesTiers)。
+>在執行 API 呼叫之前，請檢查與您的授權合約相應的比例限制。如需詳細資訊，請參閱[此頁面](https://helpx.adobe.com/tw/legal/product-descriptions/campaign-standard.html#ITInfrastructureResourcesbyActiveProfilesTiers)。
 
 Campaign REST API的目的是讓您&#x200B;**建立Adobe Campaign的整合**，並將Adobe Campaign與您使用的技術面板結合，以建立您自己的生態系統&#x200B;**。**
 
