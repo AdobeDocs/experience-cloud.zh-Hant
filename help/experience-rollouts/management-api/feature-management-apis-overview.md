@@ -1,9 +1,9 @@
 ---
 title: 功能管理API概述
 description: Experience Rollouts管理API的總覽，可讓您以程式設計方式建立、讀取、更新和刪除功能標幟、功能群組和版本。
-source-git-commit: 6ecedbfc6c7de392f214f3f8f2e71aa18e1bacb9
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 下列管理API可供使用：
 
 * [功能標幟管理API](feature-flags-management-api.md) — 建立、讀取、更新和刪除應用程式的功能標幟。
-* [功能群組管理API](feature-group-management-api.md) — 建立、讀取、更新、刪除及控制功能群組的自動轉出計畫。
+* [功能群組管理API](feature-group-management-api.md) — 建立、讀取、更新和刪除功能群組。
 * [發行管理API](release-management-apis.md) — 建立和編輯跨團隊功能群組和發行。
 
 ## 常見需求 {#common-requirements}
@@ -45,6 +45,5 @@ ht-degree: 0%
 
 ## 另請參閱 {#see-also}
 
-* [GET功能API V3](../feature-api/get-feature-api-v3.md)
-* [GET功能API V2](../feature-api/get-feature-api-v2.md)
+* **GET功能API V3**&#x200B;和&#x200B;**GET功能API V2** — 如需完整參考資料，請參閱本指南的「功能API」一節。
 * [訂閱API應用程式](../guides/integrate/subscribe-to-api-application.md)

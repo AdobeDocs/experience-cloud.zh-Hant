@@ -1,9 +1,9 @@
 ---
 title: 建立跨團隊功能群組
 description: 瞭解如何在Adobe體驗轉出中建立跨團隊功能群組，以協調不同團隊擁有的應用程式之間的功能標幟。
-source-git-commit: a1ed4582217001ffcf500cd7b634d9959adbe028
+source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '594'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 1%
 提供標題、索引鍵、說明，以及選用的標籤。 設定以下選項:
 
 * **轉出百分比** — 設定有多少對象會收到此功能。
-* **轉出型別** — 選擇「手動」或「自動」。 如需自動轉出運作方式的詳細資訊，請參閱[自動轉出](../automated-rollouts/automated-rollout-concept.md)。
+* **轉出型別** — 設定為手動。 隨著轉出的進行，百分比會逐步管理。
 
 >[!NOTE]
 >
@@ -91,4 +91,3 @@ ht-degree: 1%
 
 * [發行和跨團隊功能群組](releases-and-cross-team-feature-groups.md)
 * [建立功能群組](create-a-feature-group.md)
-* [建立自動轉出](../automated-rollouts/create-automated-rollout.md)
