@@ -31,7 +31,7 @@ ht-degree: 2%
 
 1. 移至[https://experience.adobe.com/](https://experience.adobe.com/)並使用您的組織認證登入。
 2. 從應用程式切換器選取&#x200B;**體驗轉出**。
-3. 選取適當的環境 — **測試**，即時轉出的生產&#x200B;****。 如需詳細資訊，請參閱[環境概觀](environments-overview.md)。
+3. 選取適當的環境 — **測試**，即時轉出的生產&#x200B;**&#x200B;**。 如需詳細資訊，請參閱[環境概觀](environments-overview.md)。
 
 ## 登入後的第一個步驟 {#first-steps}
 
