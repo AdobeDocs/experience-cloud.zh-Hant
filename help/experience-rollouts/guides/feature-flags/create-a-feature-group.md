@@ -1,13 +1,13 @@
 ---
 title: 建立功能群組
 description: 瞭解如何在Adobe Experience轉出中建立功能群組，以單一單位管理團隊中跨應用程式的多個功能標幟。
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 58148df1-84ee-4a78-a4b4-71f74cd8ce0a
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
-
 
 # 建立功能群組 {#create-feature-group}
 
@@ -16,9 +16,8 @@ ht-degree: 0%
 在建立特徵群組之前，請完成下列操作：
 
 * 您可以存取Experience Rollout主控台 — 請參閱[登入主控台](../console/log-in-to-the-console.md)
-* 您屬於團隊 — 請參閱[管理團隊](../teams/manage-teams.md)
 * 您的應用程式已上線 — 請參閱[將應用程式上線](../applications/onboard-your-application.md)
-* 您有&#x200B;**開發人員**&#x200B;或&#x200B;**產品發行擁有者**&#x200B;角色 — 請參閱[使用者角色](../teams/user-roles.md)
+* 您有&#x200B;**開發人員**&#x200B;或&#x200B;**產品發行擁有者**&#x200B;角色
 * 您已建立要新增至群組的功能標幟 — 請參閱[建立您的第一個功能標幟](create-your-first-feature-flag.md)
 
 如需功能群組的簡介，請參閱[控制多個功能的功能群組](../../concepts/feature-groups-to-control-multiple-features.md)。
@@ -36,7 +35,7 @@ ht-degree: 0%
 
 1. 提供標題、索引鍵、說明，以及選用的標籤。
 2. 設定功能群組的&#x200B;**百分比轉出**。
-3. 如果要執行A/B測試，請選取多個變體。 否則，請將其保留在一個變體中。 如需詳細資訊，請參閱具有功能旗標[&#128279;](a-b-testing.md)的A/B測試。
+3. 如果要執行A/B測試，請選取多個變體。 否則，請將其保留在一個變體中。 如需詳細資訊，請參閱具有功能旗標](a-b-testing.md)的[A/B測試。
 
 ## 步驟3：對象 {#audience}
 

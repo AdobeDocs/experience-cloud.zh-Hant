@@ -1,17 +1,17 @@
 ---
 title: 將環境與應用程式建立關聯
 description: 瞭解如何在Adobe Experience轉出中跨環境連結您的應用程式執行個體，以便您可以一致地管理從開發到生產的功能標幟。
-source-git-commit: 5c99061a7f2aaaad98190166ea6fd79b7eb26dec
+exl-id: 53080db1-f257-4369-82ab-57c84395a40a
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '441'
 ht-degree: 1%
 
 ---
 
-
 # 將環境與應用程式建立關聯 {#associate-environments}
 
-跨環境連結您的應用程式執行個體可啟用跨環境可見度和匯入工作流程。 您必須擁有&#x200B;**管理員**&#x200B;角色才能設定此專案。 如果您需要驗證您的角色，請參閱[使用者角色](../teams/user-roles.md)。
+跨環境連結您的應用程式執行個體可啟用跨環境可見度和匯入工作流程。 您必須擁有&#x200B;**管理員**&#x200B;角色才能設定此專案。 如果您需要驗證或更新您的角色，請聯絡團隊管理員。
 
 如需為何如此有用的背景資訊，請參閱[跨環境概念](cross-environment-concept.md)。
 

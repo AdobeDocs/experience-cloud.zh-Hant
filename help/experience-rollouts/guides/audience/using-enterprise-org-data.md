@@ -1,13 +1,13 @@
 ---
 title: 在對象規則中使用企業組織資料
 description: 瞭解如何在Adobe體驗轉出中使用企業組織ID作為對象條件，以鎖定特定客戶組織。
-source-git-commit: 3f3f7145b3c58dc721cbeb850e9e8571e3255bb1
+exl-id: 74f97ec7-a809-41bf-a41d-bb57f033040f
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '233'
 ht-degree: 1%
 
 ---
-
 
 # 在對象規則中使用企業組織資料 {#enterprise-org-data}
 
@@ -41,5 +41,4 @@ DMA組織使用`XXXXXXXXXXXXXXXXXXXXXXXX@ADOBEORG`格式的組織ID。 輸入DMA
 ## 另請參閱 {#see-also}
 
 * [功能標幟和功能群組中的對象](audience-in-feature-flags-and-feature-groups.md)
-* [更新發行對象規則](../feature-flags/update-release-audience-rules.md)
 * [複雜的受眾規則](complex-rules.md)

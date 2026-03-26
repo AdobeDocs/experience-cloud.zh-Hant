@@ -1,17 +1,17 @@
 ---
 title: 將您的應用程式上線
 description: 瞭解如何在Adobe Experience轉出中推出新的應用程式，讓您的團隊可以開始建立和管理功能標幟。
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: d88c27a5-f490-4504-9764-5e4ce98fdf20
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '219'
 ht-degree: 1%
 
 ---
 
-
 # 將您的應用程式上線 {#onboard-your-application}
 
-您必須擁有&#x200B;**管理員**&#x200B;角色才能新增應用程式。 如果您需要驗證您的角色或向您的團隊管理員請求，請檢視[使用者角色](../teams/user-roles.md)。
+您必須擁有&#x200B;**管理員**&#x200B;角色才能新增應用程式。 如果您需要驗證或更新您的角色，請聯絡團隊管理員。
 
 ## 新增應用程式 {#add-application}
 
@@ -45,5 +45,4 @@ ht-degree: 1%
 ## 另請參閱 {#see-also}
 
 * [管理應用程式](manage-applications.md)
-* [使用者角色](../teams/user-roles.md)
 * [登入主控台](../console/log-in-to-the-console.md)

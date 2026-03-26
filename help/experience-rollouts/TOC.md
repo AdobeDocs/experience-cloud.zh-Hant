@@ -2,10 +2,10 @@
 audience: user
 user-guide-title: Adobe體驗轉出
 user-guide-description: 瞭解如何使用Adobe體驗轉出來管理應用程式中的功能標幟、受控轉出和目標發行。
-source-git-commit: db719ba7b9db91aea818d8ef216a28fcedc6aa65
+source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 5%
+source-wordcount: '291'
+ht-degree: 6%
 
 ---
 
@@ -27,15 +27,8 @@ ht-degree: 5%
 + 指南 {#guides}
    + 開始使用主控台 {#console}
       + [登入「體驗轉出」主控台](guides/console/log-in-to-the-console.md)
-      + [環境概觀](guides/console/environments-overview.md)
+      + [選取您的沙箱](guides/console/environments-overview.md)
       + [要求存取權](guides/console/request-access.md)
-      + [團隊及其管理員](guides/console/teams-and-admins.md)
-      + [建立新團隊](guides/console/create-a-new-team.md)
-   + 團隊 {#teams}
-      + [管理團隊](guides/teams/manage-teams.md)
-      + [使用者角色](guides/teams/user-roles.md)
-      + [將成員新增至團隊](guides/teams/add-team-members.md)
-      + [團隊管理常見問題集](guides/teams/team-management-faq.md)
    + 應用程式 {#applications}
       + [管理應用程式](guides/applications/manage-applications.md)
       + [將您的應用程式上線](guides/applications/onboard-your-application.md)
@@ -49,19 +42,13 @@ ht-degree: 5%
       + [SDK](guides/integrate/sdks.md)
       + [整合步驟](guides/integrate/integration-steps.md)
       + [訂閱Adobe Developer Console中的API應用程式](guides/integrate/subscribe-to-api-application.md)
-   + 功能標幟和發行 {#feature-flags-releases}
-      + [功能、功能群組和發行版本](guides/feature-flags/features-feature-groups-releases.md)
+   + 功能標幟 {#feature-flags}
+      + [特徵和特徵群組](guides/feature-flags/features-feature-groups-releases.md)
       + [建立您的第一個功能標幟](guides/feature-flags/create-your-first-feature-flag.md)
       + [設定逐步推出的功能](guides/feature-flags/set-feature-gradual-rollout.md)
       + [建立功能群組](guides/feature-flags/create-a-feature-group.md)
       + [設定逐步推出的功能群組](guides/feature-flags/set-feature-group-gradual-rollout.md)
       + [使用功能標幟的A/B測試](guides/feature-flags/a-b-testing.md)
-      + [發行和跨團隊功能群組](guides/feature-flags/releases-and-cross-team-feature-groups.md)
-      + [端對端發行工作流程](guides/feature-flags/release-workflow-end-to-end.md)
-      + [要求發行](guides/feature-flags/request-a-release.md)
-      + [更新發行對象規則](guides/feature-flags/update-release-audience-rules.md)
-      + [發行狀態](guides/feature-flags/release-states.md)
-      + [建立跨團隊功能群組](guides/feature-flags/create-cross-team-feature-group.md)
       + [發行管理常見問題集](guides/feature-flags/release-management-faqs.md)
       + [Analytics](guides/feature-flags/analytics.md)
       + [排程](guides/feature-flags/schedule.md)

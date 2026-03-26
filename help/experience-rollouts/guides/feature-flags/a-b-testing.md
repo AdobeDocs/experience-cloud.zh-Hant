@@ -1,13 +1,13 @@
 ---
 title: 使用功能標幟的A/B測試
 description: 瞭解如何透過為一組功能標幟設定多個變體，來使用Adobe體驗轉出中的功能群組執行A/B測試。
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+exl-id: bb849049-229c-40ff-bbfe-7996f868bcc3
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---
-
 
 # 使用功能標幟的A/B測試 {#a-b-testing}
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 * 您可以存取主控台 — 請參閱[登入主控台](../console/log-in-to-the-console.md)
 * 您屬於某個團隊，您的應用程式已上線
-* 您有&#x200B;**開發人員**&#x200B;或&#x200B;**產品發行擁有者**&#x200B;角色 — 請參閱[使用者角色](../teams/user-roles.md)
+* 您有&#x200B;**開發人員**&#x200B;或&#x200B;**產品發行擁有者**&#x200B;角色
 * 您已建立要測試的功能標幟 — 請參閱[建立您的第一個功能標幟](create-your-first-feature-flag.md)
 
 ## 步驟1：建立具有多個變體的功能群組 {#create}

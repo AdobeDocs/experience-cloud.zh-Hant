@@ -2,9 +2,9 @@
 title: Adobe體驗轉出
 description: 瞭解如何使用Adobe體驗轉出，透過受控制的轉出、功能標幟和目標受眾管理，安全且逐步地提供功能。
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: 65effd7e3b12404359e3693820bbf9e5080bea03
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '343'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Adobe體驗推出可讓產品團隊逐步、安全地推出新功能，無需重
 
 3. **與您的應用程式整合** — 將您的應用程式連線至Experience Rollouts API或SDK，以便在執行階段擷取並套用功能標幟。 從應用程式型別的[整合步驟](guides/integrate/integration-steps.md)開始。
 
-一旦您的第一個旗標上線，您就可以調整其對象、設定逐步轉出，並透過[發行狀態](guides/feature-flags/release-states.md)將它從儲存到完整轉出。
+一旦您的第一個旗標上線，您就可以調整其對象、設定逐步轉出，並將其從儲存提升為完全轉出。
 
 ## 需要協助嗎?
 

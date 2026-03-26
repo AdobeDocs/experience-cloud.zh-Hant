@@ -1,13 +1,13 @@
 ---
 title: 要求存取權
 description: 瞭解如何要求Adobe體驗轉出團隊的存取權以及新成員可用的角色。
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: 30d05c90-2913-4e88-a8f9-28a142297337
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
-
 
 # 要求存取權 {#request-access}
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 在請求存取權之前，請確認下列事項：
 
-* 您知道要加入哪個團隊。 請洽詢您的產品或工程負責人，或參考[團隊及其管理員](teams-and-admins.md)，以識別您的團隊及其管理員。
+* 您知道要加入哪個團隊。 請洽詢您的產品或工程負責人，以識別您的團隊及其管理員。
 * 您知道您需要存取哪個環境 — **階段**、**生產**&#x200B;或兩者。
 
 ## 要求存取權 {#request-steps}
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 ## 可用的角色 {#roles}
 
-指派給您的角色會決定您可在主控台中執行的動作。 如需每個角色及其許可權的完整說明，請參閱[使用者角色](../teams/user-roles.md)。
+指派給您的角色會決定您可在主控台中執行的動作。 如果您不確定要請求哪個角色，請聯絡團隊管理員。
 
 ## 在授與存取權之後 {#after-access}
 
@@ -43,4 +43,4 @@ ht-degree: 1%
 
 ## 需要協助嗎? {#need-help}
 
-如果您不確定要加入哪個團隊，或您的專案尚無團隊，請參閱[建立新團隊](create-a-new-team.md)或連絡您組織的體驗轉出管理員。
+如果您不確定要加入哪個團隊，或您的專案尚無團隊，請聯絡貴組織的體驗轉出管理員。

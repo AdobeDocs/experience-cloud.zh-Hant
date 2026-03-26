@@ -1,13 +1,13 @@
 ---
 title: 建立您的第一個功能標幟
 description: 瞭解如何在Adobe體驗轉出中建立功能標幟、設定對象以及在轉出給使用者之前對其進行測試。
-source-git-commit: ae420329b94b24fcd173734b414aecf1c5fc16ca
+exl-id: ae115120-8da9-465e-a556-c17591ea7054
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
-
 
 # 建立您的第一個功能標幟 {#create-feature-flag}
 
@@ -16,9 +16,8 @@ ht-degree: 0%
 在建立功能標幟之前，請完成下列工作：
 
 * 您可以存取Experience Rollout主控台 — 請參閱[登入主控台](../console/log-in-to-the-console.md)
-* 您屬於團隊 — 請參閱[管理團隊](../teams/manage-teams.md)
 * 您的應用程式已上線 — 請參閱[將應用程式上線](../applications/onboard-your-application.md)
-* 您有&#x200B;**開發人員**&#x200B;或&#x200B;**產品發行擁有者**&#x200B;角色 — 請參閱[使用者角色](../teams/user-roles.md)
+* 您有&#x200B;**開發人員**&#x200B;或&#x200B;**產品發行擁有者**&#x200B;角色
 
 ## 步驟1：建立功能標幟 {#create}
 
@@ -61,4 +60,3 @@ ht-degree: 0%
 
 * [設定逐步推出的功能](set-feature-gradual-rollout.md)
 * [建立功能群組](create-a-feature-group.md)
-* [使用者角色](../teams/user-roles.md)

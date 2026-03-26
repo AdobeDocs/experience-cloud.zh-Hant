@@ -1,13 +1,13 @@
 ---
 title: 取得支援
 description: 瞭解如何取得Adobe Experience轉出的說明（包括自助服務資源），以及如何在您需要協助時提交支援請求。
-source-git-commit: d824d85c6701edc9be314713bb8e9624b183e2d2
+exl-id: f4ba9c00-941b-4c33-b42f-087113d58b0d
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
-
 
 # 取得支援 {#get-support}
 
@@ -19,8 +19,7 @@ ht-degree: 1%
 
 * **搜尋此檔案** — 使用搜尋功能尋找指南、概念說明及作法內容。
 * **使用Features Workbench** — 診斷特定使用者的功能旗標評估問題，而不需撰寫程式碼。 如需指示，請參閱[疑難排解](troubleshooting.md)。
-* **檢查發行狀態** — 確認功能對您預期的對象而言處於正確狀態。 請參閱[發行狀態](../feature-flags/release-states.md)。
-* **驗證對象規則** — 檢閱功能的對象條件和百分比設定。 請參閱[更新發行對象規則](../feature-flags/update-release-audience-rules.md)。
+* **驗證功能標幟狀態** — 確認功能標幟已發佈且對象規則已正確設定。
 
 ## 提交支援要求 {#submit-request}
 

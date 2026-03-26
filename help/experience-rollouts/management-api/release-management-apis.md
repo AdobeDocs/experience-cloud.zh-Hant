@@ -1,13 +1,13 @@
 ---
 title: 發行管理API
 description: Experience Rollouts發行管理API的API參考資料，包括取得、建立及編輯發行和跨團隊功能群組的端點。
-source-git-commit: 8a92b7a3e8c52da8bb2474f52c831e159420b878
+exl-id: e8d1d025-0645-4cf2-921f-d94c9f71282d
+source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 13%
 
 ---
-
 
 # 發行管理API {#release-management-apis}
 
@@ -146,4 +146,3 @@ ht-degree: 13%
 * [功能管理API概述](feature-management-apis-overview.md)
 * [功能標幟管理API](feature-flags-management-api.md)
 * [功能群組管理API](feature-group-management-api.md)
-* [建立跨團隊功能群組](../guides/feature-flags/create-cross-team-feature-group.md)

@@ -1,13 +1,13 @@
 ---
 title: 疑難排解
 description: 使用體驗轉出工作台來診斷特定使用者的功能標幟評估問題，包括檢查針對特定使用者身分啟用、停用或不相符的功能。
-source-git-commit: d824d85c6701edc9be314713bb8e9624b183e2d2
+exl-id: d64e9573-8e18-46a1-a75a-5ae5bfc7c82d
+source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
-
 
 # 疑難排解 {#troubleshooting}
 
@@ -85,5 +85,3 @@ ht-degree: 0%
 
 * [取得支援](get-support.md)
 * [聯絡支援人員](contact-support.md)
-* [更新發行對象規則](../feature-flags/update-release-audience-rules.md)
-* [發行狀態](../feature-flags/release-states.md)
