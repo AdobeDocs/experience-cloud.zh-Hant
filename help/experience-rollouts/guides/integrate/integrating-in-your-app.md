@@ -1,13 +1,13 @@
 ---
 title: 在您的應用程式中整合體驗轉出
 description: 瞭解如何將Adobe體驗轉出整合至您的應用程式，無論其是Web服務、Web屬性、行動應用程式或案頭應用程式。
-source-git-commit: 5dfb2fad7d04fc7f681337195de9c26e8aa26a09
+exl-id: e67a34d8-aaba-41d4-bc34-15b23782caa1
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # 在您的應用程式中整合體驗轉出 {#integrate}
 
@@ -18,9 +18,9 @@ ht-degree: 0%
 選取與您的應用程式型別相符的指南：
 
 1. [啟動指南](startup-guide.md) — 從這裡開始，深入瞭解所有整合步驟
-2. [案頭應用程式](desktop-applications.md) — 案頭應用程式的直接REST API整合
-3. [行動應用程式](mobile-applications.md) — 行動應用程式的REST API整合
-4. [網頁應用程式](web-applications.md) — 網頁屬性的REST API整合
+2. [案頭應用程式](desktop-applications.md) — 案頭應用程式的SDK整合
+3. [行動應用程式](mobile-applications.md) — 適用於行動應用程式的SDK整合
+4. [Web應用程式](web-applications.md) — Web屬性的SDK整合
 5. [網站服務](web-services.md) — 後端服務的伺服器端SDK整合
 6. [SDK](sdks.md) — SDK架構、必要條件和可用的SDK
 7. [整合步驟](integration-steps.md) — 詳細的逐步整合指示
@@ -30,6 +30,6 @@ ht-degree: 0%
 | 應用程式型別 | 建議的整合 |
 |---|---|
 | **Web服務/後端** | Java SDK或Node.js SDK |
-| **網頁應用程式** | REST API — Feature API V3 |
-| **行動應用程式** | REST API — Feature API V3 |
-| **案頭應用程式** | REST API — Feature API V2 |
+| **網頁應用程式** | Web SDK （即將推出） |
+| **行動應用程式** | 行動SDK （即將推出） |
+| **案頭應用程式** | SDK （即將推出） |

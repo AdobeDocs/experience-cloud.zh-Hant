@@ -1,13 +1,13 @@
 ---
 title: Node.js SDK整合指南
 description: 瞭解如何將Experience Rollouts Node.js SDK整合至您的後端服務，以擷取及評估功能標幟。
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 063829fe-6933-45ff-add4-285ca7391778
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '261'
 ht-degree: 1%
 
 ---
-
 
 # Node.js SDK整合指南 {#nodejs-sdk-integration-guide}
 
@@ -15,14 +15,14 @@ Experience Rollouts Node.js SDK是適用於Node.js服務的伺服器端程式庫
 
 >[!NOTE]
 >
->Node.js SDK僅供伺服器端使用。 若是使用者端網頁應用程式，請直接呼叫功能API V3 REST端點。
+>Node.js SDK僅供伺服器端使用。 若是使用者端網頁應用程式，請使用網頁SDK。 網頁SDK檔案目前正在準備中，即將推出。
 
 ## 先決條件 {#prerequisites}
 
 在整合Node.js SDK之前，請確定您擁有：
 
 * Node.js伺服器端應用程式
-* 透過Adobe Developer Console取得的&#x200B;**API金鑰**&#x200B;和&#x200B;**服務權杖** — 請參閱[訂閱API應用程式](../../integrate/subscribe-to-api-application.md)
+* 透過Adobe Developer Console取得的&#x200B;**API金鑰**&#x200B;和&#x200B;**服務權杖** — 請連絡Experience Rollouts支援將您的使用者端ID加入允許清單
 * 您的&#x200B;**應用程式使用者端ID**&#x200B;已在Experience Rollouts主控台中註冊 — 請參閱[將您的應用程式上線](../../applications/onboard-your-application.md)
 
 ## 安裝SDK {#install}
@@ -160,5 +160,4 @@ floodgateClient.createInstance(
 
 * [Node.js SDK發行說明](nodejs-sdk-release-notes.md)
 * [SDK](../../integrate/sdks.md)
-* [訂閱API應用程式](../../integrate/subscribe-to-api-application.md)
 * [整合步驟](../../integrate/integration-steps.md)

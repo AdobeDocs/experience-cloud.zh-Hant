@@ -1,19 +1,21 @@
 ---
 title: 行動應用程式
-description: 瞭解如何使用Feature API V3將Adobe體驗轉出整合到行動應用程式中。
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: 瞭解如何使用行動SDK將Adobe體驗轉出整合到行動應用程式中。
+exl-id: 27a43994-25e7-4a2c-b01c-ae98d089413d
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 6%
+source-wordcount: '68'
+ht-degree: 8%
 
 ---
 
-
 # 行動應用程式 {#mobile-applications}
 
-行動應用程式會呼叫&#x200B;**功能API V3**&#x200B;來擷取功能標幟，並在應用程式程式碼中套用條件式邏輯，藉此與體驗轉出整合。
+行動應用程式會透過行動SDK與體驗轉出整合。
 
-如需完整API參考資料（包括要求引數、回應格式和呼叫範例），請參閱本指南功能API區段中的&#x200B;**GET功能API V3**。
+>[!NOTE]
+>
+>行動SDK檔案目前正在準備中，即將推出。 如需搶先使用的指引，請聯絡您的Adobe代表。
 
 ## 整合步驟 {#integration-steps}
 

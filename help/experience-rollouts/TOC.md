@@ -2,10 +2,10 @@
 audience: user
 user-guide-title: Adobe體驗轉出
 user-guide-description: 瞭解如何使用Adobe體驗轉出來管理應用程式中的功能標幟、受控轉出和目標發行。
-source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 6%
+source-wordcount: '242'
+ht-degree: 8%
 
 ---
 
@@ -41,7 +41,6 @@ ht-degree: 6%
       + [網路服務](guides/integrate/web-services.md)
       + [SDK](guides/integrate/sdks.md)
       + [整合步驟](guides/integrate/integration-steps.md)
-      + [訂閱Adobe Developer Console中的API應用程式](guides/integrate/subscribe-to-api-application.md)
    + 功能標幟 {#feature-flags}
       + [特徵和特徵群組](guides/feature-flags/features-feature-groups-releases.md)
       + [建立您的第一個功能標幟](guides/feature-flags/create-your-first-feature-flag.md)
@@ -76,14 +75,3 @@ ht-degree: 6%
          + [Node.js SDK整合指南](guides/sdk-releases/nodejs/nodejs-sdk-integration-guide.md)
          + [Node.js SDK發行說明](guides/sdk-releases/nodejs/nodejs-sdk-release-notes.md)
       + [SDK基準](guides/sdk-releases/java-sdk-benchmarking.md)
-+ 功能API {#feature-api}
-   + [GET功能API V3](feature-api/get-feature-api-v3.md)
-   + [GET功能API V2](feature-api/get-feature-api-v2.md)
-+ 管理API {#management-api}
-   + [功能管理API概述](management-api/feature-management-apis-overview.md)
-   + [功能標幟管理API](management-api/feature-flags-management-api.md)
-   + [功能群組管理API](management-api/feature-group-management-api.md)
-   + [發行管理API](management-api/release-management-apis.md)
-   + [取得應用程式的使用者端ID](management-api/get-client-id.md)
-   + [取得所需的對象條件](management-api/get-audience-criteria.md)
-   + [管理修補程式API](management-api/management-patch-api.md)

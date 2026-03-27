@@ -1,19 +1,21 @@
 ---
 title: 網頁應用程式
-description: 瞭解如何使用Feature API V3將Adobe體驗轉出整合到網頁應用程式中。
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: 瞭解如何使用Web SDK將Adobe體驗轉出整合到網頁應用程式中。
+exl-id: 9b5d744a-263d-4b10-8745-2891f111519f
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 6%
+source-wordcount: '68'
+ht-degree: 8%
 
 ---
 
-
 # 網頁應用程式 {#web-applications}
 
-網頁應用程式會呼叫&#x200B;**功能API V3**&#x200B;來擷取功能標幟，並將條件式邏輯置於應用程式程式碼的後面，藉此與體驗轉出整合。
+網頁應用程式可透過網頁SDK與Experience Rollout整合。
 
-如需完整API參考資料（包括要求引數、回應格式和呼叫範例），請參閱本指南功能API區段中的&#x200B;**GET功能API V3**。
+>[!NOTE]
+>
+>網頁SDK檔案目前正在準備中，即將推出。 如需搶先使用的指引，請聯絡您的Adobe代表。
 
 ## 整合步驟 {#integration-steps}
 

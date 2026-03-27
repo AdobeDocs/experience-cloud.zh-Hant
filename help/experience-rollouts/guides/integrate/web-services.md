@@ -1,13 +1,13 @@
 ---
 title: 網路服務
 description: 瞭解如何使用Java或Node.js SDK將Adobe體驗轉出整合到後端網站服務。
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+exl-id: 2e73fc30-93d4-46dc-8855-950dd1b15064
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
-
 
 # 網路服務 {#web-services}
 
@@ -22,11 +22,7 @@ ht-degree: 9%
 
 ## 其他語言 {#other-languages}
 
-如果您的後端服務使用前述未列出的語言，您可以直接與REST API整合：
-
-* 功能API V3 — 如需完整參考資訊，請參閱本指南的功能API一節
-
-如果您需要有關與不支援的棧疊整合的指引，請聯絡體驗轉出支援。
+如果您的後端服務使用前述未列出的語言，請聯絡Experience Rollouts支援，取得與您特定棧疊整合的指引。
 
 ## 另請參閱 {#see-also}
 

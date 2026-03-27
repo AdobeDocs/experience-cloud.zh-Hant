@@ -1,13 +1,13 @@
 ---
 title: 整合步驟
-description: 請依照應用程式型別的整合步驟，將Adobe Experience轉出連線至您的網頁服務、網頁或行動應用程式或案頭應用程式。
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+description: 請依照應用程式型別的整合步驟，使用可用的SDK將Adobe Experience轉出連結至您的網站服務、網頁或行動應用程式或案頭應用程式。
+exl-id: d584bdf4-9031-40e7-a7f0-807c619bbba1
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 3%
+source-wordcount: '175'
+ht-degree: 4%
 
 ---
-
 
 # 整合步驟 {#integration-steps}
 
@@ -27,23 +27,23 @@ ht-degree: 3%
 
 **其他語言**
 
-如果您的棧疊未在上方列出，請直接與&#x200B;**功能API V3**&#x200B;整合（請參閱本指南的功能API一節）。 如果您需要指引，請聯絡體驗轉出支援。
+如需特定棧疊的指引，請聯絡體驗轉出支援。
 
 ## 網頁和行動應用程式 {#web-mobile}
 
-網頁和行動應用程式呼叫&#x200B;**功能API V3**&#x200B;以擷取目前使用者的功能標幟，並在應用程式中套用條件式邏輯。
+網頁和行動應用程式分別透過網頁SDK和行動SDK整合。
 
-如需完整API參考資料，請參閱本指南的功能API區段中的&#x200B;**GET功能API V3**。
+>[!NOTE]
+>
+>網頁SDK和行動SDK檔案目前正在準備中，即將推出。 如需搶先使用的指引，請聯絡您的Adobe代表。
 
 ## 案頭應用程式 {#desktop}
 
-案頭應用程式呼叫&#x200B;**功能API V2**&#x200B;以擷取功能標幟。
+透過SDK整合案頭應用程式。 如需案頭棧疊專屬的整合指引，請聯絡您的Adobe代表。
 
-如需完整API參考資料，請參閱本指南的功能API區段中的&#x200B;**GET功能API V2**。
-
->[!IMPORTANT]
+>[!NOTE]
 >
->案頭使用者端必須遵守API回應中的TTL值，並針對API無法使用狀態實作妥善的錯誤處理。 如需需求，請參閱[案頭應用程式](desktop-applications.md)。
+>案頭SDK檔案目前正在準備中，即將推出。
 
 ## 另請參閱 {#see-also}
 

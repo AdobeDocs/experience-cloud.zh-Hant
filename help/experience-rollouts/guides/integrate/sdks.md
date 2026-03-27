@@ -1,13 +1,13 @@
 ---
 title: SDK
 description: 瞭解Adobe Experience轉出中的SDK架構，以及Java和Node.js適用的可用SDK。
-source-git-commit: b82520eebe0070b5f76e0f7daeb2bb79a4bccca0
+exl-id: 110a440d-b52a-4e1e-a94f-86f9741a223a
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '312'
 ht-degree: 2%
 
 ---
-
 
 # SDK {#sdks}
 
@@ -48,15 +48,6 @@ Java SDK的主要規格：
 Node.js SDK是透過npm發佈。
 
 如需設定指示，請參閱[Node.js SDK整合指南](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md)。
-
-## 在SDK和REST API之間選擇 {#sdk-vs-api}
-
-| 藍本 | 建議 |
-|---|---|
-| 後端Java或Node.js服務 | 使用適當的SDK進行自動快取和簡化的整合 |
-| 其他後端語言 | 直接使用功能API V3 — 請參閱本指南的功能API一節 |
-| 網頁或行動應用程式 | 直接使用功能API V3 — 請參閱本指南的功能API一節 |
-| 案頭應用程式 | 直接使用功能API V2 — 請參閱本指南的功能API一節 |
 
 ## 另請參閱 {#see-also}
 

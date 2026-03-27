@@ -1,13 +1,13 @@
 ---
 title: 啟動指南
 description: 請依照下列步驟，從請求存取權到建立您的第一個功能標幟，讓您的應用程式與Adobe體驗轉出整合。
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+exl-id: 7aa09535-45fa-4ddf-9e3f-a23f8a8ee666
+source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
-
 
 # 啟動指南 {#startup-guide}
 
@@ -29,21 +29,17 @@ ht-degree: 1%
 | **伺服器端使用者端** | 如果與伺服器端SDK整合，您需要具有適當許可權的管理員使用者端ID。 |
 | **案頭使用者端** | 產品代碼和產品版本可用來取代使用者端ID。 |
 
-## 步驟3：訂閱體驗轉出API {#step-3-subscribe}
+## 步驟3：取得您的認證 {#step-3-credentials}
 
-透過Adobe Developer Console訂閱Experience Rollouts API，讓您的應用程式可以呼叫功能標幟端點。 請參閱[在Adobe Developer Console中訂閱API應用程式](subscribe-to-api-application.md)。
+如果您透過伺服器端SDK進行整合，則需要服務權杖使用者端ID。 請連絡Experience Rollout支援，將您的使用者端ID加入允許清單，然後才能從SDK進行API呼叫。
 
->[!NOTE]
->
->如果您透過伺服器端SDK進行整合，則需要服務權杖使用者端ID。 請聯絡Experience Rollout支援，將您的使用者端ID加入允許清單。
-
-## 步驟4：使用SDK或API進行整合 {#step-4-integrate}
+## 步驟4：使用SDK整合 {#step-4-integrate}
 
 請針對您的應用程式型別，執行[整合步驟](integration-steps.md)。 選擇適合您棧疊的路徑：
 
 * **網頁服務** → Java SDK或Node.js SDK
-* **網頁和行動應用程式** → Feature API V3
-* **案頭應用程式** → Feature API V2
+* **網頁和行動應用程式** → Web SDK或行動SDK （即將推出）
+* **案頭應用程式** → SDK （即將推出）
 
 ## 步驟5：建立並測試您的第一個功能標幟 {#step-5-feature-flag}
 
