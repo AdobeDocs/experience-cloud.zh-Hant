@@ -8,7 +8,7 @@ role: Developer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: 58ec0999-b28a-4198-8d57-729b074c6a6d
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 1%
@@ -32,13 +32,15 @@ ht-degree: 1%
    * &quot;resType&quot;：這是技術型別。
 
      如果「type」是以值「link」或「collection」完成，則resTarget值是連結所定位的資源名稱。
-如果「type」以「enumeration」值完成，則會新增「values」欄位，且每個列舉值都會在&#x200B;**values**&#x200B;節點中詳細說明。
+如果「type」以「enumeration」值完成，則會新增「values」欄位，且每個列舉值都會在**values**&#x200B;節點中詳細說明。
 
 * **篩選器**&#x200B;節點會傳回URL以擷取關聯的篩選器。 如需篩選的詳細資訊，請參閱[本區段](filtering.md)。
 
 <!-- créer une section au même niveau sur les liens -->
-<!-- dans l'exemple: birthdate, email +  mettre 2 liens : un de type 1-1 , 1-N
-si on prend l'exemple de l'org unit, on aura un bon exemple lien -->
+<!-- 
+dans l'exemple: birthdate, email +  mettre 2 liens : un de type 1-1 , 1-N
+si on prend l'exemple de l'org unit, on aura un bon exemple lien 
+-->
 <!-- plus reparler du node Data -->
 
 <br/>

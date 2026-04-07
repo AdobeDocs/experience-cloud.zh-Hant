@@ -3,10 +3,10 @@ title: Adobe Campaign網頁使用者介面
 description: 64位元表格
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: ab5f01fd-4ad5-46e9-b132-011fe0f7bbd2
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 6%
 
 ---
 
@@ -27,21 +27,21 @@ ht-degree: 7%
 
 | 結構描述名稱 | 屬性名稱 |
 |--- |--- |
-| nms:broadLogRcp | ID |
-| nms:trackingLogRcp | ID |
-| nms:excludeLogRcp | ID |
-| nms:broadLogVisitor | ID |
-| nms:trackingLogVisitor | ID |
+| nms:broadLogRcp | id |
+| nms:trackingLogRcp | id |
+| nms:excludeLogRcp | id |
+| nms:broadLogVisitor | id |
+| nms:trackingLogVisitor | id |
 | nms:propositionRcp | interactionId |
 | nms:propositionVisitor | interactionId |
-| nms:webTrackingLog | ID |
+| nms:webTrackingLog | id |
 | nms:tmpBroadcast | message-id |
 | nms:tmpMarketingPressure | message-id |
 | nms:tmpBroadcastExclusion | message-id |
 | nms:tmpBroadcastPaper | message-id |
-| nms:broadLogAppSubRcp | ID |
-| nms:trackingLogAppSubRcp | ID |
-| nms:excludeLogAppSubRcp | ID |
+| nms:broadLogAppSubRcp | id |
+| nms:trackingLogAppSubRcp | id |
+| nms:excludeLogAppSubRcp | id |
 | nms:webEvent | broadLogSrc-id， broadLogRemkt-id |
 | nms:broadLogMid | mktBroadLogId |
 | nms:mirrorPageSearch | remoteMessageId |

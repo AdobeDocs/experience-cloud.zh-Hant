@@ -4,9 +4,9 @@ description: 進一步瞭解與Campaign Standard API相關的常見問題
 role: Developer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,8 @@ Adobe.io會宣告您無效的URI：您請求的URI很可能無效。 在Adobe.io
 
 根據執行個體組態，建立的設定檔必須關聯至&#x200B;**orgUnit**。 若要瞭解如何在建立時新增此欄位，請參閱[本節](creating-profiles-api.md)。
 
-<!-- * (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
+<!-- 
+* (error duplicate key : quand tu crées un profile qui existe déjà , il faut faire un patch pour updater le profile plutôt qu'un POST)
 
 With Curl
 List all profiles

@@ -8,9 +8,9 @@ role: Developer
 level: Experienced
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: cdb050b7-d327-42f7-b534-d32d988c8ffb
-source-git-commit: 11c49b273164b632bcffb7de01890c6f9d7ae9c2
+source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -202,8 +202,8 @@ ht-degree: 0%
 
 如需詳細資訊，請參閱Campaign Standard檔案：
 
-* [正在設定篩選定義](https://helpx.adobe.com/tw/campaign/standard/developing/using/configuring-filter-definition.html)。
-* [使用案例：使用複合識別索引鍵](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/uc-calling-resource-id-key.html?lang=zh-Hant)呼叫資源。
+* [正在設定篩選定義](https://helpx.adobe.com/campaign/standard/developing/using/configuring-filter-definition.html)。
+* [使用案例：使用複合識別索引鍵](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/uc-calling-resource-id-key.html)呼叫資源。
 
 <br/>
 
@@ -244,7 +244,8 @@ Response to the request.
 
 <!-- exemple à vérifier de bout en bout-->
 
-<!--+category = query editor
+<!--
++category = query editor
 privacy ?
 displayFOrmat ?
 pour faire un POST sur une enum, il faut lui passer le @name décrit dans le noeud values, chaque @name a une correspondance en format = au format définit par le resType
