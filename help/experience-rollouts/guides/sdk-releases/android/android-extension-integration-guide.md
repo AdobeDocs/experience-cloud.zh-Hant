@@ -52,7 +52,7 @@ Experience Rollout擴充功能需要下列Adobe Experience Platform擴充功能�
    | 資料集 ID | 分析事件資料的Adobe Experience Platform資料集ID |
 
 1. 選取&#x200B;**「儲存」**。
-1. 依照[發佈程式](https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/overview)更新您的設定。
+1. 依照[發佈程式](https://experienceleague.adobe.com/zh-hant/docs/experience-platform/tags/publish/overview)更新您的設定。
 
 ### 取得環境檔案ID {#environment-file-id}
 
