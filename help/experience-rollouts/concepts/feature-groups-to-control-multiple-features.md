@@ -1,13 +1,13 @@
 ---
 title: 控制多個特徵的特徵群組
 description: 瞭解Experience轉出中的功能群組如何讓您以單一單元打包和管理跨應用程式的相關功能標幟。
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: dfeb7eff-34f1-4cb5-9c3e-a40d1eda3016
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 0%
 
 ---
-
 
 # 控制多個特徵的特徵群組 {#feature-groups}
 
@@ -21,14 +21,5 @@ ht-degree: 1%
 
 ## 跨應用程式分組 {#cross-application}
 
-功能群組支援跨應用程式功能管理，只要旗標屬於體驗轉出中的&#x200B;**相同團隊**。 一個團隊可以擁有多個應用程式，因此這些應用程式中的相關旗標可以分組在一起。
+功能群組支援跨應用程式的功能管理。 可將跨多個應用程式的相關標幟分組。
 
-## 功能群組與發行版本 {#vs-releases}
-
-| | 功能群組 | 版本 |
-|---|---|---|
-| 範圍 | 在單一團隊內 | 跨多個團隊 |
-| 使用案例 | 在團隊內協調旗標 | 大型多團隊啟動協調 |
-| 需要許可權 | 團隊層級 | 更高（發行管理員） |
-
-如果功能標幟您想要群組屬於不同團隊所擁有的應用程式，請使用[版本](release-management.md)，而不是功能群組。

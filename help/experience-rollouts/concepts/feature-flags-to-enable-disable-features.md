@@ -1,13 +1,13 @@
 ---
 title: 可啟用和停用功能的功能標幟
 description: 瞭解Experience轉出中的功能標幟如何讓您控制功能可用性、管理相依性並降低部署風險。
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: 627775e8-9b17-4bc7-9565-07a438ae8ed7
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
-
 
 # 可啟用和停用功能的功能標幟 {#feature-flags}
 
@@ -44,4 +44,3 @@ ht-degree: 0%
 1. 開發人員會建立功能標幟並單獨進行測試，而不會將標幟公開給其他使用者。
 2. 產品所有者將受眾連結至標幟，使定義的一組外部使用者可看見此功能。
 3. 旗標會選擇性地新增至[功能群組](feature-groups-to-control-multiple-features.md)，與相關的旗標一併管理。
-4. 可選擇將旗標新增至[版本](release-management.md)，以進行跨團隊協調。

@@ -1,13 +1,13 @@
 ---
 title: 逐步轉出
 description: 瞭解體驗轉出中的逐步轉出如何讓您以即時意見反應和最低風險將功能傳送安全地分階段投入生產。
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+exl-id: ede24236-de19-4008-893c-e67bd82e23e3
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
-
 
 # 逐步轉出 {#gradual-rollout}
 
@@ -38,4 +38,3 @@ ht-degree: 2%
 ## 另請參閱 {#see-also}
 
 * [可啟用和停用功能的功能標幟](feature-flags-to-enable-disable-features.md)
-* [發行管理](release-management.md)

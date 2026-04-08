@@ -2,9 +2,9 @@
 title: 建立您的第一個功能標幟
 description: 瞭解如何在Adobe體驗轉出中建立功能標幟、設定對象以及在轉出給使用者之前對其進行測試。
 exl-id: ae115120-8da9-465e-a556-c17591ea7054
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 0%
 
 ## 步驟4：排程（選擇性） {#schedule}
 
-您可以排程功能標幟，以便在未來的日期和時間啟用。 如需詳細資訊，請參閱[排程](schedule.md)。
+您可以使用功能標幟設定中的&#x200B;**排程**&#x200B;選項，將功能標幟排程為在未來日期和時間啟用。
 
 ## 常見問題集：我無法將功能標幟新增為開發人員 {#faq}
 

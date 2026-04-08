@@ -2,10 +2,10 @@
 title: 網路服務
 description: 瞭解如何使用Java或Node.js SDK將Adobe體驗轉出整合到後端網站服務。
 exl-id: 2e73fc30-93d4-46dc-8855-950dd1b15064
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 12%
+source-wordcount: '85'
+ht-degree: 10%
 
 ---
 
@@ -15,14 +15,13 @@ ht-degree: 12%
 
 ## 可用的SDK {#available-sdks}
 
-| 語言 | 整合指南 | 發行說明 |
-|---|---|---|
-| **Java** | [Java SDK整合指南](../sdk-releases/java/java-sdk-integration-guide.md) | [Java SDK發行說明](../sdk-releases/java/java-sdk-release-notes.md) |
-| **Node.js** | [Node.js SDK整合指南](../sdk-releases/nodejs/nodejs-sdk-integration-guide.md) | [Node.js SDK發行說明](../sdk-releases/nodejs/nodejs-sdk-release-notes.md) |
+>[!NOTE]
+>
+>伺服器端SDK檔案目前正在準備中，即將推出。 如需搶先使用的指引，請聯絡您的Adobe代表。
 
 ## 其他語言 {#other-languages}
 
-如果您的後端服務使用前述未列出的語言，請聯絡Experience Rollouts支援，取得與您特定棧疊整合的指引。
+如需與您特定棧疊整合的指引，請聯絡體驗轉出支援。
 
 ## 另請參閱 {#see-also}
 
