@@ -3,7 +3,7 @@ audience: user
 user-guide-title: Adobe體驗轉出
 user-guide-description: 瞭解如何使用Adobe體驗轉出來管理應用程式中的功能標幟、受控轉出和目標發行。
 hide: true
-source-git-commit: 632654252181c4941632a0dbd1877e721a4d3a71
+source-git-commit: 571439cb5f463567b11b6dd24a9cfbca400f9357
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 8%
@@ -11,7 +11,7 @@ ht-degree: 8%
 ---
 
 
-# Adobe體驗轉出 {#experience-rollouts}
+# Adobe體驗轉出 {#experience-rollouts-docs}
 
 + [概觀](home.md)
 + 快速入門 {#get-started}
@@ -60,3 +60,7 @@ ht-degree: 8%
          + [Android擴充功能整合指南](guides/sdk-releases/android/android-extension-integration-guide.md)
       + iOS擴充功能 {#ios-extension}
          + [iOS擴充功能整合指南](guides/sdk-releases/ios/ios-extension-integration-guide.md)
+
+<!-- 
+Bob was here
+-->

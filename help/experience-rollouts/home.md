@@ -1,8 +1,9 @@
 ---
 title: Adobe體驗轉出
 description: 瞭解如何使用Adobe體驗轉出，透過受控制的轉出、功能標幟和目標受眾管理，安全且逐步地提供功能。
+hide: true
 exl-id: c400d75d-d928-4cf6-a094-1a2f443389f0
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 571439cb5f463567b11b6dd24a9cfbca400f9357
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 1%
@@ -38,3 +39,7 @@ Adobe體驗推出可讓產品團隊逐步、安全地推出新功能，無需重
 ## 需要協助嗎?
 
 如果某些專案的行為與預期不符，請聯絡您的Adobe代表以尋求支援。
+
+<!-- 
+Bob was here
+-->
