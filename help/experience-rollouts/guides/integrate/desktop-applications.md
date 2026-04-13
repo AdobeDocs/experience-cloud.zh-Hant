@@ -1,8 +1,9 @@
 ---
 title: 案頭應用程式
 description: 瞭解如何使用SDK將Adobe體驗轉出整合到案頭應用程式中。
+hide: true
 exl-id: e26c8af8-893a-43f4-905c-7292cc887900
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 2%
@@ -25,3 +26,5 @@ ht-degree: 2%
 
 * [整合步驟](integration-steps.md)
 * [啟動指南](startup-guide.md)
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: 整合步驟
 description: 請依照應用程式型別的整合步驟，使用可用的SDK將Adobe Experience轉出連結至您的網站服務、網頁或行動應用程式或案頭應用程式。
+hide: true
 exl-id: d584bdf4-9031-40e7-a7f0-807c619bbba1
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 4%
@@ -43,3 +44,5 @@ ht-degree: 4%
 * [SDK](sdks.md)
 * [網路服務](web-services.md)
 * [案頭應用程式](desktop-applications.md)
+
+<!-- -->

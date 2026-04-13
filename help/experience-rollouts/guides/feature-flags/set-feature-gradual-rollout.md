@@ -1,13 +1,14 @@
 ---
 title: 設定逐步推出的功能
 description: 瞭解如何在Adobe體驗轉出中為功能標幟設定以百分比為基礎的逐步轉出。
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+hide: true
+exl-id: 1e03c533-398d-4a83-9f4a-c0419828b460
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
 
 ---
-
 
 # 設定逐步推出的功能 {#gradual-rollout-feature}
 
@@ -24,3 +25,5 @@ ht-degree: 3%
 * [逐步轉出](../../concepts/gradual-rollout.md)
 * [設定逐步推出的功能群組](set-feature-group-gradual-rollout.md)
 * [建立您的第一個功能標幟](create-your-first-feature-flag.md)
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: 建立您的第一個功能標幟
 description: 瞭解如何在Adobe體驗轉出中建立功能標幟、設定對象以及在轉出給使用者之前對其進行測試。
+hide: true
 exl-id: ae115120-8da9-465e-a556-c17591ea7054
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -60,3 +61,5 @@ ht-degree: 0%
 
 * [設定逐步推出的功能](set-feature-gradual-rollout.md)
 * [建立功能群組](create-a-feature-group.md)
+
+<!-- -->

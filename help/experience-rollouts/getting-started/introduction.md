@@ -1,13 +1,14 @@
 ---
 title: 體驗轉出簡介
 description: 瞭解Adobe Experience轉出如何提供控管發行系統，以便將功能逐步部署至鎖定目標的對象。
-source-git-commit: 1c8fd9b42d08f657b4e6b16efae86faa04d15565
+hide: true
+exl-id: befe7899-096d-4f74-a5a2-35b1fc3cbc58
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
 
 ---
-
 
 # 體驗轉出簡介 {#introduction}
 
@@ -40,3 +41,5 @@ Experience Rollouts是一個功能管理平台，提供：
 * **逐步轉出** — 階段功能遞增傳送，以降低風險、收集意見並管理後端負載。
 
 * **刪除開關** — 在偵測到問題時立即關閉任何功能，不需要變更或重新部署程式碼。
+
+<!-- -->

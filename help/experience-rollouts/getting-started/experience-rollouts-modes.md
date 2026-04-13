@@ -1,13 +1,14 @@
 ---
 title: 體驗轉出模式
 description: 瞭解Adobe體驗轉出中的兩種功能鎖定目標模式 — 使用者層級鎖定目標和組織層級鎖定目標，以及何時使用各模式。
-source-git-commit: bb4541dd7a77edadded2edbc9c71905cf70f2e24
+hide: true
+exl-id: 0fdfa429-d9bd-4990-8f96-cd9deb273aa0
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 3%
 
 ---
-
 
 # 體驗轉出模式 {#modes}
 
@@ -81,3 +82,5 @@ ht-degree: 3%
 
 * 如果您的問題是&#x200B;*「哪些使用者應該看到此功能？」* →使用&#x200B;**使用者層級鎖定目標**
 * 如果您的問題是&#x200B;*「哪些組織或環境應該有此功能？」* →使用&#x200B;**組織和環境層級鎖定目標**
+
+<!-- -->

@@ -1,7 +1,8 @@
 ---
 title: iOS整合指南的Experience Rollout擴充功能
 description: 瞭解如何在iOS上將Experience Rollout擴充功能與Adobe Experience Platform Mobile SDK整合。
-source-git-commit: a9f6746c2b470377d2fd58de18e984d1ec404a77
+hide: true
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '929'
 ht-degree: 7%
@@ -445,3 +446,5 @@ NSString *version = [AEPMobileRollout extensionVersion];
 * [整合步驟](../../integrate/integration-steps.md)
 * [SDK](../../integrate/sdks.md)
 * [Android擴充功能整合指南](../android/android-extension-integration-guide.md)
+
+<!-- -->

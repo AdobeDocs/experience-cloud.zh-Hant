@@ -1,8 +1,9 @@
 ---
 title: 在對象條件中新增百分比規則
 description: 瞭解如何在Adobe體驗轉出中的對象條件中新增百分比型規則，以針對不同對象區段鎖定不同的轉出百分比。
+hide: true
 exl-id: 15a3c26f-31fc-4e73-aa0e-035dcbe7d770
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -63,3 +64,5 @@ ht-degree: 0%
 * [功能標幟和功能群組中的對象](audience-in-feature-flags-and-feature-groups.md)
 * [複雜的受眾規則](complex-rules.md)
 * [設定逐步推出的功能](../feature-flags/set-feature-gradual-rollout.md)
+
+<!-- -->

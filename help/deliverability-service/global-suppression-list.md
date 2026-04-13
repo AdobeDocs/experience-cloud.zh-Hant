@@ -3,9 +3,9 @@ title: 全球禁止名單
 description: 探索全球禁止名單
 hide: true
 exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
-source-git-commit: 9d12eece2ca9f8f36951f8575bb0ac42bc10a728
-workflow-type: ht
-source-wordcount: '618'
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
+workflow-type: tm+mt
+source-wordcount: '630'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 >[!CAUTION]
 >
->檢視、匯出和管理全球禁止名單的權限取決於指派給您的分送清單。更多詳情
+>檢視、匯出和管理全球禁止名單的權限取決於指派給您的分送清單。 了解更多
 
 會顯示兩個標籤：**[!UICONTROL 電子郵件]**&#x200B;和&#x200B;**[!UICONTROL 網域]**。
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 目前有兩種方式可以將地址加入全球禁止名單：
 
 * 由交付團隊策劃的清單。
-* 由協力廠商服務提供者 Blackbox 提供的清單。
+* 由第三方服務提供者 Blackbox 提供的清單。
 
 您可以[一次新增一個](#add-one-address-or-domain)電子郵件地址或網域，或[在大量模式中](#upload-csv-file)透過 CSV 檔案上傳的方式新增。
 
@@ -87,7 +87,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->上傳完成後，從介面檢查其狀態以確保上傳成功。[了解作法](#recent-uploads)
+>上傳完成後，從介面檢查其狀態以確保上傳成功。 [了解作法](#recent-uploads)
 
 ### 檢查最近的上傳狀態 {#recent-uploads}
 
@@ -109,4 +109,4 @@ ht-degree: 100%
 
 >[!CAUTION]
 >
->顧問無法透過介面移除協力廠商服務提供者 Blackbox 自動新增的地址或網域。這只能透過後端票證來完成。
+>顧問無法透過介面移除第三方服務提供者 Blackbox 自動新增的地址或網域。 這只能透過後端票證來完成。

@@ -1,13 +1,14 @@
 ---
 title: 特徵和特徵群組
 description: 瞭解Adobe體驗轉出中的功能標幟和功能群組之間的差異，以及何時使用各功能。
-source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
+hide: true
+exl-id: 852aa777-6f8a-47c9-bf54-e645a5ee2f3e
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 4%
 
 ---
-
 
 # 特徵和特徵群組 {#features-feature-groups}
 
@@ -44,3 +45,5 @@ ht-degree: 4%
 
 * [建立您的第一個功能標幟](create-your-first-feature-flag.md)
 * [建立功能群組](create-a-feature-group.md)
+
+<!-- -->

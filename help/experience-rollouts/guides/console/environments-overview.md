@@ -1,13 +1,14 @@
 ---
 title: 選取您的沙箱
 description: 瞭解如何在Adobe Experience Platform Experience轉出中工作時選取正確的Adobe沙箱。
-source-git-commit: c654ca1507abcefcff84cef9f99830042939805d
+hide: true
+exl-id: 84b6b640-7f43-4e51-a3b1-29f4efd3670f
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
 
 ---
-
 
 # 選取您的沙箱 {#sandbox}
 
@@ -21,3 +22,5 @@ ht-degree: 2%
 
 * [登入主控台](log-in-to-the-console.md)
 * [要求存取權](request-access.md)
+
+<!-- -->
