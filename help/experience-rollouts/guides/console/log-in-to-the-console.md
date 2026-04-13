@@ -1,8 +1,9 @@
 ---
 title: 登入「體驗轉出」主控台
 description: 瞭解如何透過尋找您的團隊、請求存取權並登入主控台，開始使用Adobe體驗轉出。
+hide: true
 exl-id: 4b109759-43b5-440a-89b4-78c0f0483cd0
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 2%
@@ -44,3 +45,5 @@ ht-degree: 2%
 | **團隊** | 擁有應用程式並管理功能標幟的自我管理群組。 專案團隊具有平面結構，具有不同的使用者角色和許可權等級。 |
 | **應用程式** | 您要以功能旗標控制的應用程式。 每個應用程式都由團隊擁有。 |
 | **功能標幟/功能群組** | 在「體驗轉出」中針對功能測試和受控轉出所建立的成品。 |
+
+<!-- -->

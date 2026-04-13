@@ -1,8 +1,9 @@
 ---
 title: 在對象規則中使用內容
 description: 瞭解如何在受眾規則中使用內容變數，以在Adobe體驗轉出中使用功能標幟和功能群組。
+hide: true
 exl-id: 0367f475-9209-4d53-86b4-a739a73a23a7
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -54,3 +55,5 @@ ht-degree: 0%
 
 * [功能標幟和功能群組中的對象](audience-in-feature-flags-and-feature-groups.md)
 * [在對象條件中新增百分比規則](adding-percentage-rules.md)
+
+<!-- -->

@@ -1,13 +1,14 @@
 ---
 title: 設定逐步推出的功能群組
 description: 瞭解如何在Adobe體驗轉出中為功能群組設定以百分比為基礎的逐步轉出。
-source-git-commit: 9bfe0e55e89c1d7fbd77cde63831a6a186820e24
+hide: true
+exl-id: fcf187f1-2f33-4e3a-b740-985d5bc0bcdc
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 3%
 
 ---
-
 
 # 設定逐步推出的功能群組 {#gradual-rollout-feature-group}
 
@@ -26,3 +27,5 @@ ht-degree: 3%
 * [建立功能群組](create-a-feature-group.md)
 * [使用功能標幟的A/B測試](a-b-testing.md)
 * [逐步轉出](../../concepts/gradual-rollout.md)
+
+<!-- -->

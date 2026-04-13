@@ -1,8 +1,9 @@
 ---
 title: 在您的應用程式中整合體驗轉出
 description: 瞭解如何將Adobe體驗轉出整合至您的應用程式，無論其是Web服務、Web屬性、行動應用程式或案頭應用程式。
+hide: true
 exl-id: e67a34d8-aaba-41d4-bc34-15b23782caa1
-source-git-commit: 2a946868f58e25f8aafbf3ccfcf6571e7d0d8d20
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -33,3 +34,5 @@ ht-degree: 0%
 | **網頁應用程式** | Web SDK （即將推出） |
 | **行動應用程式** | 行動SDK （即將推出） |
 | **案頭應用程式** | SDK （即將推出） |
+
+<!-- -->

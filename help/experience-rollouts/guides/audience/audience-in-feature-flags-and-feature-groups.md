@@ -1,8 +1,9 @@
 ---
 title: 功能標幟和功能群組中的對象
 description: 瞭解如何使用內容變數，在Adobe體驗轉出中定義功能標幟和功能群組的對象條件。
+hide: true
 exl-id: 4a8f7c3f-1ae5-4e65-a070-9fc33133eec0
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 2%
@@ -21,3 +22,5 @@ ht-degree: 2%
 * [在對象條件中新增百分比規則](adding-percentage-rules.md)
 * [複雜的受眾規則](complex-rules.md)
 * [建立您的第一個功能標幟](../feature-flags/create-your-first-feature-flag.md)
+
+<!-- -->

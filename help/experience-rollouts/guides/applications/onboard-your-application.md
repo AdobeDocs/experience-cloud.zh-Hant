@@ -1,8 +1,9 @@
 ---
 title: 將您的應用程式上線
 description: 瞭解如何在Adobe Experience轉出中啟動新應用程式，以便開始建立和管理功能標幟。
+hide: true
 exl-id: d88c27a5-f490-4504-9764-5e4ce98fdf20
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 2%
@@ -45,3 +46,5 @@ ht-degree: 2%
 
 * [管理應用程式](manage-applications.md)
 * [登入主控台](../console/log-in-to-the-console.md)
+
+<!-- -->

@@ -1,13 +1,14 @@
 ---
 title: 更新發行對象規則
 description: 瞭解如何在Adobe體驗轉出中設定和更新版本的對象條件，包括支援的規則型別以及如何組合這些型別。
-source-git-commit: bb4541dd7a77edadded2edbc9c71905cf70f2e24
+hide: true
+exl-id: 8d546cd7-af66-47c7-aab3-c667568e8582
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 3%
 
 ---
-
 
 # 更新發行對象規則 {#update-release-audience-rules}
 
@@ -76,3 +77,5 @@ ht-degree: 3%
 * [要求發行](request-a-release.md)
 * [端對端發行工作流程](release-workflow-end-to-end.md)
 * [發行狀態](release-states.md)
+
+<!-- -->

@@ -1,8 +1,9 @@
 ---
 title: 複雜的受眾規則
 description: 瞭解如何在Adobe體驗轉出中使用大型或複雜的受眾規則集，包括大量值限制以及如何跨多個條件分割規則。
+hide: true
 exl-id: 37e037b6-45eb-4261-b580-30d94d8e55da
-source-git-commit: 4a3133f014a9bb9d6ed26eb9d9f763db79ce63b3
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -36,3 +37,5 @@ ht-degree: 0%
 
 * [功能標幟和功能群組中的對象](audience-in-feature-flags-and-feature-groups.md)
 * [在對象條件中新增百分比規則](adding-percentage-rules.md)
+
+<!-- -->

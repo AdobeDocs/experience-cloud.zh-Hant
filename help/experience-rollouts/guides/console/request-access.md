@@ -1,8 +1,9 @@
 ---
 title: 要求存取權
 description: 瞭解如何要求Adobe體驗轉出團隊的存取權以及新成員可用的角色。
+hide: true
 exl-id: 30d05c90-2913-4e88-a8f9-28a142297337
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 1%
@@ -44,3 +45,5 @@ ht-degree: 1%
 ## 需要協助嗎? {#need-help}
 
 如果您不確定要加入哪個團隊，或您的專案尚無團隊，請聯絡貴組織的體驗轉出管理員。
+
+<!-- -->

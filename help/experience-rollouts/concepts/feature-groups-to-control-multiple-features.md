@@ -1,8 +1,9 @@
 ---
 title: 控制多個特徵的特徵群組
 description: 瞭解Experience轉出中的功能群組如何讓您以單一單元打包和管理跨應用程式的相關功能標幟。
+hide: true
 exl-id: dfeb7eff-34f1-4cb5-9c3e-a40d1eda3016
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -23,3 +24,5 @@ ht-degree: 0%
 
 功能群組支援跨應用程式的功能管理。 可將跨多個應用程式的相關標幟分組。
 
+
+<!-- -->

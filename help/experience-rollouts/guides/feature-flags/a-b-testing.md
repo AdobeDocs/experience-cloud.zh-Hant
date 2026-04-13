@@ -1,8 +1,9 @@
 ---
 title: 使用功能標幟的A/B測試
 description: 瞭解如何透過為一組功能標幟設定多個變體，來使用Adobe體驗轉出中的功能群組執行A/B測試。
+hide: true
 exl-id: bb849049-229c-40ff-bbfe-7996f868bcc3
-source-git-commit: 454b5c719a5f8be82d1ed835da58bfca6316def2
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 1%
@@ -53,3 +54,5 @@ ht-degree: 1%
 * [建立功能群組](create-a-feature-group.md)
 * [設定逐步推出的功能群組](set-feature-group-gradual-rollout.md)
 * [Analytics](analytics.md)
+
+<!-- -->

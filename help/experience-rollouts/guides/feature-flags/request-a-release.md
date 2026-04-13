@@ -1,8 +1,9 @@
 ---
 title: 要求發行
 description: 瞭解如何在Adobe Experience轉出中請求新的協調發行，以及要提供哪些資訊。
+hide: true
 exl-id: 8eee84b2-fbd5-4713-90ac-92fd7b74c163
-source-git-commit: f4c365e1a0e61ba3dec298dfa8ab0d9e74e1259a
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 2%
@@ -46,3 +47,5 @@ ht-degree: 2%
 * [端對端發行工作流程](release-workflow-end-to-end.md)
 * [更新發行對象規則](update-release-audience-rules.md)
 * [發行狀態](release-states.md)
+
+<!-- -->

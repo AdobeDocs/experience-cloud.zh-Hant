@@ -1,8 +1,9 @@
 ---
 title: 匯入功能標幟
 description: 瞭解如何在Adobe體驗轉出中將功能標幟從一個沙箱匯入到另一個沙箱，以避免手動重新建立標幟設定。
+hide: true
 exl-id: 37c84d75-a565-4202-8c99-f630e05b6bb6
-source-git-commit: fcb1d36fc92b3954a902d818a98f579672c577e9
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 1%
@@ -43,3 +44,5 @@ ht-degree: 1%
 
 * [特徵和特徵群組](../feature-flags/features-feature-groups-releases.md)
 * [建立您的第一個功能標幟](../feature-flags/create-your-first-feature-flag.md)
+
+<!-- -->

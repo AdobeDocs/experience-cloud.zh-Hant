@@ -1,13 +1,14 @@
 ---
 title: Analytics
 description: 瞭解如何在Adobe Experience轉出中啟用和使用內建的分析儀表板，以追蹤功能標幟效能並測量轉出影響。
-source-git-commit: d311efb995b20ffc17370d68d57dd84a8605896c
+hide: true
+exl-id: edddca99-f263-461b-a16f-b46ee7c15f6c
+source-git-commit: 12032cbed45e694a3f25f16afe80308b3eb82924
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%
 
 ---
-
 
 # Analytics {#analytics}
 
@@ -42,3 +43,5 @@ Analytics必須在兩個層級啟用：
 * [建立您的第一個功能標幟](create-your-first-feature-flag.md)
 * [使用功能標幟的A/B測試](a-b-testing.md)
 * [建立功能群組](create-a-feature-group.md)
+
+<!-- -->
