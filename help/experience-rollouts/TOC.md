@@ -2,7 +2,8 @@
 audience: user
 user-guide-title: Adobe體驗轉出
 user-guide-description: 瞭解如何使用Adobe體驗轉出來管理應用程式中的功能標幟、受控轉出和目標發行。
-source-git-commit: 14b4d944830f8e3b3102152ae2ae36d3556f0804
+hide: true
+source-git-commit: 632654252181c4941632a0dbd1877e721a4d3a71
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 8%
