@@ -3,7 +3,7 @@ audience: user
 user-guide-title: 旗標
 user-guide-description: 瞭解如何使用Adobe Target中的旗標來管理應用程式的功能旗標、受控轉出和目標發行。
 hide: true
-source-git-commit: 99576412627fe4576dfd787c02cf5c3501a22d88
+source-git-commit: 8a3a8f0293e32db896f62a63ea6a886868ffe1a3
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 8%
@@ -59,5 +59,5 @@ ht-degree: 8%
    + [iOS擴充功能整合指南](guides/sdk-releases/ios/ios-extension-integration-guide.md)
 
 <!-- 
-Bob was here
+Bob was here again.
 -->
