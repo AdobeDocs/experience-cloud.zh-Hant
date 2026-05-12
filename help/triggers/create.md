@@ -2,9 +2,17 @@
 title: 建立和管理 Experience Cloud 觸發器
 description: 探索 Adobe Experience Cloud 觸發器 UI
 exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
-source-git-commit: 94ca96baaef706ace2ed131a5c2974371a5e0e57
+TQID: https://experienceleague.adobe.com/0EG1662w4P--X1uN3hH7JRBFrU0B5JU--LxP0T49tYY
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: 516
 ht-degree: 100%
 
 ---
@@ -13,13 +21,13 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->Adobe Experience Cloud 觸發器的新使用者介面已逐步向所有客戶推出。如需詳細資訊，請聯絡您的 Adobe 代表。
+>Adobe Experience Cloud 觸發器的新使用者介面已逐步向所有客戶推出。 如需詳細資訊，請聯絡您的 Adobe 代表。
 
-建立觸發器並設定觸發器的條件。例如，您可以指定造訪期間觸發器規則的條件，例如「購物車放棄」等量度，或產品名稱等維度。符合規則時，觸發器就會執行。
+建立觸發器並設定觸發器的條件。 例如，您可以指定造訪期間觸發器規則的條件，例如「購物車放棄」等量度，或產品名稱等維度。 符合規則時，觸發器就會執行。
 
 >[!NOTE]
 >
-> Experience Cloud 觸發器的新使用者介面提供一種直覺體驗來管理消費者行為和個人化使用者體驗。若要切換回之前的介面，請按一下&#x200B;**[!UICONTROL 進入傳統模式]**&#x200B;按鈕。
+> Experience Cloud 觸發器的新使用者介面提供一種直覺體驗來管理消費者行為和個人化使用者體驗。 若要切換回之前的介面，請按一下&#x200B;**[!UICONTROL 進入傳統模式]**&#x200B;按鈕。
 
 1. 在 Experience Cloud 中，依序選取解決方案切換器選單和&#x200B;**[!UICONTROL 觸發器]**。
 
@@ -31,7 +39,7 @@ ht-degree: 100%
 
    * **[!UICONTROL 捨棄]**：您可以建立觸發器，在訪客檢視產品但未新增任何產品至購物車時引發。
 
-   * **[!UICONTROL 動作]**：您可以建立觸發器，在電子報註冊、電子郵件訂閱或信用卡申請 (確認) 等動作後引發。如果您是零售商，可針對註冊忠誠度計畫的訪客建立觸發器。若為媒體和娛樂產業，可針對觀看特定節目的訪客建立觸發器，而您可能會想透過意見調查給予回應。
+   * **[!UICONTROL 動作]**：您可以建立觸發器，在電子報註冊、電子郵件訂閱或信用卡申請 (確認) 等動作後引發。 如果您是零售商，可針對註冊忠誠度計畫的訪客建立觸發器。 若為媒體和娛樂產業，可針對觀看特定節目的訪客建立觸發器，而您可能會想透過意見調查給予回應。
 
    * **[!UICONTROL 工作階段開始和工作階段結束]**：針對工作階段開始和工作階段結束事件建立觸發器。
 
@@ -39,13 +47,13 @@ ht-degree: 100%
 
 1. 為您的觸發器新增&#x200B;**[!UICONTROL 名稱]**&#x200B;和&#x200B;**[!UICONTROL 描述]**。
 
-1. 選取用於此觸發器的 Analytics **[!UICONTROL 報表套裝]**。此設定可識別要使用的報表資料。
+1. 選取用於此觸發器的 Analytics **[!UICONTROL 報表套裝]**。 此設定可識別要使用的報表資料。
 
    [進一步瞭解報表套裝](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=zh-Hant){target="_blank"}。
 
 1. 選擇&#x200B;**[!UICONTROL 無動作後觸發]**&#x200B;有效期限。
 
-1. 從&#x200B;**[!UICONTROL 造訪必須包括]**&#x200B;和&#x200B;**[!UICONTROL 造訪不得包括]**&#x200B;類別，您可以定義準則或您想要或不想要發生的訪客行為。您可以在條件內或條件之間指定 **And** 或 **Or** 邏輯，取決於您決定的準則。
+1. 從&#x200B;**[!UICONTROL 造訪必須包括]**&#x200B;和&#x200B;**[!UICONTROL 造訪不得包括]**&#x200B;類別，您可以定義準則或您想要或不想要發生的訪客行為。 您可以在條件內或條件之間指定 **And** 或 **Or** 邏輯，取決於您決定的準則。
 
    例如，簡單的購物車丟棄觸發器的規則可能是：
 
@@ -54,7 +62,7 @@ ht-degree: 100%
 
    ![](assets/triggers_2.png)
 
-1. 按一下&#x200B;**[!UICONTROL 容器]**&#x200B;以建立和儲存定義觸發器的規則、條件或篩選器。若要讓事件同時發生，必須將事件放在相同的容器中。
+1. 按一下&#x200B;**[!UICONTROL 容器]**&#x200B;以建立和儲存定義觸發器的規則、條件或篩選器。 若要讓事件同時發生，必須將事件放在相同的容器中。
 
    每個容器在點擊層獨立處理，這表示如果兩個容器以 **[!UICONTROL And]** 運算子結合，只有當兩個點擊都符合需求時，規則才會符合資格。
 
@@ -68,6 +76,6 @@ ht-degree: 100%
 
    ![](assets/triggers_4.png)
 
-1. 從觸發器的詳細檢視中，您可以存取有關觸發了多少觸發器的報告。如果需要，您可以使用鉛筆圖示編輯觸發器。
+1. 從觸發器的詳細檢視中，您可以存取有關觸發了多少觸發器的報告。 如果需要，您可以使用鉛筆圖示編輯觸發器。
 
    ![](assets/triggers_5.png)

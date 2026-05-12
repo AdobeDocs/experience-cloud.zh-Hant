@@ -5,9 +5,21 @@ audience: reporting
 content-type: reference
 level: Intermediate
 exl-id: a12dc772-13c7-45ff-9fbf-3dfdd3801eae
-source-git-commit: 5da9b29c424f019f3dafc127a41e974017af494c
+TQID: https://experienceleague.adobe.com/eru99ME-JlrcRl074heBXwVhBLgeQJaQdiJkM-QT2SY
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: 517
 ht-degree: 3%
 
 ---
@@ -28,7 +40,7 @@ ht-degree: 3%
 
    ![](assets/custom_field_1.png)
 
-1. 識別您的自訂收件者綱要並加以選取。 如果您尚未擴充內建的nms：recipient結構描述，請參閱[此程式](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
+1. 識別您的自訂收件者綱要並加以選取。 如果您尚未擴充內建nms:recipient結構描述，請參閱[此程式](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
 
 1. 將您的自訂欄位新增到結構描述編輯器。
 
@@ -42,7 +54,7 @@ ht-degree: 3%
 
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
-1. 然後，識別您的自訂broadLogRcp結構描述並加以選取。 如果您尚未擴充內建的傳遞記錄結構描述，請參閱[此程式](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
+1. 然後，識別您的自訂broadLogRcp結構描述並加以選取。 如果您尚未擴充內建的傳遞記錄結構描述，請參閱[此程式](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/extend-schema)。
 
 1. 將和收件者結構描述相同的自訂欄位新增到結構描述編輯器。
 
@@ -50,7 +62,7 @@ ht-degree: 3%
 
 1. 按一下&#x200B;**[!UICONTROL 儲存]**。
 
-1. 若要套用對結構描述所做的修改，請透過&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL 進階]** > **[!UICONTROL 更新資料庫結構]**&#x200B;啟動資料庫更新精靈，然後執行更新資料庫結構。 [了解更多](https://experienceleague.adobe.com/zh-hant/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
+1. 若要套用對結構描述所做的修改，請透過&#x200B;**[!UICONTROL 工具]** > **[!UICONTROL 進階]** > **[!UICONTROL 更新資料庫結構]**&#x200B;啟動資料庫更新精靈，然後執行更新資料庫結構。 [了解更多](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/developer/shemas-forms/update-database-structure)
 
    ![](assets/custom_field_4.png)
 
@@ -94,7 +106,7 @@ ht-degree: 3%
 
    ![](assets/custom_field_8.png)
 
-1. 在&#x200B;**[!UICONTROL Dimension]**&#x200B;類別中，按一下&#x200B;**[!UICONTROL 設定檔]**，然後將您的設定檔維度拖放至您的自由表格。
+1. 在&#x200B;**[!UICONTROL 維度]**&#x200B;類別中，按一下&#x200B;**[!UICONTROL 設定檔]**，然後將您的設定檔維度拖放至自由表格。
 
    ![](assets/custom_field_9.png)
 

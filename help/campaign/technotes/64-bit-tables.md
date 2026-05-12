@@ -3,9 +3,14 @@ title: Adobe Campaign網頁使用者介面
 description: 64位元表格
 badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: ab5f01fd-4ad5-46e9-b132-011fe0f7bbd2
-source-git-commit: 6baa9bef7eae1ab8ffe9ecd426c6ba4580e8c9d7
+TQID: https://experienceleague.adobe.com/D0f4gYkyUcNVpGxpvj3JrBGRyIAgSq1mF7R4ld5COmk
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 6%
 
 ---
