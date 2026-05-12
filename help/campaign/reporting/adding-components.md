@@ -3,11 +3,16 @@ title: 新增元件
 description: 將元件拖放至您的自由表格，以開始篩選資料並建立報表。
 audience: end-user
 level: Intermediate
-badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限Campaign Standard已移轉的使用者"
+badge: label="可用性限制" type="Informative" url="../campaign-standard-migration-home.md" tooltip="僅限已移轉Campaign Standard的使用者使用"
 exl-id: 2b22f147-ed75-40ca-8859-8f4b23bca7c3
-source-git-commit: 34c6f8a137a9085b26c0ea8f78930cff6192cfc9
+TQID: https://experienceleague.adobe.com/Mq7ZEHuTsJVuPF8x-wz4452BJ61ffImgSIVtkIgiokM
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 294
 ht-degree: 4%
 
 ---
@@ -24,7 +29,7 @@ ht-degree: 4%
 
    元件表格分為四個類別：
 
-   * **Dimension**：從傳遞記錄檔取得詳細資料，例如收件者的瀏覽器或網域，或傳遞成功。
+   * **維度**：從傳遞記錄檔取得詳細資料，例如收件者的瀏覽器或網域，或傳遞成功。
    * **量度**：取得訊息狀態的詳細資料。 例如，是否已傳送訊息且使用者是否已將其開啟。
    * **[!UICONTROL 區段]**：根據收件者的年齡範圍篩選資料。 **[!UICONTROL 區段]**&#x200B;可以直接拖放到自由表格或面板的頂端列中。
 
