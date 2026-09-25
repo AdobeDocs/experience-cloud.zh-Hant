@@ -6,16 +6,15 @@ exl-id: 31ea97e7-b0a0-4a92-bc69-a458fdbc1d7c
 TQID: https://experienceleague.adobe.com/cBUtLbfjHHnFO2SMjh0bVDJNZFJlnGolwSShLZ0hIew
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: CX Enterprise
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 100%
-
 ---
-
 # Adobe Deliverability Services {#deliv-home}
 
-交付顧問和營運團隊必須執行多項活動來幫助客戶提高電子郵件的傳遞性。 在對所有傳遞性功能進行分析後發現，雖然大多數功能可以直接提供給客戶，但有些功能應該僅限於 Adobe 交付團隊。 為了向客戶提供更快更好的交付服務，我們決定建立一個 UI 式交付應用程式，作為交付團隊的一站式解決方案。 使用此應用程式，交付團隊將能夠為客戶歷程管理系列中的多個產品 (即 Journey Optimizer、Campaign 和 Marketo) 的客戶提供服務。
+交付顧問和營運團隊必須執行多項活動來幫助客戶提高電子郵件的傳遞能力。 在對所有傳遞性功能進行分析後發現，雖然大多數功能可以直接提供給客戶，但有些功能應該僅限於 Adobe 交付團隊。 為了向客戶提供更快更好的交付服務，我們決定建立一個 UI 式交付應用程式，作為交付團隊的一站式解決方案。 使用此應用程式，交付團隊將能夠為客戶歷程管理系列中的多個產品 (即 Journey Optimizer、Campaign 和 Marketo) 的客戶提供服務。
 
 目前提供以下功能：
 

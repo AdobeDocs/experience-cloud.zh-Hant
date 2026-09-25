@@ -5,18 +5,20 @@ exl-id: c0d04e95-2bac-41c7-8ce4-28282695abc8
 TQID: https://experienceleague.adobe.com/0EG1662w4P--X1uN3hH7JRBFrU0B5JU--LxP0T49tYY
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: Reporting
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 516
+source-wordcount: '516'
 ht-degree: 100%
-
 ---
-
 # 建立 Experience Cloud 觸發器 {#create-triggers}
 
 >[!AVAILABILITY]
@@ -47,9 +49,9 @@ ht-degree: 100%
 
 1. 為您的觸發器新增&#x200B;**[!UICONTROL 名稱]**&#x200B;和&#x200B;**[!UICONTROL 描述]**。
 
-1. 選取用於此觸發器的 Analytics **[!UICONTROL 報表套裝]**。 此設定可識別要使用的報表資料。
+1. 選取用於此觸發器的 Analytics **[!UICONTROL 報表套裝]**。 此設定可識別要使用的報告資料。
 
-   [進一步瞭解報表套裝](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html?lang=zh-Hant){target="_blank"}。
+   [進一步瞭解報表套裝](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/c-new-report-suite/t-create-a-report-suite.html){target="_blank"}。
 
 1. 選擇&#x200B;**[!UICONTROL 無動作後觸發]**&#x200B;有效期限。
 
@@ -76,6 +78,6 @@ ht-degree: 100%
 
    ![](assets/triggers_4.png)
 
-1. 從觸發器的詳細檢視中，您可以存取有關觸發了多少觸發器的報告。 如果需要，您可以使用鉛筆圖示編輯觸發器。
+1. 從觸發器的詳細檢視中，您可以存取有關已觸發多少次觸發程序的報告。 如果需要，您可以使用鉛筆圖示編輯觸發器。
 
    ![](assets/triggers_5.png)
