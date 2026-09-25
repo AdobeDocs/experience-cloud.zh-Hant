@@ -5,15 +5,15 @@ exl-id: ac559a28-4444-4326-ba92-78afd10ed9ab
 TQID: https://experienceleague.adobe.com/KaFci2oowPXO8w8SZORK-sn-LYZd1TM2Y3JFcISsQZM
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: Security
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 434
+source-wordcount: '434'
 ht-degree: 100%
-
 ---
-
 # Software Distribution
 
 了解如何使用 Software Distribution 下載 Adobe Experience Cloud 軟體。
@@ -46,7 +46,7 @@ Software Distribution 使用者介面會按產品排列項目，如選單所示�
 
 前往「**一般**」分頁，您可以在該分頁找到一般用途軟體的下載項目。
 
-找出您要下載的軟體，然後點選選單中的產品。 只有您的組織已授權的產品才可供下載。
+點選選單中您要下載軟體的產品。 只有您的組織已授權的產品才可供下載。
 
 ## 尋找下載項目 {#finding}
 

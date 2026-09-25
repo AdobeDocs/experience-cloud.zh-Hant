@@ -6,18 +6,17 @@ exl-id: 40aef987-52a3-470b-88ca-c716a116bdfc
 TQID: https://experienceleague.adobe.com/gCmvM2zwg-6CmT-O1HjM24niis-mJRnJEXt3LunUZaI
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: ad84694f2f6f45e4ee30fc51379106835ac302be
+    internal-label: CX Enterprise
+source-git-commit: 4d6fa2af9541ffd61bfe4b26a84e574ea6a634c8
 workflow-type: tm+mt
-source-wordcount: 630
+source-wordcount: '630'
 ht-degree: 100%
-
 ---
-
 # 全球禁止名單 {#global-suppression-list}
 
 禁止名單包含客戶要從傳遞中排除的電子郵件地址，因為傳送給這些聯絡人可能會損害他們的傳送信譽和傳遞率。 目前，Adobe 保有一份更新清單，當中列有已證明對參與度和郵寄信譽有害的已知不良電子郵件地址，並且會確保不將電子郵件傳送到這些地址。 此清單在所有 Adobe 客戶通用的全球禁止名單中進行管理。 全球禁止名單中包含的地址和網域名稱都會隱藏起來。 傳遞報告中僅顯示排除的收件者人數。
 
-現在可以從內部可用的介面管理全球禁止名單。 此清單僅由交付顧問維護。 全球禁止名單可以包括電子郵件或網域地址。
+現在可以從內部可用的介面管理全球禁止名單。 此清單僅由傳遞能力顧問維護。 全球禁止名單可以包括電子郵件或網域地址。
 
 ## 存取全球禁止名單
 
@@ -58,7 +57,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >此欄位允許包含 32 到 126 個字元之間組成的所有 ASCII 可列印字元。 例如，完整清單可在[此頁面](https://zh.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}中找到。
+   >此欄位允許使用介於 32 到 126 之間的所有 ASCII 可列印字元。 例如，完整清單可在[此頁面](https://zh.wikipedia.org/wiki/Wikipedia:ASCII#ASCII_printable_characters){target="_blank"}中找到。
 
 1. 按一下「**[!UICONTROL 提交]**」進行確認。
 
